@@ -1,8 +1,16 @@
 {
-  "version": "0.0.0",
-  "name": "Society Sunlit Valley",
+  "version": "20260913-0426",
+  "name": "mirror",
   "changelog": "",
   "ignore": [],
   "delete": [],
-  "files": []
+  "files": [
+    {
+      "path": "mods/hello.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/test-release/mods_hello.jar",
+      "sha256": "07af8c2a71a7e53c658f36ac7f188e095bba6736699732f5ca6ca8ff9f1e757f",
+      "size": 24,
+      "side": "both"
+    }
+  ]
 }
