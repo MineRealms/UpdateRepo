@@ -1,17 +1,59 @@
 {
-  "version": "20260913-0531",
+  "version": "20260914-0543",
   "name": "",
   "changelog": "",
   "ignore": [],
   "delete": [
-    "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar"
+    "versions/HMCL-3.10.0.318.jar"
   ],
   "files": [
     {
-      "path": "versions/HMCL-3.10.0.318.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_HMCL-3.10.0.318.jar",
-      "sha256": "d878af8a6c9ee9a9feb9fc9b69f53f7baf042163967dcd3dca49c3087ffda3ba",
-      "size": 8604144,
+      "path": "ModpackUpdater-all.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/ModpackUpdater-all.jar",
+      "sha256": "e9c7393f9cbc73db0bbbeff922eebf4ad2c121d2e38171521a992a3ff3b9eb91",
+      "size": 381045,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/GTMFO_INTEGRATION.md",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_GTMFO_INTEGRATION.md",
+      "sha256": "03abda8397fbbb1a5cac197aa32af0209bb871bcc919866476902c10cb5de88e",
+      "size": 20449,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/hmclversion.cfg",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_hmclversion.cfg",
+      "sha256": "a9d1fb044ad8fe88ebf3a5f77b0debc212ccc1c7539ae7eb9e2fb8b14779b880",
+      "size": 940,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/addGtmfoGtRecipes.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_addGtmfoGtRecipes.js",
+      "sha256": "f92affe14e6b9ef41995d995cf146685aea2aed6b3fd2a0529bb8f10de05ac4e",
+      "size": 3201,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/addGtmfoRecipes.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_addGtmfoRecipes.js",
+      "sha256": "5a4e311e65194b321f6662f6e765a9a97e992c594861e787fe478288459822c8",
+      "size": 7111,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/handleGtmfoTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_handleGtmfoTags.js",
+      "sha256": "379c93607ca3182b94440119bb5dceea9d68090357385ca2a67de08bd81f1250",
+      "size": 8095,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/gtmfoTrades.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_gtmfoTrades.js",
+      "sha256": "340f1a3786d75abec8995bf55a2c54198a31a1ea5e87bbdaa0e422c80d95ecb3",
+      "size": 5461,
       "side": "both"
     },
     {
@@ -89,6 +131,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_GTMAdvancedHatch-NOVAFork-1.20.1-0.2.0.jar",
       "sha256": "23dcd3885cfa4b5e441479b966d3d478d32b5a0d51cf2b9f4c086573d325b222",
       "size": 1898760,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.5.jar",
+      "sha256": "ffa432d2799836a69d991bc742ad96e315a8c3d564ec6b0cb952693ba539a1a1",
+      "size": 2463299,
       "side": "both"
     },
     {
