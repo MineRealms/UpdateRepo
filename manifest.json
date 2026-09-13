@@ -4,7 +4,8 @@
   "changelog": "",
   "ignore": [],
   "delete": [
-    "versions/HMCL-3.10.0.318.jar"
+    "versions/HMCL-3.10.0.318.jar",
+    "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar"
   ],
   "files": [
     {
