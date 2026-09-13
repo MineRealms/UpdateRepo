@@ -1,5 +1,5 @@
 {
-  "version": "20260914-0543",
+  "version": "20260914-0630",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -137,8 +137,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.5.jar",
-      "sha256": "ffa432d2799836a69d991bc742ad96e315a8c3d564ec6b0cb952693ba539a1a1",
-      "size": 2463299,
+      "sha256": "b662f61b2dc5bc261ce68dcd11129996d426b7a36955c9dc2ba1da25c479728c",
+      "size": 2463378,
       "side": "both"
     },
     {
