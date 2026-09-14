@@ -1,11 +1,12 @@
 {
-  "version": "20260915-0034",
+  "version": "20260915-0208",
   "name": "",
   "changelog": "",
   "ignore": [],
   "delete": [
     "versions/HMCL-3.10.0.318.jar",
-    "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar"
+    "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar",
+    "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.20.0.129.jar"
   ],
   "files": [
     {
@@ -405,13 +406,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_guideme-20.1.14.jar",
       "sha256": "a0ba5a0288dab6e413f1456de8dd162f9479146ee681569837f6d6b17930a0e2",
       "size": 9413204,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.20.0.129.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_jei-1.20.1-forge-15.20.0.129.jar",
-      "sha256": "5e5af05aa082f5844c7b3ed0b3bd9374e160ae1914906f71d90c5656e4e80039",
-      "size": 1409642,
       "side": "both"
     },
     {
