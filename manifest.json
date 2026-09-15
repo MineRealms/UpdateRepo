@@ -1,21 +1,15 @@
 {
-  "version": "20260915-0428",
+  "version": "20260915-0813",
   "name": "",
   "changelog": "",
   "ignore": [],
   "delete": [
     "versions/HMCL-3.10.0.318.jar",
     "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar",
-    "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.20.0.129.jar"
+    "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.20.0.129.jar",
+    "ModpackUpdater-all.jar"
   ],
   "files": [
-    {
-      "path": "ModpackUpdater-all.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/ModpackUpdater-all.jar",
-      "sha256": "e9c7393f9cbc73db0bbbeff922eebf4ad2c121d2e38171521a992a3ff3b9eb91",
-      "size": 381045,
-      "side": "both"
-    },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ev__extreme_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ev__extreme_voltage.snbt",
@@ -241,6 +235,363 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/acetaldehyde.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_acetaldehyde.json",
+      "sha256": "473a571bbe7fe5dbc31db731f1aa9a89bbebf6e362f0da45c5c7194ded2cb8d9",
+      "size": 588,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ammonia.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ammonia.json",
+      "sha256": "36c49a150ca350889bd82efdbbdd4924c3f8976637a59f567fa81ee343f257a9",
+      "size": 832,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ammonium_chloride.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ammonium_chloride.json",
+      "sha256": "ee6254a7a436a8a002e11342ea6b540fb4430d343dc2f131fc8230daa24e7398",
+      "size": 1157,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ammonium_perchlorate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ammonium_perchlorate.json",
+      "sha256": "0fe8debcd38a717f287242e79564abbdc14dcb6de9795420fb89de8d02ae8ada",
+      "size": 2156,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/arsenic_trioxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_arsenic_trioxide.json",
+      "sha256": "4d4a70b4d4daef750795575b3333ddcc28b4c321b86f9ce49f27dee1fc592a0b",
+      "size": 1105,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/blue_vitriol.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_blue_vitriol.json",
+      "sha256": "0a6605af6fd27d2d925205ae097e4ca74c29d4b429389f1fa2343a9925c1837a",
+      "size": 1223,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/carbon_dioxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_carbon_dioxide.json",
+      "sha256": "bc2f4bc4988537109d5c2426e1984dff3cd7c3c0a14a9b7140c069d170870837",
+      "size": 657,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/carbon_monoxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_carbon_monoxide.json",
+      "sha256": "03a496006e6a8c39f4c452ce9f413a02fcb380b2342380ca9d89d53464ef26d4",
+      "size": 401,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/chloroauric_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_chloroauric_acid.json",
+      "sha256": "630fdbc3a98decf1c9508706b4e2a50120d786ba43161d2c17746d41ba50f83a",
+      "size": 1072,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/citric_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_citric_acid.json",
+      "sha256": "ea6efdae490a6730e5495a943323b7a3870a25d1c417710e2efb71c362843f48",
+      "size": 3883,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/codeine.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_codeine.json",
+      "sha256": "f8be71f07986b6e7bc09df40c389ceea3cf4bedf1fb54f689b3ec8d28d8e1002",
+      "size": 4568,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/cupric_hydrogen_arsenite.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_cupric_hydrogen_arsenite.json",
+      "sha256": "8075eec223dfbe75c37267152bd300c95fa74e8ce50b06181dba6ee451ea3e5d",
+      "size": 1194,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/dimethylamine.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_dimethylamine.json",
+      "sha256": "d97b52e0c3d33d2e9f855de4139360c740af4fbcf470a29ea5783745c50af135",
+      "size": 782,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/diphenylamine.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_diphenylamine.json",
+      "sha256": "16ee61bd5b21b3e137da67268626a20b0d815c18323c84722329e0c1cccb312d",
+      "size": 1152,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/glyoxal.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_glyoxal.json",
+      "sha256": "c7e1a0aa0f233ed5a8c60dd374060d6c80b5fb9412bd3d915e368134390e6590",
+      "size": 819,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/glyoxylic_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_glyoxylic_acid.json",
+      "sha256": "836c97ee105f7ae19f86fd0d4f4a977ac4425ac329dd866a12debb694ecb9e23",
+      "size": 1329,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/guaiacol.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_guaiacol.json",
+      "sha256": "96c0890bf00bb337a799c99ddb4f71d3015b94b7c2aabbf6376b81e7d93e5a8c",
+      "size": 1223,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/hydrochloric_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_hydrochloric_acid.json",
+      "sha256": "8e7053f7abc4041faba777f9291a0bf496942dbc190e8fb8bb6b4bafcfbaa5f9",
+      "size": 368,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/hydrogen_cyanide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_hydrogen_cyanide.json",
+      "sha256": "b9c38b03807669622faa7bac4591ed80cc85f93a2d063b3ac811313acf20ef83",
+      "size": 657,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/hydrogen_sulfide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_hydrogen_sulfide.json",
+      "sha256": "e3e3dbb040a89427d3073ed3be57158fe900d76fbdd5f7997d8fab450c7000dc",
+      "size": 605,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ii_nitrophenol.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ii_nitrophenol.json",
+      "sha256": "9f0023f8087d37b09e9ca9102a915b153b00e242ac90e2e3a211247c1725b313",
+      "size": 1498,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/isopropyl_chloride.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_isopropyl_chloride.json",
+      "sha256": "238cad0c58ed7df04498b3e2b5a19b2b387b486877ee766d5015b0e9038b1ccd",
+      "size": 750,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/iv_nitrophenol.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_iv_nitrophenol.json",
+      "sha256": "259b01b34a96e38eb89090a9f5733384aa5e1c4a17e4b3ada9f42116c63d9d0e",
+      "size": 1499,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/lithium_carbonate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_lithium_carbonate.json",
+      "sha256": "846166264b512c5f309f505858dbdeb051cc00d8bcde27df5f14d70f264d8205",
+      "size": 1104,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/lithium_oxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_lithium_oxide.json",
+      "sha256": "1c611412c7fbe77b40eae458ae702e7b6fb7fad43a92da320d055c275c4f761b",
+      "size": 623,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/nitric_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_nitric_acid.json",
+      "sha256": "337886addd192e6c60fef3ebb63bdca6cfb1f241ce9224c4d5cabb4e5def02c6",
+      "size": 1091,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/nitrogen_dioxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_nitrogen_dioxide.json",
+      "sha256": "8472ed865a216cbdeea053c8ef4f332e1750a65b377a733d1272c06e60c127e9",
+      "size": 639,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/nitrous_oxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_nitrous_oxide.json",
+      "sha256": "8771f5d4e9713ae572bd4b904b8fa620524c1d92d9157f9f2abe91013943e403",
+      "size": 657,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/paracetamol.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_paracetamol.json",
+      "sha256": "109857798af08326576a237f318fe055f8bc998ecd9943019dcce513ccb5613b",
+      "size": 1937,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/perchloric_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_perchloric_acid.json",
+      "sha256": "c213c417bbf5bc01e9dbe73d125e899f8709ba0c0472e83372fcd6f16fa5af0d",
+      "size": 1373,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/phenothiazine.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_phenothiazine.json",
+      "sha256": "85f3ea00c119e5bbbb669339d8cdfce66f3c59fab458722ce6e2a9382f24e626",
+      "size": 1508,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/potassium_perchlorate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_potassium_perchlorate.json",
+      "sha256": "3d8f7e4949d2e54e107e57851b9f07e7ffde74a90a6a3d14bc389f3848a2f3a3",
+      "size": 1241,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/promethazine.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_promethazine.json",
+      "sha256": "4e53cd00127368222d5b2e85a9e80cedb294dbda1fd6e9c9284d8f8683ea189e",
+      "size": 2600,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_arsenite_solution.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_arsenite_solution.json",
+      "sha256": "35fc456f661df51bdda66888cbe7d2b3f62675629f9d06f9f2186c1e3e19fb85",
+      "size": 754,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_bicarbonate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_bicarbonate.json",
+      "sha256": "899e87b20e8dea9df01f8b158e92b2dc0c8457514619e8fbe3190a87ef05f349",
+      "size": 1211,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_chlorate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_chlorate.json",
+      "sha256": "e61fd3805c54b22c0545b8c2799110e928856a680623d2c9650aeb94a56c948b",
+      "size": 985,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_chloride.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_chloride.json",
+      "sha256": "8b642382ae92f32c4b562cf7d0f4fd6f599521171a8248d2aedd840eaa37963a",
+      "size": 367,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_cyanide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_cyanide.json",
+      "sha256": "688a862f79f7ab1a7c3977893a093f51989b32063d920585275928e2627ec2dc",
+      "size": 521,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_hydroxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_hydroxide.json",
+      "sha256": "9e683a5657e006a0860c07f8c0823c5c5421ec715fe7f82f5b5147f328cfa442",
+      "size": 481,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_perchlorate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_perchlorate.json",
+      "sha256": "41d542df9bef32ced280d64033082a6ee573c3db2d39b0ab3049511b9e1e43e7",
+      "size": 1242,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_stearate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_stearate.json",
+      "sha256": "6dc68f543dc8699f2254c59b8b4ff8984d42588be01339a62113706d26a9ab5f",
+      "size": 4311,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_sulfate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_sulfate.json",
+      "sha256": "b94280683a319d7d5a7cd7ba4fd162c998de2fa5652c5425d216e2fec687d5e2",
+      "size": 1343,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/stearin.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_stearin.json",
+      "sha256": "ded3b3072442fb6bc481f9f095317de0788e0950fff181b885a70f563296be1a",
+      "size": 13838,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sulfuric_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sulfuric_acid.json",
+      "sha256": "d225f556bd06a912307c72b5ab6490789cd6fcddf5c40856221a052c59fada2d",
+      "size": 1573,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sulfur_dioxide.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sulfur_dioxide.json",
+      "sha256": "6ae6c4b06ab6ffb0c0464b37f03b1cbede73d7e00b5f23594823d457366b0ce5",
+      "size": 657,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/tricalcium_phosphate.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_tricalcium_phosphate.json",
+      "sha256": "bf32e43777825441613641c48bb75a1865f98fe2e6b41912c609f0498cc9df4f",
+      "size": 2524,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/vanilglycolic_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_vanilglycolic_acid.json",
+      "sha256": "3cb6ce2a6f573e0d01bce07444102f859baf9319c0e071e0af6c89fef1fe0bb2",
+      "size": 2655,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/vanillin.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_vanillin.json",
+      "sha256": "44bb8a1d569ec05e8035410c0d6c6288d43879a82a2f0f86fd3fb526b5a0381c",
+      "size": 1696,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/vanillylmandelic_acid.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_vanillylmandelic_acid.json",
+      "sha256": "e0bfee9a93cd8d51f7b27944adba336b0de77016ea783b37e0af13a56282c551",
+      "size": 2875,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/water.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_water.json",
+      "sha256": "cb24806e01fbe967a080cc1e6711667cb2fc791aa2e047f9843acf77b3b5dcad",
+      "size": 605,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/x_phenothiazine_ii_propyl_chloride.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_x_phenothiazine_ii_propyl_chloride.json",
+      "sha256": "5849ffa4fbc3a304aa7257dac41d10f2e286d2d9b50eddca62b8adceb5bc04be",
+      "size": 2163,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/oreVeins.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_oreVeins.js",
       "sha256": "21a0893a54665483c45a5dae05e38f21f53c13aa6cd1f9b96ea587bdd34e2221",
@@ -287,6 +638,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_applied-botanics-forge-1.5.2.jar",
       "sha256": "b6003288ca4e41e4def0390665167ece13aaf548bf6da8941084221d0cf8d5c2",
       "size": 255276,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/Applied-Mekanistics-1.4.2.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Applied-Mekanistics-1.4.2.jar",
+      "sha256": "957e59989cc8388bcc10c42c8f68c0f1e3afce8a066a02bb2b6d0f4d641cce55",
+      "size": 178447,
       "side": "both"
     },
     {
@@ -427,6 +785,34 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Mantle-1.20.1-1.11.117.jar",
       "sha256": "bcb9681f78dde0da7e63e92abb341dc0dc09503fc1ab78c96f9d40571edc240d",
       "size": 1652715,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/Mekanism-1.20.1-10.4.16.80.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Mekanism-1.20.1-10.4.16.80.jar",
+      "sha256": "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2",
+      "size": 12558456,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/MekanismAdditions-1.20.1-10.4.16.80.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MekanismAdditions-1.20.1-10.4.16.80.jar",
+      "sha256": "980a86196b872ca7a66a76d37fe2119097beb8e9cc7f0fad44aa0bb47f7d83a4",
+      "size": 1136805,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "sha256": "be2d5b8553f8638cfabf491002f95cef6acef210f627addb391f5af713502512",
+      "size": 1054586,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/MekanismTools-1.20.1-10.4.16.80.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MekanismTools-1.20.1-10.4.16.80.jar",
+      "sha256": "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb",
+      "size": 517999,
       "side": "both"
     },
     {
