@@ -1,5 +1,5 @@
 {
-  "version": "20260916-0007",
+  "version": "20260916-0249",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -12,7 +12,9 @@
     "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20708.jar",
     "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20708.jar",
     "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20708.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20708.jar"
+    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20708.jar",
+    "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
+    "versions/Society Sunlit Valley/mods/gtmfo-0.0.6.jar"
   ],
   "files": [
     {
@@ -842,10 +844,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.5.jar",
-      "sha256": "b662f61b2dc5bc261ce68dcd11129996d426b7a36955c9dc2ba1da25c479728c",
-      "size": 2463378,
+      "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.7.jar",
+      "sha256": "214ba75a787f698c5e0b22fe36b8e16f39efcf962f61fd26bae4b7c7c26b9178",
+      "size": 2488706,
       "side": "both"
     },
     {
