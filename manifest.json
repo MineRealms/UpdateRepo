@@ -1,5 +1,5 @@
 {
-  "version": "20260915-2355",
+  "version": "20260916-0007",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -18,29 +18,29 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ev__extreme_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ev__extreme_voltage.snbt",
-      "sha256": "c60986bf2286632594f8281d205cafa5da295b75a3a448e5933cfb95263de141",
-      "size": 63637,
+      "sha256": "18e3562f775837024bc6cc2df336b51dab59ce444113d5630dc60d0e3b4f29e3",
+      "size": 62521,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtceu.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtceu.snbt",
-      "sha256": "c0af684d3a017ef9907dca66308fba7db9632b6cc956d47ffb39b6ab9da053ff",
-      "size": 48166,
+      "sha256": "c1547ed16c237eb60ab96e40b7e0c50476223100c5f7cd14170b23af8f14491e",
+      "size": 47079,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/heating_coils.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_heating_coils.snbt",
-      "sha256": "576467ffc90bf77302f85a339ad0cd1de9b9f0ca40be5639dcb8746275b6b252",
-      "size": 3733,
+      "sha256": "eb6fa6e9ac2900d93eb36eb8264dc0c4d254e429269b9bc304ef3c09887540a7",
+      "size": 3673,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/hv__high_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_hv__high_voltage.snbt",
-      "sha256": "391c6cf5673fe46acf3e396690574d40a4b9631a566c630e57641053191020a6",
-      "size": 45402,
+      "sha256": "9968c7e6d1a91af63c3feea5f2e801cc943f4cac799fb8ddc3a12501050138f4",
+      "size": 44479,
       "side": "both"
     },
     {
@@ -53,15 +53,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/iv__insane_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_iv__insane_voltage.snbt",
-      "sha256": "406e941284792d3f6a42b831cdf3640e24c4931057135d93ccd72b9cbc67a0b8",
-      "size": 32461,
+      "sha256": "b9206ba07f1fd1aba7641994524f3a162394599a9f88d824be53dac0fd6af763",
+      "size": 31821,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_luv__ludicrous_voltage.snbt",
-      "sha256": "ddf93722878fba8fdcda2ac4540d9d4d085a349d08067487eff6c4d657c9f33d",
-      "size": 35674,
+      "sha256": "cd24695212520cf08964f2ccf49d2b6d25e8531753b7cd81a10e826570b0b433",
+      "size": 35115,
       "side": "both"
     },
     {
@@ -81,57 +81,57 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/multiblock_dilemma.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_multiblock_dilemma.snbt",
-      "sha256": "f90670f3996c570c1b5a44639fe655965e0cf37e4799cb51a49e958d1b90d423",
+      "sha256": "cffab8082397829bfba576eb7d3bc37d82b4245aebc5123f26bd4b7e0e1af908",
       "size": 4996,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/mv__medium_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_mv__medium_voltage.snbt",
-      "sha256": "49b4d99ee57f3d76ed9eec8054feb902a20e73f885735fb6e90d3d6cd2b84c23",
-      "size": 81101,
+      "sha256": "359eae415f8da8116fce44f9465b343bd3001758a780677d44e051de8bef6665",
+      "size": 79555,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "dd0ac6080b101d3eaa7f1bcad3e4188e96e83c553059a74721709241a1d4b244",
-      "size": 31401,
+      "sha256": "0bdef5d29b4d694c5ccf43843be85e7910d11830e2a2c73d25ea0d472fa9f080",
+      "size": 31357,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_processing.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_processing.snbt",
-      "sha256": "a57e8bb511c3450d6285d4f7a13281441895f5005f7e59c3e272e63ffd14dfb3",
-      "size": 16845,
+      "sha256": "f80513db090e6c1532c94fc8d550a15ac207e2d718910106a6adc520be5f7a3a",
+      "size": 16547,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/progression.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_progression.snbt",
-      "sha256": "943eb86fe583a64b94553986b4bdf580adf7ea70e0e54de271afd9181360edec",
+      "sha256": "f66c9d91c1594e4e2a0170c7224ff5449cd05f3cacb0fa590de27f253bf7ee59",
       "size": 12615,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/renewability_and_you.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_renewability_and_you.snbt",
-      "sha256": "02d1f9d3d23e263535afb29d2abf4518b039279defba1933f15d7c2594a794fc",
-      "size": 14717,
+      "sha256": "14db6485f55bec0109284c9defae318d8f46db0d74c3635776612c76e2e3b77e",
+      "size": 14414,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/steam_age.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_steam_age.snbt",
-      "sha256": "a0ed90e62d434e528f3954a3ebc3ba8833801a614ceda1ee61d164477b4f06c6",
-      "size": 53020,
+      "sha256": "2767c850f6e93b4eb70353a0bfcc01fddfb05be0cec2b297d14398333ba40d20",
+      "size": 51844,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/tips_and_tricks_2.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_tips_and_tricks_2.snbt",
-      "sha256": "0122312ebd92606706bcf76afb1d09854eb3b248119a3c24717d2b1f0a922ec4",
-      "size": 35554,
+      "sha256": "25075caedd89f03542412ae4472c00630fcd87583d78a2534c671c837b21d3d8",
+      "size": 35272,
       "side": "both"
     },
     {
@@ -144,15 +144,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_uv__ultimate_voltage.snbt",
-      "sha256": "9836c7115b39cb12a61541fb0e8b119928214dfd8adfe00c521a4fc2d6858be6",
-      "size": 15224,
+      "sha256": "7687dad9cfff483f6de28bf7d6d0b3b3025330c36efde3c8a1f698938cd039cf",
+      "size": 14969,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/zpm__zero_point_module.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_zpm__zero_point_module.snbt",
-      "sha256": "b7f8d03944d9d73749f99ef2581d13cb278a3800b4b140bca76335d7adc2db23",
-      "size": 21898,
+      "sha256": "060c55845b1b02883f78b1bcaa3f14b6021d1ac54a64d20e60727b1df132d6e0",
+      "size": 21478,
       "side": "both"
     },
     {
@@ -228,8 +228,8 @@
     {
       "path": "versions/Society Sunlit Valley/GT_INTEGRATION.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_GT_INTEGRATION.md",
-      "sha256": "9890320464cc775d71498ca48b6596485bccbe0f05c6ed9bf44fbc442b1f0111",
-      "size": 10543,
+      "sha256": "bf34786664ae77fb4c0179d88ad76377025c7d58cf96e8332ddaf325781dd67f",
+      "size": 23650,
       "side": "both"
     },
     {
