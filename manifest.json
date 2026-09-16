@@ -1,5 +1,5 @@
 {
-  "version": "20260916-0249",
+  "version": "20260917-0507",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -622,8 +622,15 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/data/quality_food/tags/blocks/quality_blocks.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_quality_food_tags_blocks_quality_blocks.json",
-      "sha256": "df0a8526b8eeda3d9eb35514b415fbdf3e3f1fb4a64b4212ee34fa3a3a7d66bd",
-      "size": 2168,
+      "sha256": "5efce4bad4ad378e2919ae1b5d524d0fa3f7a9ade8c68976b20c31c3dc74b2d3",
+      "size": 2270,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/quality_food/tags/items/material_whitelist.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_quality_food_tags_items_material_whitelist.json",
+      "sha256": "99d9da01c809a2953522823aa62ec65ec4c205d115108f5685c7651cb0e8ac7f",
+      "size": 3371,
       "side": "both"
     },
     {
@@ -641,10 +648,24 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/entity_aspects/twilightforest_entities.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_entity_aspects_twilightforest_entities.json",
+      "sha256": "43ecf73805912385c9d4772268d2c094ca44f54d7516e20f5600bff9e74a97e8",
+      "size": 16475,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/pack_bridge_aspects.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_pack_bridge_aspects.json",
       "sha256": "b31f31cd60c96b8514d3e15430b128afbf9a1280a6f6c66c1f0ac3521ca5447a",
       "size": 1879,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/twilightforest_aspects.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_twilightforest_aspects.json",
+      "sha256": "1eb5e6d473efd568424d49942b4999df139d525a98db6c9a19bab0a536595bbc",
+      "size": 22430,
       "side": "both"
     },
     {
@@ -659,6 +680,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_zhopo_tags_worldgen_biome_has_structure_stone_mineshaft.json",
       "sha256": "ae6ba9d085b552e1ccf3e352e87e37d577e8af5b3fee750617d1ceee12401df8",
       "size": 67,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/entities/globalAnimalVariables.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_entities_globalAnimalVariables.js",
+      "sha256": "1a6893fb7f048eef560f830742e89bb63d3e14da39f47189939186893694e752",
+      "size": 3232,
       "side": "both"
     },
     {
@@ -718,6 +746,20 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/handleItemBlockFluidTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_handleItemBlockFluidTags.js",
+      "sha256": "aa9a5fd3ce2d235617ba2f2a89099bcdd83ab9b541c14ad882cca7c9fec0f0b7",
+      "size": 30912,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/tfSeasonsTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_tfSeasonsTags.js",
+      "sha256": "06f8c0ef84198dda1cf8c1168ebf8fd3d4ed9ae05d0aeffcae3b4d09925a5e67",
+      "size": 1515,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcGtCompat.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcGtCompat.js",
       "sha256": "851cb4d03d25dd24f54b98403be681434adfac323c6223e078c0cc62691db927",
@@ -729,6 +771,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcRecipes.js",
       "sha256": "28780f94af924fdfa81751d53ec8b5c6d3e96e1d16f69334f2e95f7a79548249",
       "size": 2803,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/globalNPCHandlers.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_globalNPCHandlers.js",
+      "sha256": "95539a2959d9d879cd895c662becc900c094a519333cf98d8536725bc2d70b49",
+      "size": 9023,
       "side": "both"
     },
     {
@@ -746,10 +795,24 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/husbandryDefinitions.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_husbandryDefinitions.js",
+      "sha256": "59e85e2657ce559cb83e16201f27290c9de7482c01d013e84c2fb5e75208f0cd",
+      "size": 17101,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/tc4Trades.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_tc4Trades.js",
       "sha256": "f83d4ff7cecabda8d8b7810f7ae5e5a680622de7b7c4ea3d65cb73e3d54edf82",
       "size": 1898,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/tfTrades.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_tfTrades.js",
+      "sha256": "a13b881c18a263165fe0b21dd9098deaec9311b5fa8011040b9b5f5d817daf97",
+      "size": 2939,
       "side": "both"
     },
     {
