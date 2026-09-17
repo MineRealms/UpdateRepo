@@ -1,5 +1,5 @@
 {
-  "version": "20260918-0700",
+  "version": "20260918-0733",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -15,7 +15,8 @@
     "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20708.jar",
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.6.jar",
-    "versions/Society Sunlit Valley/mods/Emojiful-Forge-1.20.1-4.2.0.jar"
+    "versions/Society Sunlit Valley/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
+    "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar"
   ],
   "files": [
     {
@@ -1034,10 +1035,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mae2-1.6.1.jar",
-      "sha256": "7b5743c012ae196a1b17d18c18a9673a606819b7513061547a898ebcc9563940",
-      "size": 353358,
+      "path": "versions/Society Sunlit Valley/mods/mae2-2.0.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mae2-2.0.1.jar",
+      "sha256": "8d46debbe05648f49be49f1f6af4dc874c9ebb0f43baa8c31585186f62290820",
+      "size": 452760,
       "side": "both"
     },
     {
