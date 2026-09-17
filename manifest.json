@@ -1,5 +1,5 @@
 {
-  "version": "20260917-2211",
+  "version": "20260918-0700",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -859,6 +859,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/ae2wtlib-15.2.3-forge.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ae2wtlib-15.2.3-forge.jar",
+      "sha256": "4b1797edb3307eca6c610c31b371d5a802c124d5052329d3454c065831298199",
+      "size": 213482,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/applied-botanics-forge-1.5.2.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_applied-botanics-forge-1.5.2.jar",
       "sha256": "b6003288ca4e41e4def0390665167ece13aaf548bf6da8941084221d0cf8d5c2",
@@ -887,6 +894,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/ExtendedAE-1.20-1.4.3-forge.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ExtendedAE-1.20-1.4.3-forge.jar",
+      "sha256": "0b5adaf148d0f8198273b3c26d1dea5bcb575c77604403ba92808c294728fcf1",
+      "size": 1538278,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20711.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20711.jar",
       "sha256": "ae1e411d2558dde22f91a5554222766d1ac78b262f90b058453f03b3f7a982c7",
@@ -898,6 +912,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gcyr-1.20.1-0.2.9.jar",
       "sha256": "86538eefc0b7bd2fb030ad658ecbeedf4e500e2ca0dbdb45a7f73614fd58c94c",
       "size": 1720922,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/Glodium-1.20-1.5-forge.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Glodium-1.20-1.5-forge.jar",
+      "sha256": "fc419cb5bf511750c0a2da498b925f5122ac4f78617aca6630fe80abf0b6f460",
+      "size": 60550,
       "side": "both"
     },
     {
@@ -1010,6 +1031,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ldlib-forge-1.20.1-1.0.52.a.jar",
       "sha256": "a9b0827d264e0d15f90482de0d4783a28fc2dad9dfb477f344dc5e959168838d",
       "size": 3125867,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mae2-1.6.1.jar",
+      "sha256": "7b5743c012ae196a1b17d18c18a9673a606819b7513061547a898ebcc9563940",
+      "size": 353358,
       "side": "both"
     },
     {
