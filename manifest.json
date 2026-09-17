@@ -1,5 +1,5 @@
 {
-  "version": "20260917-0720",
+  "version": "20260917-2211",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -18,6 +18,27 @@
     "versions/Society Sunlit Valley/mods/Emojiful-Forge-1.20.1-4.2.0.jar"
   ],
   "files": [
+    {
+      "path": "versions/Society Sunlit Valley/BOTANIA_INTEGRATION.md",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_BOTANIA_INTEGRATION.md",
+      "sha256": "7489a9eb0f73215df43b155aa496a36dcb9d98174757108cbbad1229f2eb8f4a",
+      "size": 5398,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fml.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fml.toml",
+      "sha256": "0a19f827abac613bbce62232a2e661aec4b4be1f972dbd23f52b5eb6826a972a",
+      "size": 1148,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/botania.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_botania.snbt",
+      "sha256": "a8cc8b78a14f7f13b33abb51584c9711f1db6e1ec77e5e2978d75cf1f5791a7e",
+      "size": 23544,
+      "side": "both"
+    },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ev__extreme_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ev__extreme_voltage.snbt",
@@ -252,15 +273,15 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquestlocalizer/lang/en_us.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquestlocalizer_lang_en_us.json",
-      "sha256": "a17f8473421ac864c5e7fa875f0641517409157eefe3ea2e5b6e82d6470ac6c8",
-      "size": 851993,
+      "sha256": "82c9032fcb958fad1c7ae99397a5a0c9d82575d586a38196957e5ce3fb371fbf",
+      "size": 852523,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquestlocalizer/lang/zh_cn.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquestlocalizer_lang_zh_cn.json",
-      "sha256": "14a18f5a46e49d31f684740ca239afa4b665380471407cebdfc7ca76d6a5f102",
-      "size": 819338,
+      "sha256": "c23305f17a1087040bdbac91abc4a29b6723c695140a5c23efc012f0715a7977",
+      "size": 819887,
       "side": "both"
     },
     {
@@ -621,6 +642,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/client_scripts/tooltips/botaniaGateTooltips.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_client_scripts_tooltips_botaniaGateTooltips.js",
+      "sha256": "d90eabaa77d44f1da805730a25f03b50bef1a5d76d6b1385acd9bb9fad9222c8",
+      "size": 600,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/longwings/tags/blocks/pollination_banned_crops.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_longwings_tags_blocks_pollination_banned_crops.json",
       "sha256": "24bdc9b6630deec4b55ef8b1f1d0a5ac50866973d6be3528052fec64a75c74cc",
@@ -672,8 +700,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/twilightforest_aspects.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_twilightforest_aspects.json",
-      "sha256": "1eb5e6d473efd568424d49942b4999df139d525a98db6c9a19bab0a536595bbc",
-      "size": 22430,
+      "sha256": "2bcfdcb6c8799650631be4a17a8ebf061a42cfb4cfdc53380546a56dbde7e755",
+      "size": 22229,
       "side": "both"
     },
     {
@@ -688,6 +716,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_zhopo_tags_worldgen_biome_has_structure_stone_mineshaft.json",
       "sha256": "ae6ba9d085b552e1ccf3e352e87e37d577e8af5b3fee750617d1ceee12401df8",
       "size": 67,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/botania/gateBotania.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_botania_gateBotania.js",
+      "sha256": "b8b1d10951f20dbf0ce07543b189e557bdfb457629c2d3e5fd5ec69130ce7720",
+      "size": 2774,
       "side": "both"
     },
     {
@@ -917,7 +952,7 @@
     {
       "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.7.jar",
-      "sha256": "214ba75a787f698c5e0b22fe36b8e16f39efcf962f61fd26bae4b7c7c26b9178",
+      "sha256": "52bd0cc5ce7089798b4b6fdb776cf185ebbb9934275f575911ecbf511527df1a",
       "size": 2488706,
       "side": "both"
     },
