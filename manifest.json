@@ -1,5 +1,5 @@
 {
-  "version": "20260918-0809",
+  "version": "20260922-2328",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -692,6 +692,20 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/farmingforblockheads/farmingforblockheads_compat/quark_saplings.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_farmingforblockheads_farmingforblockheads_compat_quark_saplings.json",
+      "sha256": "d88bf75e5d46e41da7a777c0c50a30fd8928533d7253c20c0912a063e3ac4c16",
+      "size": 561,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/forge/loot_modifiers/global_loot_modifiers.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_forge_loot_modifiers_global_loot_modifiers.json",
+      "sha256": "26bfe32a9cfd700841860980530ca1b01d3f02966be36d273398cb49d5f64df0",
+      "size": 40,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/items/freeze_resistant.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_gcyr_tags_items_freeze_resistant.json",
       "sha256": "345843631d363d6fb87b12a950a09435304024a060f0a870e35aad7aef761de0",
@@ -724,6 +738,20 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_quality_food_tags_items_material_whitelist.json",
       "sha256": "99d9da01c809a2953522823aa62ec65ec4c205d115108f5685c7651cb0e8ac7f",
       "size": 3371,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/relics/curios/entities/modifier.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_relics_curios_entities_modifier.json",
+      "sha256": "a25611fb9fb3789f2867aa720f41cfacfaab2e2d0c94ed599ca977511ac8b0e5",
+      "size": 144,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/curios/slots/clock.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_curios_slots_clock.json",
+      "sha256": "ba4422ee48955034f52593fa301c0e9d030a1bfe3e40d2359788d790a4c3b5ad",
+      "size": 31,
       "side": "both"
     },
     {
@@ -762,6 +790,34 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_copper_cluster_smelting.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_copper_cluster_smelting.json",
+      "sha256": "23bb2f321a3494b2011d10eb6941423a169d7ea5c97432bff01bca69bff6b0af",
+      "size": 254,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_lead_cluster_smelting.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_lead_cluster_smelting.json",
+      "sha256": "75bcc5747b117e276398972a439f2d6dbfbc9ecb71dd2d9a345afb88ee83a465",
+      "size": 246,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_silver_cluster_smelting.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_silver_cluster_smelting.json",
+      "sha256": "da30c97899cc6438fdca80f72af794db01b7956c79de8b10082ba13ccb84e472",
+      "size": 250,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_tin_cluster_smelting.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_tin_cluster_smelting.json",
+      "sha256": "6a257b914770b34d38398633724c9d6e644a4d40dcafad3169d6c7beba814b92",
+      "size": 244,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_zhopo_tags_worldgen_biome_has_structure_deepslate_mineshaft.json",
       "sha256": "80bc8ad9b269f6dd20d1bab39378b0ef0c0f6666d1eaa17f7d84214f791c9fba",
@@ -787,6 +843,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_entities_globalAnimalVariables.js",
       "sha256": "1a6893fb7f048eef560f830742e89bb63d3e14da39f47189939186893694e752",
       "size": 3232,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/fixRocketFuels.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_fixRocketFuels.js",
+      "sha256": "f072b6478b65664e1fd4af0ef5f3fef8b19404a9c9c3a3c059578e871acd1abb",
+      "size": 1310,
       "side": "both"
     },
     {
@@ -843,6 +906,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_oreVeins.js",
       "sha256": "21a0893a54665483c45a5dae05e38f21f53c13aa6cd1f9b96ea587bdd34e2221",
       "size": 13724,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt_demo.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_demo.js",
+      "sha256": "fe317879d7d686b617d732b92a46a56ad13228988ed809be4330d202153dd5af",
+      "size": 18949,
       "side": "both"
     },
     {
@@ -1158,6 +1228,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MekanismTools-1.20.1-10.4.16.80.jar",
       "sha256": "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb",
       "size": 517999,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/rosetta_remote_debug_bridge-1.0.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_rosetta_remote_debug_bridge-1.0.0.jar",
+      "sha256": "6a69ce6c68473524a4b3bebfff9bd360b7bbc885c9ce4e1f81edf637812b5390",
+      "size": 8802288,
       "side": "both"
     },
     {
