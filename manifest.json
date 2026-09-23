@@ -1,5 +1,5 @@
 {
-  "version": "20260922-2328",
+  "version": "20260924-0243",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -281,8 +281,8 @@
     {
       "path": "versions/Society Sunlit Valley/hmclversion.cfg",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_hmclversion.cfg",
-      "sha256": "a9d1fb044ad8fe88ebf3a5f77b0debc212ccc1c7539ae7eb9e2fb8b14779b880",
-      "size": 940,
+      "sha256": "8d04fdffc60aed520a3f17f03f31457b79d3067d730e06449c092ed9d2fcd929",
+      "size": 939,
       "side": "both"
     },
     {
