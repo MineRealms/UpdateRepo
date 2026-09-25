@@ -1,5 +1,5 @@
 {
-  "version": "20260924-0249",
+  "version": "20260925-0812",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -16,7 +16,9 @@
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.6.jar",
     "versions/Society Sunlit Valley/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
-    "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar"
+    "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar",
+    "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
+    "versions/Society Sunlit Valley/mods/gtmfo-0.0.8.jar"
   ],
   "files": [
     {
@@ -106,8 +108,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/mekanism.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_mekanism.snbt",
-      "sha256": "0a3e77d1c3a9208fc8adaf5581d2857013d9a4aa0585607b3c4572d1575080f3",
-      "size": 6491,
+      "sha256": "538a603be450e843db6ce1d188225850abccef88405f9087f3e6483355362ccd",
+      "size": 37426,
       "side": "both"
     },
     {
@@ -122,6 +124,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_mv__medium_voltage.snbt",
       "sha256": "0386b753c3bc4a8d96de64299e931731560d873d9a143c88b1757da0f3e84a00",
       "size": 79555,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/nutrition.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_nutrition.snbt",
+      "sha256": "c4f16ff0fb7525577674f78fef4b2ca4a4f239f076e356c99896b17b30d2da74",
+      "size": 2433,
       "side": "both"
     },
     {
@@ -265,10 +274,17 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/gtmfo.yaml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_gtmfo.yaml",
+      "sha256": "d27a3d62309d2f9553be850d51c3020f4debd4ff9e464811cbca49830569bf7d",
+      "size": 6585,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/GTMFO_INTEGRATION.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_GTMFO_INTEGRATION.md",
-      "sha256": "03abda8397fbbb1a5cac197aa32af0209bb871bcc919866476902c10cb5de88e",
-      "size": 20449,
+      "sha256": "83ac4c0ebe1c5d9a1e05fe5c4ff9d06c7e5bde68df5be2ab0da0d09549f9c3a0",
+      "size": 22420,
       "side": "both"
     },
     {
@@ -874,6 +890,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
+      "sha256": "eb9351e3a9cff9332dd271a069915eedf50f64974dc90efd1b75c4c3d5a3fa7e",
+      "size": 9708,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/createBridges.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_createBridges.js",
       "sha256": "d6e98839261be49f6cbd36c80b5c5ee07cd3af39a66c11f771c1af24739f95cb",
@@ -911,8 +934,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/mek/lockMekBehindGT.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_mek_lockMekBehindGT.js",
-      "sha256": "564797450298de31db1a7e2d282957ff21df792a1adfc74a86a75212756793d6",
-      "size": 2659,
+      "sha256": "8774cbe4276c47f2f1aacaaebf9d5445b257214b635f5409262263957cc685cb",
+      "size": 4614,
       "side": "both"
     },
     {
@@ -1119,10 +1142,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.7.jar",
-      "sha256": "52bd0cc5ce7089798b4b6fdb776cf185ebbb9934275f575911ecbf511527df1a",
-      "size": 2488706,
+      "path": "versions/Society Sunlit Valley/mods/gtmfo-0.0.9.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtmfo-0.0.9.jar",
+      "sha256": "854cadd387e225f39cc6d5381cb0cff9f45236af60c53fcc1474962d5150808a",
+      "size": 2526212,
       "side": "both"
     },
     {
