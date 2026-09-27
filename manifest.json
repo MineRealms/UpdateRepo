@@ -1,5 +1,5 @@
 {
-  "version": "20260925-0812",
+  "version": "20260927-1953",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -29,6 +29,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/everycomp-entries.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_everycomp-entries.toml",
+      "sha256": "a44ac4e40f6379380521d8481e5f0bad2608655594d5968d537d33800e20bc72",
+      "size": 6215,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/fml.toml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fml.toml",
       "sha256": "0a19f827abac613bbce62232a2e661aec4b4be1f972dbd23f52b5eb6826a972a",
@@ -40,6 +47,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ae2_overview.snbt",
       "sha256": "feca012be189e2bfa6bacbe87576e2a699be5452719758a6da0a4ef066636a40",
       "size": 19525,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/astral_sorcery.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_astral_sorcery.snbt",
+      "sha256": "170ef9432a1efd6fff2a654c76d84f3817580b9f392521acf9f3ea408f926282",
+      "size": 51722,
       "side": "both"
     },
     {
@@ -145,6 +159,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_processing.snbt",
       "sha256": "8105164bfdfd905d4c9357ae085b1b961ad9674c462d68095d58444143a29d14",
       "size": 16547,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/pollution.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_pollution.snbt",
+      "sha256": "602895651cc058309123225eaa8b9874966e375766aba07a90711790935ccfb6",
+      "size": 60719,
       "side": "both"
     },
     {
@@ -274,10 +295,45 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/astral_sorcery_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_astral_sorcery_ids.json",
+      "sha256": "81e8d2c5d9869f13b11d8b2ce5b4100337f99dc9d9898ae096f62fe588ff15a4",
+      "size": 9807,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_astral_sorcery_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_astral_sorcery_chapter.py",
+      "sha256": "19516ce42dc6b679cd85cddfc3cdb8a8675d3c7c5eeeb97da84c2e4ec4a73e03",
+      "size": 53390,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_pollution_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_pollution_chapter.py",
+      "sha256": "b47e5b8efc3adfba1d203b9b254ef29f24ed85d82fc9af8098d1afbe51b503c7",
+      "size": 60985,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/pollution_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_pollution_ids.json",
+      "sha256": "9590ed69f5bd5e8676f2e5f34f7481a2931f02f49a29dceb735f4702d347c113",
+      "size": 42493,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/gtmfo.yaml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_gtmfo.yaml",
       "sha256": "d27a3d62309d2f9553be850d51c3020f4debd4ff9e464811cbca49830569bf7d",
       "size": 6585,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/pollution-common.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_pollution-common.toml",
+      "sha256": "c74311a90c21de24839962aca87a5d4bc31e7bc71ef80b7128a54e87b0ed1f16",
+      "size": 1656,
       "side": "both"
     },
     {
@@ -785,6 +841,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/astral_sorcery_aspects.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_astral_sorcery_aspects.json",
+      "sha256": "21c81e7d0f2ac156e922c03bea40fdd249b3b713be0a06bf22c65feaaa028912",
+      "size": 2987,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/pack_bridge_aspects.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_pack_bridge_aspects.json",
       "sha256": "b31f31cd60c96b8514d3e15430b128afbf9a1280a6f6c66c1f0ac3521ca5447a",
@@ -1065,6 +1128,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar",
+      "sha256": "b1da676c9f9db3437ce978c848ca4a988caa4c646440afc2eb67f5d977be9663",
+      "size": 30001358,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/ExtendedAE-1.20-1.4.3-forge.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ExtendedAE-1.20-1.4.3-forge.jar",
       "sha256": "0b5adaf148d0f8198273b3c26d1dea5bcb575c77604403ba92808c294728fcf1",
@@ -1244,6 +1314,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MekanismTools-1.20.1-10.4.16.80.jar",
       "sha256": "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb",
       "size": 517999,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
+      "sha256": "73c3b978087f06692d4cf5718559e745bdf13bbf371abd761a5895280d1a013f",
+      "size": 10418394,
       "side": "both"
     },
     {
