@@ -1,5 +1,5 @@
 {
-  "version": "20260927-1953",
+  "version": "20260930-1423",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -334,6 +334,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_pollution-common.toml",
       "sha256": "c74311a90c21de24839962aca87a5d4bc31e7bc71ef80b7128a54e87b0ed1f16",
       "size": 1656,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/twilightforest-common.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_twilightforest-common.toml",
+      "sha256": "97bbc60af19289ad6ffb07d59c1f24b8088773bd2c4eb27020d1bb4ce4dfbdb1",
+      "size": 7754,
       "side": "both"
     },
     {
@@ -766,8 +773,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/data/forge/loot_modifiers/global_loot_modifiers.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_forge_loot_modifiers_global_loot_modifiers.json",
-      "sha256": "26bfe32a9cfd700841860980530ca1b01d3f02966be36d273398cb49d5f64df0",
-      "size": 40,
+      "sha256": "0f585f360f57c4d4005580d45663ad20a15f550baae8bedb7ae87a0d5101789d",
+      "size": 115,
       "side": "both"
     },
     {
@@ -953,10 +960,17 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/globalServer.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_globalServer.js",
+      "sha256": "cfdbaa818db2a3ac0f5258e67e693e282eb147e75dab2fd7fb46da231a8467b0",
+      "size": 15333,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
-      "sha256": "eb9351e3a9cff9332dd271a069915eedf50f64974dc90efd1b75c4c3d5a3fa7e",
-      "size": 9708,
+      "sha256": "1a2ead943850e74b66f5109432d723d5b3ff5cdd850779775fb44713620163dc",
+      "size": 9706,
       "side": "both"
     },
     {
@@ -995,6 +1009,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/itemEvents/magicRope.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_itemEvents_magicRope.js",
+      "sha256": "edc674a300ef50096828373b18c1d19508f614f4e288f4be2f7539aadbbd7179",
+      "size": 4234,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/mek/lockMekBehindGT.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_mek_lockMekBehindGT.js",
       "sha256": "8774cbe4276c47f2f1aacaaebf9d5445b257214b635f5409262263957cc685cb",
@@ -1011,8 +1032,22 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/addGtmfoRecipes.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_addGtmfoRecipes.js",
-      "sha256": "5a4e311e65194b321f6662f6e765a9a97e992c594861e787fe478288459822c8",
-      "size": 7111,
+      "sha256": "e6a428b39aa597becb706674e2b22b8925a8757177a00005e0fc0cf068d175af",
+      "size": 6248,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/compatRecipeCleanup.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_compatRecipeCleanup.js",
+      "sha256": "0ead3d99d5845677f26c4d25cd3481bd5031acd96d16157b9c9c83984cacb5d5",
+      "size": 1227,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/mincerRecipeCleanup.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_mincerRecipeCleanup.js",
+      "sha256": "cd3542daef2151a3b9342a95bb962159adec8af709e7faa7c188632314ca3f4d",
+      "size": 234,
       "side": "both"
     },
     {
@@ -1037,6 +1072,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/unifyOreAndCropTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_unifyOreAndCropTags.js",
+      "sha256": "8826a80ac9f293233cfe18d6e748340e328eb20f2c3b98ed032865d02d3da4d7",
+      "size": 1412,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcGtCompat.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcGtCompat.js",
       "sha256": "851cb4d03d25dd24f54b98403be681434adfac323c6223e078c0cc62691db927",
@@ -1048,6 +1090,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcRecipes.js",
       "sha256": "28780f94af924fdfa81751d53ec8b5c6d3e96e1d16f69334f2e95f7a79548249",
       "size": 2803,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/twilightforest/disableUncraftingTable.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_twilightforest_disableUncraftingTable.js",
+      "sha256": "7d01dbbdeb2a1281fb837c4e52c56e43832425e5827b7685fea03ebcf5ecc079",
+      "size": 452,
       "side": "both"
     },
     {
@@ -1130,8 +1179,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar",
-      "sha256": "b1da676c9f9db3437ce978c848ca4a988caa4c646440afc2eb67f5d977be9663",
-      "size": 30001358,
+      "sha256": "b0204ad300f469801501f699d301fb2b4540d0262a8b6c4a859af7dd852887b4",
+      "size": 30001361,
       "side": "both"
     },
     {
@@ -1179,8 +1228,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/gregmek-1.0-SNAPSHOT.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gregmek-1.0-SNAPSHOT.jar",
-      "sha256": "992e904efab92e16075b46dbef1b2077d7bcccb0ebcc0d74eae6d308bd94fec7",
-      "size": 27964,
+      "sha256": "236f7afc53527438a3be1601969802b1fdc420bb1d72e148e352d89a9ab2aa40",
+      "size": 27927,
       "side": "both"
     },
     {
@@ -1319,8 +1368,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
-      "sha256": "73c3b978087f06692d4cf5718559e745bdf13bbf371abd761a5895280d1a013f",
-      "size": 10418394,
+      "sha256": "bf90f1f0ceba46be2dede817c0d43f9c5e8703e991d1dffccfebbdadbc50f67c",
+      "size": 10418412,
       "side": "both"
     },
     {
