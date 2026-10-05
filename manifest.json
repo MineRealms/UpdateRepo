@@ -1,5 +1,5 @@
 {
-  "version": "20261002-1006",
+  "version": "20261005-2209",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -1179,6 +1179,13 @@
     {
       "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar",
+      "sha256": "51fd4eb599ad6afc0eca15beec496973a3d1854c44f99f98f06e459691ae3ec8",
+      "size": 30001499,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
       "sha256": "ce9dd4c35f32bdcf19080834d1bfb46a6bcaaf8e508bcfe79d0e97f32aa7c215",
       "size": 30041730,
       "side": "both"
@@ -1368,6 +1375,13 @@
     {
       "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
+      "sha256": "a47c6c2ef4b7c3a2db53a58a2b0e71fd8071042848f9b9e80270e31d237d678a",
+      "size": 10418414,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
       "sha256": "bf90f1f0ceba46be2dede817c0d43f9c5e8703e991d1dffccfebbdadbc50f67c",
       "size": 10418412,
       "side": "both"
