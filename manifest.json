@@ -1,5 +1,5 @@
 {
-  "version": "20261005-2212",
+  "version": "20261005-2316",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -20,7 +20,8 @@
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.8.jar",
     "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
-    "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor"
+    "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
+    "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.56.0.205.jar"
   ],
   "files": [
     {
@@ -1312,10 +1313,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.56.0.205.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_jei-1.20.1-forge-15.56.0.205.jar",
-      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
-      "size": 1778129,
+      "path": "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.62.0.216.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_jei-1.20.1-forge-15.62.0.216.jar",
+      "sha256": "80ece8bd42497c94cbcab5d9b82594a53831b249bb33e1ff6dcf568a4b7a637b",
+      "size": 2231809,
       "side": "both"
     },
     {
