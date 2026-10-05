@@ -1,5 +1,5 @@
 {
-  "version": "20261005-2209",
+  "version": "20261005-2212",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -18,7 +18,9 @@
     "versions/Society Sunlit Valley/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
     "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar",
     "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
-    "versions/Society Sunlit Valley/mods/gtmfo-0.0.8.jar"
+    "versions/Society Sunlit Valley/mods/gtmfo-0.0.8.jar",
+    "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
+    "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor"
   ],
   "files": [
     {
@@ -1184,13 +1186,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
-      "sha256": "ce9dd4c35f32bdcf19080834d1bfb46a6bcaaf8e508bcfe79d0e97f32aa7c215",
-      "size": 30041730,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/mods/ExtendedAE-1.20-1.4.3-forge.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ExtendedAE-1.20-1.4.3-forge.jar",
       "sha256": "0b5adaf148d0f8198273b3c26d1dea5bcb575c77604403ba92808c294728fcf1",
@@ -1377,13 +1372,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
       "sha256": "a47c6c2ef4b7c3a2db53a58a2b0e71fd8071042848f9b9e80270e31d237d678a",
       "size": 10418414,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
-      "sha256": "bf90f1f0ceba46be2dede817c0d43f9c5e8703e991d1dffccfebbdadbc50f67c",
-      "size": 10418412,
       "side": "both"
     },
     {
