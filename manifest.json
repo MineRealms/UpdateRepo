@@ -1,5 +1,5 @@
 {
-  "version": "20261007-0501",
+  "version": "20261007-0510",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -22,7 +22,13 @@
     "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
     "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
     "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.56.0.205.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-energistics-1.20.1-forge-1.1.3.0-port.0.1.0-20711.jar"
+    "versions/Society Sunlit Valley/mods/thaumic-energistics-1.20.1-forge-1.1.3.0-port.0.1.0-20711.jar",
+    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20711.jar",
+    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20711.jar",
+    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20711.jar",
+    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20731.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20711.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20731.jar"
   ],
   "files": [
     {
@@ -1195,16 +1201,16 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20711.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20711.jar",
-      "sha256": "ae1e411d2558dde22f91a5554222766d1ac78b262f90b058453f03b3f7a982c7",
-      "size": 1056940,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20731.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20731.jar",
       "sha256": "05e963954ed664203c106e1dc2a74dbf8cc7b1d76a710a53696fcef012d278d6",
+      "size": 1090257,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20732.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20732.jar",
+      "sha256": "4cae6bfad859f0b0353c50ddbe546ba67fab1d679e93c28eb182b97bf4818e1b",
       "size": 1090257,
       "side": "both"
     },
@@ -1391,17 +1397,17 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20711.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20711.jar",
-      "sha256": "24173eed0dffda71a9ffedf60ee1aa082b89a8f84fbf12dcbabb6deb4abc4074",
-      "size": 3808719,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20731.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20731.jar",
       "sha256": "33d52ca607bf6e5da74404de9435d3cb7a9ebed0cd51cd8d1dc903a274241ca4",
       "size": 3859673,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20732.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20732.jar",
+      "sha256": "87ae51e7a60cdeb107e5dc5841682c1b4b9d4284a7f5d991b4075ff8ffda679a",
+      "size": 3860637,
       "side": "both"
     },
     {
@@ -1419,31 +1425,17 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20711.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20711.jar",
-      "sha256": "b53a330ea1d4c6f44669821dc72b3966cce49c2f72faa7384af268ca729e0140",
-      "size": 18976474,
+      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20732.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20732.jar",
+      "sha256": "b04bed49cde27e1950d4fa80f25eb330f452d581d8146cac6db0fed6c87b3a90",
+      "size": 19453332,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20731.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20731.jar",
-      "sha256": "4e0d2d6fa78e0fee2682618fb91929c7c91bd1ac1cb8f6b72060affb0a7af027",
-      "size": 19449033,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20711.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20711.jar",
-      "sha256": "f50d251cfcbb68544fe332daf3d423a847b2b89bb4df0d4dd059743c263bcc55",
-      "size": 2690436,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20731.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20731.jar",
-      "sha256": "ee133362062c565878ba536a9517b968010ff3b0382e761b53b0513bd5669070",
-      "size": 2817335,
+      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
+      "sha256": "72d482bad999dd88d9c1ab5926b035a03df277bb0700bde20513cb19cc8d1516",
+      "size": 2821489,
       "side": "both"
     },
     {
