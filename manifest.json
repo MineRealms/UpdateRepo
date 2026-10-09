@@ -1,5 +1,5 @@
 {
-  "version": "20261008-0007",
+  "version": "20261009-1242",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -204,6 +204,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_steam_age.snbt",
       "sha256": "23020507cc7d853fbf7755a1cce2464dde166b798d8f78edf5152b24521031fd",
       "size": 51844,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/technomancy.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_technomancy.snbt",
+      "sha256": "d57fd1734736293683ec649847f68b145ba884c1d78db6a468780ae212a69528",
+      "size": 42325,
       "side": "both"
     },
     {
@@ -1103,6 +1110,34 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/bridgeTechnomGt.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_bridgeTechnomGt.js",
+      "sha256": "e3fb99e85c33153bc2c961a7aafea94150eb9c7c84ddaddd90c3e44070fa1460",
+      "size": 2988,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/gateTechnom.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_gateTechnom.js",
+      "sha256": "cf20492edb8b79c645693ca9b885c5b13500e36a824639c7aa0241c96e54666d",
+      "size": 2589,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/gateTechnomBotania.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_gateTechnomBotania.js",
+      "sha256": "6a1ca30a62e274cf6eedae90b3cc3f6387967a0131d4f643d2791aaf42248fdd",
+      "size": 1230,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/technomTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_technomTags.js",
+      "sha256": "23acd737036f5bf6a54cf2fb3c8aa9bf246581d561f7475acc805b0919c55532",
+      "size": 1072,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/twilightforest/disableUncraftingTable.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_twilightforest_disableUncraftingTable.js",
       "sha256": "7d01dbbdeb2a1281fb837c4e52c56e43832425e5827b7685fea03ebcf5ecc079",
@@ -1415,6 +1450,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_TConstruct-1.20.1-3.12.0.220.jar",
       "sha256": "17fbf7a95d61611a81b45eab5445add0ca5852370e618c8a55cce3eec338dffa",
       "size": 23390475,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/technom-1.20.1-0.1.0-dev.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_technom-1.20.1-0.1.0-dev.jar",
+      "sha256": "175a0674ac12ee73bc65e6d7a6e3d7ab5f62fc4000460f6bdf5bdbcd9c50ae8d",
+      "size": 1636040,
       "side": "both"
     },
     {
