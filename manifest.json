@@ -1,5 +1,5 @@
 {
-  "version": "20261011-0148",
+  "version": "20261011-0246",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -1395,6 +1395,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_jei-1.20.1-forge-15.62.0.216.jar",
       "sha256": "80ece8bd42497c94cbcab5d9b82594a53831b249bb33e1ff6dcf568a4b7a637b",
       "size": 2231809,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/l2library-2.4.16.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_l2library-2.4.16.jar",
+      "sha256": "02dd008a9b690c1c4f8a4b11480e030cd9f8396ef95b4c2939cc753b7206c33f",
+      "size": 771288,
       "side": "both"
     },
     {
