@@ -1,5 +1,5 @@
 {
-  "version": "20261011-0055",
+  "version": "20261011-0109",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -984,10 +984,24 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/braziliandelightNutrients.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_braziliandelightNutrients.js",
+      "sha256": "f217b6542ce98edac9964fec62bbaf0a0aaa7cb7d624c77e9b001327f7ef9271",
+      "size": 4790,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
-      "sha256": "6d47009be549145f1c941e42f5c6aa7bb08e92fc751ef9b21b253cb0b932c30f",
-      "size": 17551,
+      "sha256": "e1f4c5709e7cce6a206b3dff4ba0243535bc5c7346c5ceb964017e99c05f7524",
+      "size": 9937,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/twilightdelightNutrients.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_twilightdelightNutrients.js",
+      "sha256": "5a9546cb94ca200403fc1a6ba5e282a8ce719bbc6ddb360f7db7147933489c25",
+      "size": 5345,
       "side": "both"
     },
     {
