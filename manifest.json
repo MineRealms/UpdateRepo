@@ -1,5 +1,5 @@
 {
-  "version": "20261009-1242",
+  "version": "20261011-0025",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -1224,8 +1224,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar",
-      "sha256": "a59e316a07fe5142b5532d7d9ac91742fa00f4ff2fbdbe4d73d779f90676b4c0",
-      "size": 30856647,
+      "sha256": "ba45ccd07f9a0cf94bf9eb6536f9ac68e6266a44c1779f43a279b8ee8c941fe4",
+      "size": 30856590,
       "side": "both"
     },
     {
