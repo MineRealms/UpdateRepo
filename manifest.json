@@ -1,5 +1,5 @@
 {
-  "version": "20261011-0025",
+  "version": "20261011-0055",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -986,8 +986,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
-      "sha256": "1a2ead943850e74b66f5109432d723d5b3ff5cdd850779775fb44713620163dc",
-      "size": 9706,
+      "sha256": "6d47009be549145f1c941e42f5c6aa7bb08e92fc751ef9b21b253cb0b932c30f",
+      "size": 17551,
       "side": "both"
     },
     {
@@ -1145,6 +1145,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/braziliandelightTrades.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_braziliandelightTrades.js",
+      "sha256": "166081e520e1dd6ed8f860506d6e97f082514a136ad76bb33edf8092970b9c4d",
+      "size": 3496,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/globalNPCHandlers.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_globalNPCHandlers.js",
       "sha256": "95539a2959d9d879cd895c662becc900c094a519333cf98d8536725bc2d70b49",
@@ -1184,6 +1191,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_tfTrades.js",
       "sha256": "a13b881c18a263165fe0b21dd9098deaec9311b5fa8011040b9b5f5d817daf97",
       "size": 2939,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/twilightdelightTrades.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_twilightdelightTrades.js",
+      "sha256": "111220fcb805d1af3b4fa111a1457d5796c51b1da85f8adee6ef75b31537a393",
+      "size": 3530,
       "side": "both"
     },
     {
