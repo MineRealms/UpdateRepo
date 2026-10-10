@@ -1,5 +1,5 @@
 {
-  "version": "20261011-0114",
+  "version": "20261011-0122",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -1000,8 +1000,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/twilightdelightNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_twilightdelightNutrients.js",
-      "sha256": "5a9546cb94ca200403fc1a6ba5e282a8ce719bbc6ddb360f7db7147933489c25",
-      "size": 5345,
+      "sha256": "7ca0a2555a26e18ae9aeb03d8b53330db63c121bc7d3e989a43d1754b8cd5fb8",
+      "size": 5549,
       "side": "both"
     },
     {
@@ -1070,8 +1070,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/compatRecipeCleanup.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_compatRecipeCleanup.js",
-      "sha256": "0ead3d99d5845677f26c4d25cd3481bd5031acd96d16157b9c9c83984cacb5d5",
-      "size": 1227,
+      "sha256": "201d8b2011ab3a2799e2d5f04b00d002f51455aa3a9d288741ed0f5b6a0b6c69",
+      "size": 1106,
       "side": "both"
     },
     {
@@ -1210,8 +1210,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/twilightdelightTrades.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_twilightdelightTrades.js",
-      "sha256": "111220fcb805d1af3b4fa111a1457d5796c51b1da85f8adee6ef75b31537a393",
-      "size": 3530,
+      "sha256": "1a460d55073125c144d5dbf108ffca66fd8af784d0061d8dee6a540a13f894eb",
+      "size": 3757,
       "side": "both"
     },
     {
@@ -1513,6 +1513,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumicenergistics-2.3.17-forge-alpha.jar",
       "sha256": "1faacd6f7f2bcff1fed182caff97187ea7d8e2999cc38388465fcf48a2a4c35f",
       "size": 1470587,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/twilightdelight-2.2.5.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_twilightdelight-2.2.5.jar",
+      "sha256": "bfe698a31bd93b230ae7acd058111424f7430036d6b7ab04dfe3e906199babf1",
+      "size": 1544813,
       "side": "both"
     },
     {
