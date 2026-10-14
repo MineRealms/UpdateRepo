@@ -1,5 +1,5 @@
 {
-  "version": "20261012-2057",
+  "version": "20261014-1720",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -236,6 +236,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/thaumic_addons.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumic_addons.snbt",
+      "sha256": "faed78558b6f4b50d63ec9d151e2b1039907a4c6355e3564d328dfcc4febcb2e",
+      "size": 34671,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/tips_and_tricks_2.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_tips_and_tricks_2.snbt",
       "sha256": "763150bff58ede01c8c8eb82ca9f118457feb8df938ec612cbb63e10b7727234",
@@ -348,10 +355,24 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_thaumic_addons_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_thaumic_addons_chapter.py",
+      "sha256": "9079a3378fe60bbf697bac90664db1373933898db5e30ca2d1820d11566f9644",
+      "size": 28406,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/pollution_ids.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_pollution_ids.json",
       "sha256": "9590ed69f5bd5e8676f2e5f34f7481a2931f02f49a29dceb735f4702d347c113",
       "size": 42493,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/thaumic_addons_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_thaumic_addons_ids.json",
+      "sha256": "a86d6ec619bfface0de04697fceed11a14d5f5540516f837ced07a6920f18253",
+      "size": 14554,
       "side": "both"
     },
     {
@@ -1468,6 +1489,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/nodalmechanics-1.20.1-forge-1.0.0-dev.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_nodalmechanics-1.20.1-forge-1.0.0-dev.jar",
+      "sha256": "2b7b25de1b4c193179f9cf69c2e639edb14e3dd17c87595da05b8981f9c380f3",
+      "size": 55197,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
       "sha256": "a47c6c2ef4b7c3a2db53a58a2b0e71fd8071042848f9b9e80270e31d237d678a",
@@ -1524,6 +1552,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-0.1.0-dev.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-horizons.Isorropia.-1.20.1-0.1.0-dev.jar",
+      "sha256": "1758ff5e4140cb54ee962607f01ef6b7c632409da0f539375a34de5ee431ff10",
+      "size": 4234058,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
       "sha256": "72d482bad999dd88d9c1ab5926b035a03df277bb0700bde20513cb19cc8d1516",
@@ -1542,6 +1577,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_twilightdelight-2.2.5.jar",
       "sha256": "bfe698a31bd93b230ae7acd058111424f7430036d6b7ab04dfe3e906199babf1",
       "size": 1544813,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar",
+      "sha256": "efd8dd7d58e675040db277763e12f25eb0df9adbe81728501c99777e3989b58e",
+      "size": 326581,
       "side": "both"
     },
     {
