@@ -1,5 +1,5 @@
 {
-  "version": "20261016-1540",
+  "version": "20261017-0532",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -40,7 +40,9 @@
     "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-0.1.0-dev.jar",
     "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
     "versions/Society Sunlit Valley/mods/warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar",
-    "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.17-forge-alpha.jar"
+    "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.17-forge-alpha.jar",
+    "versions/Society Sunlit Valley/mods/enhancedvisuals-4IG1vNXQ.jar",
+    "versions/Society Sunlit Valley/mods/warpfx-1.20.1-forge-0.1.0.jar"
   ],
   "files": [
     {
@@ -2067,13 +2069,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/enhancedvisuals-4IG1vNXQ.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_enhancedvisuals-4IG1vNXQ.jar",
-      "sha256": "29e8c198c8b45c97e01f2566b2ca2e72b2af5436edca9d04d75259377ebde291",
-      "size": 4728483,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/mods/entityjs-0.6.6-1.20.1.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_entityjs-0.6.6-1.20.1.jar",
       "sha256": "0e192e282b27e7c60503334a8300320e7daec5eeaf2d20f04b2773daf7bd1569",
@@ -3975,13 +3970,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20740.jar",
       "sha256": "04cbe34b7fda29fcb837ff7dcb06e93515f8c82195500872238705e7b92080a9",
       "size": 601472,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/warpfx-1.20.1-forge-0.1.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warpfx-1.20.1-forge-0.1.0.jar",
-      "sha256": "9742a59cc2fa5725045ade274ad975d849ba436087539383fec28e5d3be513fb",
-      "size": 69251,
       "side": "both"
     },
     {
