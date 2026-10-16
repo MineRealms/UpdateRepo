@@ -1,5 +1,5 @@
 {
-  "version": "20261016-1515",
+  "version": "20261016-1529",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -39,7 +39,8 @@
     "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20732.jar",
     "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-0.1.0-dev.jar",
     "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
-    "versions/Society Sunlit Valley/mods/warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar"
+    "versions/Society Sunlit Valley/mods/warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar",
+    "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.17-forge-alpha.jar"
   ],
   "files": [
     {
@@ -3820,13 +3821,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20740.jar",
       "sha256": "daf1eeb87813ce1feabb2ab02e4cc8fc6b579b9cec7392813f7815c721b7dc27",
       "size": 2965639,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.17-forge-alpha.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumicenergistics-2.3.17-forge-alpha.jar",
-      "sha256": "1faacd6f7f2bcff1fed182caff97187ea7d8e2999cc38388465fcf48a2a4c35f",
-      "size": 1470587,
       "side": "both"
     },
     {
