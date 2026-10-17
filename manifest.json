@@ -1,5 +1,5 @@
 {
-  "version": "20261017-2309",
+  "version": "20261017-2335",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -3856,8 +3856,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/thaumadds-1.20.1-forge-0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumadds-1.20.1-forge-0.1.0.jar",
-      "sha256": "20b45bc6f894813fdc11e3c9b4c26d195888545452feaf798c82e2e146feceea",
-      "size": 4694530,
+      "sha256": "6cbf27e7872a3d87778046c5739fdef7509cb8350f3500d75bac1d727962ea62",
+      "size": 4979426,
       "side": "both"
     },
     {
