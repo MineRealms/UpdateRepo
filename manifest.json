@@ -1,5 +1,5 @@
 {
-  "version": "20261017-2353",
+  "version": "20261022-2243",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -42,7 +42,9 @@
     "versions/Society Sunlit Valley/mods/warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar",
     "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.17-forge-alpha.jar",
     "versions/Society Sunlit Valley/mods/enhancedvisuals-4IG1vNXQ.jar",
-    "versions/Society Sunlit Valley/mods/warpfx-1.20.1-forge-0.1.0.jar"
+    "versions/Society Sunlit Valley/mods/warpfx-1.20.1-forge-0.1.0.jar",
+    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20740.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20740.jar"
   ],
   "files": [
     {
@@ -155,6 +157,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_mekanism.snbt",
       "sha256": "a4db7636acc18297ac37595b2b5e6eaac863d1c0584e1d3eda6f81d34ee70d16",
       "size": 38253,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/middle_earth.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_middle_earth.snbt",
+      "sha256": "0debe99f47e405340510a62e341983bd88c5033fbdf433eb080a56bcb6056e40",
+      "size": 4542,
       "side": "both"
     },
     {
@@ -286,8 +295,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapter_groups.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapter_groups.snbt",
-      "sha256": "754f2b5162a479057868ed20fd72df5e1446738250b230c4d8006946393942e9",
-      "size": 538,
+      "sha256": "f7be488c4026877f32a22f6abe157737ee10dcedd67bd797e8c0ea3c760569c6",
+      "size": 606,
       "side": "both"
     },
     {
@@ -1049,8 +1058,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
-      "sha256": "e85c7dbe37e6b911fa6aa2aca39af419f8219d318bef3fc358dc3c6d883d10f8",
-      "size": 10115,
+      "sha256": "ea24d836d4ff654ba15025dfe6cee6770a8620537bd07214cb8bd6062af7a9ee",
+      "size": 11931,
       "side": "both"
     },
     {
@@ -1114,6 +1123,20 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_mek_lockMekBehindGT.js",
       "sha256": "8774cbe4276c47f2f1aacaaebf9d5445b257214b635f5409262263957cc685cb",
       "size": 4614,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meRecipes.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meRecipes.js",
+      "sha256": "eb2646e0bfe3627cf9ecba05d642426de2eecf8d78733d244b4be5b563743f63",
+      "size": 1967,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meTags.js",
+      "sha256": "0025f4b3566e185a1b68c27dd654bf8a0d5d81706d56107afbee9a37ca6216f4",
+      "size": 1584,
       "side": "both"
     },
     {
@@ -1747,6 +1770,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/Connector-1.0.0-beta.49+1.20.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Connector-1.0.0-beta.49.1.20.1.jar",
+      "sha256": "e39acd37e162eb48cdfc6ae64776c13507a5ec3d4dd76ae4f39b5b79ca24d431",
+      "size": 5046109,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/constructionwand-1.20.1-2.11.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_constructionwand-1.20.1-2.11.jar",
       "sha256": "b55ca6f0e734bad848adb06949675136f1d05cb4fb3efdde084c9842c40e1eec",
@@ -2199,6 +2229,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ExtremeSoundMuffler-3.48-forge-1.20.1.jar",
       "sha256": "31ba64e012327209ede68515afbd92bb85e3cba652a61b850c568fbf805c3d53",
       "size": 265906,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/fabric-api-0.92.6+1.11.15+1.20.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_fabric-api-0.92.6.1.11.15.1.20.1.jar",
+      "sha256": "e0523b6d98ddf213c95a462d593eff260d6577a3f0a94bb5a80bba2f506b8df2",
+      "size": 3065807,
       "side": "both"
     },
     {
@@ -2965,6 +3002,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/mejei-1.20.1-1.0.0-1.20.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mejei-1.20.1-1.0.0-1.20.1.jar",
+      "sha256": "f053532395e10c6dd92a2743a0f553d0ed4582210834cbc192c1f1d79958fcd8",
+      "size": 8425,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/Mekanism-1.20.1-10.4.16.80.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Mekanism-1.20.1-10.4.16.80.jar",
       "sha256": "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2",
@@ -2997,6 +3041,20 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
       "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
       "size": 37178,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/mett-1.20.1-0.8.0-1.20.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mett-1.20.1-0.8.0-1.20.1.jar",
+      "sha256": "454c9e0aa252f63a7d48b56a6cf5a6cf9d2bcf411f72e95cdbb07e9155fa971c",
+      "size": 732670,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/Middle-earth-1.4.2-1.20.1-port.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Middle-earth-1.4.2-1.20.1-port.0.jar",
+      "sha256": "ddb466771911af900ea0339f31fc5e2fa6ed6baaa1247603ebcfd233a6b51c8a",
+      "size": 78656864,
       "side": "both"
     },
     {
@@ -3842,8 +3900,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/technom-0.1.0-dev.3.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_technom-0.1.0-dev.3.jar",
-      "sha256": "5c77fc2ff7162e577229f3c7ce1ae50e1852c7c3d1d39cd8b8b94fdb74951fe2",
-      "size": 1642004,
+      "sha256": "db815dc1f87d01a3f700c5f2ee75a09d0dca6aba98235151c201a2a6e5d834d8",
+      "size": 1653698,
       "side": "both"
     },
     {
@@ -3868,24 +3926,24 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20740.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20740.jar",
-      "sha256": "2fff1960a0a096da6198a5db6358409f5b1fe678984e1d0b6c403f8ae4853185",
-      "size": 20108795,
+      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
+      "sha256": "f172000c3a86277915d5109bbeea69d509c9453dc2169602267e5a145d2fa1c2",
+      "size": 20656646,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-1.0.0-alpha.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-horizons.Isorropia.-1.20.1-1.0.0-alpha.jar",
-      "sha256": "3c7057a3840d8f7194b69a0ed4dea5d5ee9f87ccc9aaeb32bfce44d69772acb4",
-      "size": 4251898,
+      "sha256": "52dc0a03bd89f864f141fe5cecd2d85e1f2e381202f7185e471983c765f060d0",
+      "size": 4265812,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20740.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20740.jar",
-      "sha256": "daf1eeb87813ce1feabb2ab02e4cc8fc6b579b9cec7392813f7815c721b7dc27",
-      "size": 2965639,
+      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
+      "sha256": "79c6ae9b4b66b26904929ab739fc08b1bb685ce7bc5e524b2b50c0ee189d19d2",
+      "size": 3001247,
       "side": "both"
     },
     {
