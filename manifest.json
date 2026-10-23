@@ -1,5 +1,5 @@
 {
-  "version": "20261023-2224",
+  "version": "20261024-0055",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -412,7 +412,7 @@
     {
       "path": "versions/Society Sunlit Valley/config/gtmfo.yaml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_gtmfo.yaml",
-      "sha256": "d27a3d62309d2f9553be850d51c3020f4debd4ff9e464811cbca49830569bf7d",
+      "sha256": "419b4b1967fa658593131c9f4cfb61ec581b7b3af6486f85a69fb659d280ed13",
       "size": 6585,
       "side": "both"
     },
@@ -421,6 +421,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_pollution-common.toml",
       "sha256": "c74311a90c21de24839962aca87a5d4bc31e7bc71ef80b7128a54e87b0ed1f16",
       "size": 1656,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/SeasonHUD-client.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_SeasonHUD-client.toml",
+      "sha256": "fecdd46282bf0eec38f38f8efd17e943390dbb11a801a9239c0f837c2fab38b8",
+      "size": 3397,
       "side": "both"
     },
     {
