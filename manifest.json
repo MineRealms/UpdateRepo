@@ -1,5 +1,5 @@
 {
-  "version": "20261023-2144",
+  "version": "20261023-2224",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -55,7 +55,8 @@
     "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
     "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20746.jar",
     "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20746.jar"
+    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/[forge-1.20.1]AllMusic_Client-3.9.2.jar"
   ],
   "files": [
     {
@@ -2362,6 +2363,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/forge-1.20.1.AllMusic_Client-4.2.8.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forge-1.20.1.AllMusic_Client-4.2.8.jar",
+      "sha256": "cdbfacb82b7090077cba8cc407e6053064df9ba7cc3eb7d98bc02ff9191a0c64",
+      "size": 3473480,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/fragmentum-forge-1.20.1-1.1.4.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_fragmentum-forge-1.20.1-1.1.4.jar",
       "sha256": "1d1e1461155f5a0de514f03e7fa2e7d4b0d1bd1833b0608706fe4cf38aec5178",
@@ -3862,8 +3870,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.1.0.jar",
-      "sha256": "3f3ba04a9ae98fe7a18fc66e57badbb0c19a777094264ea34c95f629192bdecc",
-      "size": 32280,
+      "sha256": "e4e44835fff9036c4a500a972856a22ad5ff2ca387d0d964b135fff1dd0aa046",
+      "size": 32604,
       "side": "both"
     },
     {
@@ -4235,13 +4243,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/[forge-1.20.1]AllMusic_Client-3.9.2.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.forge-1.20.1.AllMusic_Client-3.9.2.jar",
-      "sha256": "fada790f5d51907773d58defe9be1637be521875eaa2a98eae0544424422fe48",
-      "size": 4560831,
       "side": "both"
     },
     {
