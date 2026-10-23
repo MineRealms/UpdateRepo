@@ -1,5 +1,5 @@
 {
-  "version": "20261023-1054",
+  "version": "20261023-2144",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -3860,6 +3860,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.1.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.1.0.jar",
+      "sha256": "3f3ba04a9ae98fe7a18fc66e57badbb0c19a777094264ea34c95f629192bdecc",
+      "size": 32280,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_supermartijn642configlib-1.1.8-forge-mc1.20.jar",
       "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3",
@@ -4228,6 +4235,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/[forge-1.20.1]AllMusic_Client-3.9.2.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.forge-1.20.1.AllMusic_Client-3.9.2.jar",
+      "sha256": "fada790f5d51907773d58defe9be1637be521875eaa2a98eae0544424422fe48",
+      "size": 4560831,
       "side": "both"
     },
     {
