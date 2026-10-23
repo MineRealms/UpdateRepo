@@ -1,5 +1,5 @@
 {
-  "version": "20261022-2246",
+  "version": "20261023-1054",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -48,7 +48,14 @@
     "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20740.jar",
     "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20740.jar",
     "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20740.jar"
+    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20740.jar",
+    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
+    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20746.jar"
   ],
   "files": [
     {
@@ -2348,10 +2355,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20746.jar",
-      "sha256": "c2ed5d6085ac1064ce98bcca445eecb8f620ce1ef7e5d1c22b1beffd4488e1e9",
-      "size": 1242624,
+      "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20748.jar",
+      "sha256": "ef5ad906dfc01f565a7a0e1da9a4850b93c9571e89793140e983fa371f04227c",
+      "size": 1242619,
       "side": "both"
     },
     {
@@ -3050,15 +3057,15 @@
     {
       "path": "versions/Society Sunlit Valley/mods/mett-1.20.1-0.8.0-1.20.1.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mett-1.20.1-0.8.0-1.20.1.jar",
-      "sha256": "454c9e0aa252f63a7d48b56a6cf5a6cf9d2bcf411f72e95cdbb07e9155fa971c",
-      "size": 732670,
+      "sha256": "8999c187898e5cbee54573614ffb36ad2668b83bd6b2973ccd50dd6c64e28fcf",
+      "size": 732669,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/mods/Middle-earth-1.4.2-1.20.1-port.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Middle-earth-1.4.2-1.20.1-port.0.jar",
-      "sha256": "ddb466771911af900ea0339f31fc5e2fa6ed6baaa1247603ebcfd233a6b51c8a",
-      "size": 78656864,
+      "sha256": "0a63d5e98514378406d34533c7dfb170f69f07ef1c4774336106c5090d9e6a7a",
+      "size": 78657070,
       "side": "both"
     },
     {
@@ -3195,9 +3202,9 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_nodal-mechanics-forge-1.0.7-port.0.1.0-20746.jar",
-      "sha256": "92ce5e7931d1a47e0cf6335326d887f45d9edee23deb34c81ef402057a6d364f",
+      "path": "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_nodal-mechanics-forge-1.0.7-port.0.1.0-20748.jar",
+      "sha256": "1033a63a34720d8099e7f02c5974dad7ac3836538744feb897e0793233b6e48d",
       "size": 160156,
       "side": "both"
     },
@@ -3351,7 +3358,7 @@
     {
       "path": "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar",
-      "sha256": "f0b8d1948f53b2700bf3cced43a1073763680934789b1d503be60386ae7fb012",
+      "sha256": "16e24a605f316791d94895764e03e6083a5ab50e427626c95cd680f1ff893ca5",
       "size": 10419457,
       "side": "both"
     },
@@ -3881,9 +3888,9 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20746.jar",
-      "sha256": "837e62466334b0926d82dda02baac071e4e24928d7485c8c903a1917d843bb63",
+      "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20748.jar",
+      "sha256": "29dde981f99cc88ca35f6620b0c9284adf0cc31694e08ce43172f62849ba8c86",
       "size": 3944010,
       "side": "both"
     },
@@ -3904,8 +3911,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/technom-0.1.0-dev.3.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_technom-0.1.0-dev.3.jar",
-      "sha256": "db815dc1f87d01a3f700c5f2ee75a09d0dca6aba98235151c201a2a6e5d834d8",
-      "size": 1653698,
+      "sha256": "078c61a5c8ff3f35c0523cac5253776ca9ff40139dc71acbad5c467f5f43ebad",
+      "size": 1653699,
       "side": "both"
     },
     {
@@ -3918,7 +3925,7 @@
     {
       "path": "versions/Society Sunlit Valley/mods/thaumadds-1.20.1-forge-0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumadds-1.20.1-forge-0.1.0.jar",
-      "sha256": "9c5f5515ba65ba40c88adedfc0d143ca8265484fd1e23ecdd556201d245ab042",
+      "sha256": "95e7419c64b6c18507eaf7b7f40d3771c96ef40397b1d004c0eafbb45a3e143f",
       "size": 4979474,
       "side": "both"
     },
@@ -3930,30 +3937,30 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
-      "sha256": "f172000c3a86277915d5109bbeea69d509c9453dc2169602267e5a145d2fa1c2",
-      "size": 20656646,
+      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20748.jar",
+      "sha256": "f682d9c0703c8ca3ef308a7bc1a9ab38c434eb58d153dee6a0156c2816ed4929",
+      "size": 20675886,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20746.jar",
-      "sha256": "13eb1eacaaf484fb50e630e31a73b529d3c76441a2e1d32c359fc3a46fa0e0a8",
+      "path": "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20748.jar",
+      "sha256": "d4fe2c084400bdb81e6862824db80722fde272e2a027c373e2df054941a30d1b",
       "size": 3062839,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-1.0.0-alpha.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-horizons.Isorropia.-1.20.1-1.0.0-alpha.jar",
-      "sha256": "52dc0a03bd89f864f141fe5cecd2d85e1f2e381202f7185e471983c765f060d0",
-      "size": 4265812,
+      "sha256": "ac2798c1a97cd2f8f17f1aae7d8dd2f421303eb208c9d82d1f0ade101b0b792e",
+      "size": 4265813,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
-      "sha256": "79c6ae9b4b66b26904929ab739fc08b1bb685ce7bc5e524b2b50c0ee189d19d2",
+      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20748.jar",
+      "sha256": "083081a98188f30b0002d3065beafb8b7a78ddc1fb58753db07dc09547edd663",
       "size": 3001247,
       "side": "both"
     },
@@ -4112,9 +4119,9 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20746.jar",
-      "sha256": "13084803ffc4e1f62bc40cc0d3201aa6512e1f7dee12eba201fad541b05497ea",
+      "path": "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20748.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20748.jar",
+      "sha256": "92bb80d2af21b7c42f2b2d9da0b0ebcaf4d3e607abc13fb4856ee2a3150466c5",
       "size": 614831,
       "side": "both"
     },
