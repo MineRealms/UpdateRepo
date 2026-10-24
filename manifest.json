@@ -1,5 +1,5 @@
 {
-  "version": "20261024-0055",
+  "version": "20261025-0318",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -928,6 +928,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/altar/starlight_phial.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_altar_starlight_phial.json",
+      "sha256": "d2b2d01dca88f7cad9358107368512b4af4ce9e5b592f1ac1ac5e55eca6655d5",
+      "size": 557,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/society/tags/blocks/treasure_spot_spawns.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_tags_blocks_treasure_spot_spawns.json",
       "sha256": "4da430621acc5e8afe82907c88111e5d08fbfbedba3b0b6edf24f69c325eab45",
@@ -1147,8 +1154,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meRecipes.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meRecipes.js",
-      "sha256": "eb2646e0bfe3627cf9ecba05d642426de2eecf8d78733d244b4be5b563743f63",
-      "size": 1967,
+      "sha256": "f3659b32cb42de787e7c9b1f7f049255f0a62639c0eac681c4c0521d84db6674",
+      "size": 1309,
       "side": "both"
     },
     {
