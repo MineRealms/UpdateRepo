@@ -1,5 +1,5 @@
 {
-  "version": "20261101-0914",
+  "version": "20261101-1440",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -174,8 +174,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/middle_earth.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_middle_earth.snbt",
-      "sha256": "0debe99f47e405340510a62e341983bd88c5033fbdf433eb080a56bcb6056e40",
-      "size": 4542,
+      "sha256": "db2951b89faaa8c52d8ecc29fa6de374087b0b1684220bbd5604dd4d730b58dd",
+      "size": 15395,
       "side": "both"
     },
     {
@@ -382,6 +382,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_middle_earth_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_middle_earth_chapter.py",
+      "sha256": "a4d4e70f59e3ed7e97d8429f858e2746f5dec904e2d8a1d76cb44e8875bb09c9",
+      "size": 22410,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_pollution_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_pollution_chapter.py",
       "sha256": "b47e5b8efc3adfba1d203b9b254ef29f24ed85d82fc9af8098d1afbe51b503c7",
@@ -393,6 +400,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_thaumic_addons_chapter.py",
       "sha256": "4011fb02e6147e28df3100d3dd7c6fc237b6fc805f4d73ba48c196e782f9f473",
       "size": 32945,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/middle_earth_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_middle_earth_ids.json",
+      "sha256": "9e021fdd1fbcca88999cb888ada616f63173b08b28e296a4acdf56124b76e40e",
+      "size": 3035,
       "side": "both"
     },
     {
@@ -1084,8 +1098,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
-      "sha256": "ea24d836d4ff654ba15025dfe6cee6770a8620537bd07214cb8bd6062af7a9ee",
-      "size": 11931,
+      "sha256": "6ef85a472baf6313cce4dfc46b843cc8e31fff1aca2cc0431ac866f9d2295245",
+      "size": 12892,
       "side": "both"
     },
     {
@@ -1152,6 +1166,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meCooking.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meCooking.js",
+      "sha256": "097268150bebd026ced91e8d39d5113e40ea31e9a3c009c18b6111cb570106a0",
+      "size": 2546,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meRecipes.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meRecipes.js",
       "sha256": "f3659b32cb42de787e7c9b1f7f049255f0a62639c0eac681c4c0521d84db6674",
@@ -1161,8 +1182,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meTags.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meTags.js",
-      "sha256": "0025f4b3566e185a1b68c27dd654bf8a0d5d81706d56107afbee9a37ca6216f4",
-      "size": 1584,
+      "sha256": "512aa37634cd097f8416746f52dc52d84fceaf5d6977f88a32dea9513a1886e0",
+      "size": 1938,
       "side": "both"
     },
     {
@@ -1191,6 +1212,27 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_mincerRecipeCleanup.js",
       "sha256": "cd3542daef2151a3b9342a95bb962159adec8af709e7faa7c188632314ca3f4d",
       "size": 234,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/meMerchants.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_meMerchants.js",
+      "sha256": "b3630bbb36358f7f58822a0b5a23dfb041698e6cdc5c4c064de9ebeb1a8e35b3",
+      "size": 4124,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/meSeasonPrices.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_meSeasonPrices.js",
+      "sha256": "fd818734eef362f7544126520e2377f2099f37a31b65e822c2f532d0f4b82319",
+      "size": 1805,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/themedMerchants.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_themedMerchants.js",
+      "sha256": "e3a3cd60f0b1e3374958251ea7c1a2a7209cb330708fb89686dc54bde296e613",
+      "size": 2310,
       "side": "both"
     },
     {
@@ -1310,6 +1352,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_husbandryDefinitions.js",
       "sha256": "59e85e2657ce559cb83e16201f27290c9de7482c01d013e84c2fb5e75208f0cd",
       "size": 17101,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/me/meTrades.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_me_meTrades.js",
+      "sha256": "7d2d7fc9b4965139b606093170d2df3b16dbc869d7a0e33d0bbd34d0d2dbd138",
+      "size": 1842,
       "side": "both"
     },
     {
@@ -3886,6 +3935,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.1.0.jar",
       "sha256": "e4e44835fff9036c4a500a972856a22ad5ff2ca387d0d964b135fff1dd0aa046",
       "size": 32604,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/sunlitmarket-1.20.1-0.1.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlitmarket-1.20.1-0.1.0.jar",
+      "sha256": "85b307ac195a6c7a540fc8642e2c0bfbcd442edc005f3262fc4bee65d7bcd248",
+      "size": 49875,
       "side": "both"
     },
     {
