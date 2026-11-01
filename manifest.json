@@ -1,5 +1,5 @@
 {
-  "version": "20261101-1440",
+  "version": "20261101-1442",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -1224,8 +1224,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/meSeasonPrices.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_meSeasonPrices.js",
-      "sha256": "fd818734eef362f7544126520e2377f2099f37a31b65e822c2f532d0f4b82319",
-      "size": 1805,
+      "sha256": "39b4ca6976991c1a0aedf6079b06a95ab44bd329dd4afcf3ded228101befb607",
+      "size": 1810,
       "side": "both"
     },
     {
