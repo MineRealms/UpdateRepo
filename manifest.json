@@ -1,5 +1,5 @@
 {
-  "version": "20261104-0024",
+  "version": "20261104-0032",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -2267,8 +2267,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_AstralSorcery-1.20.1.0.jar",
-      "sha256": "378d12481db841217d2bb19b2b8b9f9d4b28e4167268e6238b2fca50de854a43",
-      "size": 30945652,
+      "sha256": "ee8c5d649f5e4d1352f21196a16ff3009b0e4b23a732adf9be2d2bf5cfa076e6",
+      "size": 30952074,
       "side": "both"
     },
     {
@@ -3884,8 +3884,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/Middle-earth-1.4.2-1.20.1-port.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Middle-earth-1.4.2-1.20.1-port.0.jar",
-      "sha256": "0a63d5e98514378406d34533c7dfb170f69f07ef1c4774336106c5090d9e6a7a",
-      "size": 78657070,
+      "sha256": "ab4ab7847ac4ca6896e8fde17214bdcd01a09e9d449b32c211b23aff4d95e58d",
+      "size": 79584807,
       "side": "both"
     },
     {
