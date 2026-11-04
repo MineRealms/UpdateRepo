@@ -1,5 +1,5 @@
 {
-  "version": "20261105-0101",
+  "version": "20261105-0200",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [],
@@ -4891,6 +4891,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
       "size": 76237,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1-1.10-sinytra.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Multiworld-Forge-1.20.1-1.10-sinytra.jar",
+      "sha256": "9a50f4230a3c01848d783fa1eba6c010cda13411325851a4d634ab661d556f97",
+      "size": 123610,
       "side": "both"
     },
     {
