@@ -1,5 +1,5 @@
 {
-  "version": "20261105-0036",
+  "version": "20261105-0101",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [],
@@ -73,7 +73,8 @@
     "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20748.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.5-alpha.jar",
     "versions/Society Sunlit Valley/mods/mcef-forge-2.1.6-1.20.1.jar",
-    "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar"
+    "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar",
+    "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar"
   ],
   "files": [
     {
@@ -4890,13 +4891,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
       "size": 76237,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Multiworld-Forge-1.20.1.jar",
-      "sha256": "06d918f55647be5f59dc7125352b07b530f05221baf5603f94f4a08edfb6014d",
-      "size": 124164,
       "side": "both"
     },
     {
