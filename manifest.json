@@ -1,5 +1,5 @@
 {
-  "version": "20261104-2342",
+  "version": "20261105-0036",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [],
@@ -1955,8 +1955,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquestlocalizer/lang/zh_cn.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquestlocalizer_lang_zh_cn.json",
-      "sha256": "542ed1b66e770d93f34ff06e2cc7b7c9d13ccb040dd5b2e39ffd90cbfa861dd6",
-      "size": 810432,
+      "sha256": "459e32a38faa81f0bea383a796f8cc1ec242a94728edb48c78f510296aa278c3",
+      "size": 810434,
       "side": "both"
     },
     {
