@@ -1,5 +1,5 @@
 {
-  "version": "20261104-0032",
+  "version": "20261104-2329",
   "name": "",
   "changelog": "",
   "ignore": [],
@@ -70,7 +70,10 @@
     "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20748.jar",
     "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-1.0.0-alpha.jar",
     "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20748.jar",
-    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20748.jar"
+    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20748.jar",
+    "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.5-alpha.jar",
+    "versions/Society Sunlit Valley/mods/mcef-forge-2.1.6-1.20.1.jar",
+    "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar"
   ],
   "files": [
     {
@@ -97,8 +100,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/attributefix.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_attributefix.json",
-      "sha256": "7d807c2cc087b2724e67a0aa79ed70da2a75ad78707e54283b96d985317b89a3",
-      "size": 89946,
+      "sha256": "b274cff2fbe39e46a215b45b20c6cf9b46b7d7fe065bd8729153e2d6c4c5e174",
+      "size": 90752,
       "side": "both"
     },
     {
@@ -130,6 +133,48 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/crash_assistant/config.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_config.toml",
+      "sha256": "38515b45272eab929c4325f6c588efd7832a71d2a031ca4df94bfafcf5000aad",
+      "size": 22948,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/README.md",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_crash_assistant_localization_overrides_README.md",
+      "sha256": "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d",
+      "size": 2650,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_crash_assistant_localization_overrides_zh_cn.json",
+      "sha256": "05a99426e3455decba9614c2c69a4e1683ac56b15a84e330d45db7dbb7e025e2",
+      "size": 1962,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/crash_assistant/modlist.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_modlist.json",
+      "sha256": "98fa9d45aabb957a86461588f445d4e1b8b59a37103e7e8dad9f706caaa43f84",
+      "size": 98392,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/crash_assistant/scripts/log_analysis/01_sunlit_known_issues.jexl",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_scripts_log_analysis_01_sunlit_known_issues.jexl",
+      "sha256": "ee1deb85b15576639d81446606101b91023a57275726da292196028213e2ae4e",
+      "size": 1832,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_scripts_startup_00_migrated_problematic_mods.jexl",
+      "sha256": "70a259fe03a4d709082d6b2f0d7da927042b874789b39837816307c56daf6793",
+      "size": 640,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/embeddium-options.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_embeddium-options.json",
       "sha256": "06919cac15544c081f1971509258ee4e4d08bc8cb5fa9f7a047048ac8958155f",
@@ -148,6 +193,846 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fabric_indigo-renderer.properties",
       "sha256": "73dd208c2824d7317ef1fd0a975c59957fc85d2b82761981766fe0ac13fbd95f",
       "size": 290,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/btn_a11y.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_btn_a11y.png",
+      "sha256": "ced90742dacc457453a540b3fe3dcaebe07dd21ca866ea89f6167266ff17fe9c",
+      "size": 330,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/btn_a11y_hover.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_btn_a11y_hover.png",
+      "sha256": "6f5b64a49f0510e57254fd3d3fd316515c72bcf9de24e318ff84e53de610f1c0",
+      "size": 349,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/btn_lang.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_btn_lang.png",
+      "sha256": "ceb3477ee356f1a0cf15cbe3b015255cb0b76c8b5958ecc0e9fb119aabb7ae67",
+      "size": 470,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/btn_lang_hover.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_btn_lang_hover.png",
+      "sha256": "93397513c9908a2bc8c2969cb06683dd58489b4fd81dd92eb74a35098789fe54",
+      "size": 484,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/button_base.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_button_base.png",
+      "sha256": "5ee1302f7add2ddf3665704be53562b73290bcdb455589c764d1a1b1268c234f",
+      "size": 268,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/button_base_hover.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_button_base_hover.png",
+      "sha256": "585cd0ce62ad15975fe7c9b8566843df43d95288f4ded2e01756cf39af6659b8",
+      "size": 297,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/changelog_bg.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_changelog_bg.png",
+      "sha256": "a3fff011b033f2f2cbbb30c304b4346cf2cdcd9b786d039c6018114e41d1093e",
+      "size": 619,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/changelog_en_us.markdown",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_changelog_en_us.markdown",
+      "sha256": "b9d5000c07ecfd4e847b8815b0c5b0dd7806401252092c372f0dd33b6799fcb3",
+      "size": 8469,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/changelog_ko_kr.markdown",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_changelog_ko_kr.markdown",
+      "sha256": "a3a6a101aa06ce8d8a788f204d8152568c030f5d4ffafde988928483ba429810",
+      "size": 10851,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/changelog_zh_cn.markdown",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_changelog_zh_cn.markdown",
+      "sha256": "1d1f69d2d4af1f0e46d0ec266c7c0287274e3251c7e52b3caee8e14720044ef8",
+      "size": 9536,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/credits.markdown",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_credits.markdown",
+      "sha256": "d2dddb45acaaf68ef0558c0621cb193c9999078fe7eeeed4bc793bb092352404",
+      "size": 2382,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/minecraft-export.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_minecraft-export.png",
+      "sha256": "425396d0f76519022bc507e4e717c48548709ed84cc639889cae0a42efbd1a03",
+      "size": 7947,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/svg.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_svg.png",
+      "sha256": "36c5d284b1cb99def2c6de2d0ace3887c86d8674722054eb9c88279aea008435",
+      "size": 1278182,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/assets/village.ogg",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_village.ogg",
+      "sha256": "c7d5d9925655876e6f2f94736ecaea90ee90c8ec06377eaef37892b80cd8ebac",
+      "size": 2133487,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/audio_element_controller_metas.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_audio_element_controller_metas.json",
+      "sha256": "cf0a4f53507fb85eb8c1f4c4c72f071ad7587bc5d80a007b5e008fecd3cba481",
+      "size": 114,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customizablemenus.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customizablemenus.txt",
+      "sha256": "78eee6b2906f2f6854d5d9ba4cb61b541b166ccd90964ed57536648ba4de0914",
+      "size": 342,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/credits_layout.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_credits_layout.txt",
+      "sha256": "bc634aa7461ebdc3a2490a2611eba8ab26ff94e349ad99f485701ab6ccdb90cb",
+      "size": 5216,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_join_multiplayer_screen_layout.txt",
+      "sha256": "0ce3b3f78bb8be808cf9d4926ffdefe3f10f479c65b51cb1799110530690ca6b",
+      "size": 22672,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/mojang_screen_layout.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_mojang_screen_layout.txt",
+      "sha256": "2be69c354b9c537e917bced784e85aa0d6f56b34d6ec0de2c62b1aceb28fa90a",
+      "size": 3997,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/pause_screen_layout.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_pause_screen_layout.txt",
+      "sha256": "9ff6fe3965bc9b74aa1034f0588aeb337ae159529c118444d5d9cb5c30a6b30e",
+      "size": 28287,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/title_screen_layout_4.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_title_screen_layout_4.txt",
+      "sha256": "e98284949024feb0e83a59b53f32a4fb0b0b0c478ec291519517121dfe0f3f91",
+      "size": 35617,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_universal_layout.txt",
+      "sha256": "44bd742d0f3e0f10d633cd9bcce94df5d348cc6df827c16de1f8eed89e0e6f6e",
+      "size": 2995,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/custom_gui_screens.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_custom_gui_screens.txt",
+      "sha256": "71012c1caf2b4f269ab881768e349d3f337ba88279dcf982189a1a5f76b2e70e",
+      "size": 413,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_layout_editor_widgets_element_layer_control.lewidget",
+      "sha256": "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de",
+      "size": 198,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/legacy_checklist.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/options.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_options.txt",
+      "sha256": "634c3305f5b11f8baa52972ab678de2354622d855d20603f1734928f2ec58aba",
+      "size": 2092,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_panorama_panorama_0.png",
+      "sha256": "b4cbafad6bf1f41a8dd0f59ea31625549ab7c4a7c05607c40d88ae51977bab96",
+      "size": 831809,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_panorama_panorama_1.png",
+      "sha256": "0274b1b4e08944910a3c2cf1a3f5b84dc3363050718f638ddb0b3b1d8a3df325",
+      "size": 762514,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_panorama_panorama_2.png",
+      "sha256": "314e1eebd317bc8963710d0320591c7e9892726a0c8183f0991818e3c10e6ad0",
+      "size": 880919,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_panorama_panorama_3.png",
+      "sha256": "5124f7ead3747921d0130ff3598d711e2cf5d393af790fefc08f2f240f451d15",
+      "size": 706781,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_panorama_panorama_4.png",
+      "sha256": "4e6d30c46ab62f328d5570a574d75c52ca6f7a3057d25c1136a3f220029de217",
+      "size": 26771,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_panorama_panorama_5.png",
+      "sha256": "2a9891d4984d0977a775247051bc30901df480dc84a9e9bee2087b3f296cc6a1",
+      "size": 1223536,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/apple_bee_farm/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_apple_bee_farm_properties.txt",
+      "sha256": "e84e7cb7607072b7482b4243191fa90577e08934beb943fdfafcaccfebb61c76",
+      "size": 129,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_panorama_panorama_0.png",
+      "sha256": "57fa73be8b321073f74cad79aa7f05822b0f401d5eb6247727b391d5a24e8784",
+      "size": 602742,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_panorama_panorama_1.png",
+      "sha256": "46330a92c8a3d42481902a299bc089d88801ec82cc10607982d36bce6e912b3f",
+      "size": 480157,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_panorama_panorama_2.png",
+      "sha256": "32d7369740a37390b4e46684a8567fbe87872cba03c8a7041e640b62ccbde0b5",
+      "size": 350278,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_panorama_panorama_3.png",
+      "sha256": "268bd7237911a316b879c136ded959803a083c584d88c69c922ee30dddb9cae8",
+      "size": 500065,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_panorama_panorama_4.png",
+      "sha256": "f602a3f148a705ebbf0f48edd2fed6b0fc3d4c8c65ecfa9bda95c135530bcf10",
+      "size": 134083,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_panorama_panorama_5.png",
+      "sha256": "17f9c0a892c24bf63eedd27de4d03f43143bcb7434ef40a3906f2f832f4d8c33",
+      "size": 287544,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/casino/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_casino_properties.txt",
+      "sha256": "d901e2caa9ca7244c134f72bdb98c88a517074f9519eee58b19e8b20e4340d4e",
+      "size": 121,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_panorama_panorama_0.png",
+      "sha256": "f443d25fa7b1130192e188c9486d73d63a784e26e95408a4c6ac42db1a48d1b5",
+      "size": 514704,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_panorama_panorama_1.png",
+      "sha256": "600156d9a7a64bb73fee1db0d36c5b65a24a750e2e4c0996594b61bc5578711f",
+      "size": 537854,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_panorama_panorama_2.png",
+      "sha256": "a84ead14c168c4e8bb5a5db737011fca3c4e84f67f123b5e4c1caa8dd36de62e",
+      "size": 561021,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_panorama_panorama_3.png",
+      "sha256": "cfb55abd2ebae9a159ce5723f26a6374dcb2da1e8da61296a9ce04318b30f7e5",
+      "size": 498824,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_panorama_panorama_4.png",
+      "sha256": "6f9bc324d74496021419d1ace26004d16921fb9b9e0d1731def283618660ba45",
+      "size": 221999,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_panorama_panorama_5.png",
+      "sha256": "9c711c3e266cd8c1c0886d5c70a0ed6c1740e8cab0cacb005140787f766c4619",
+      "size": 445640,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_cafe/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_cafe_properties.txt",
+      "sha256": "cf4f75cb0f353e8223592e5eac01551b92f0fd1ae218bfe436b68d63b50d18ba",
+      "size": 127,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_panorama_panorama_0.png",
+      "sha256": "9db01f20247501d5d93c4131181a5fedaf2c0486fbd95d28d1030029906dab08",
+      "size": 732256,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_panorama_panorama_1.png",
+      "sha256": "2bec64398a7eb09bb746943b4f37251925fad6f9b9ff5b13cd19fc09fbdca42f",
+      "size": 483092,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_panorama_panorama_2.png",
+      "sha256": "0c4abb5877574873d9a42eed0aad468e526bb998f2247af396fb6e6818b64371",
+      "size": 435077,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_panorama_panorama_3.png",
+      "sha256": "8c25e2a3b5d5d523cfef3bd216c050c873ecb71e4b1c66195632e5d66c951aaa",
+      "size": 823674,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_panorama_panorama_4.png",
+      "sha256": "7a717bc5a920ebb6b8a52675bfcb31ad3447165130cb65927ddae1bfd602e121",
+      "size": 55662,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_panorama_panorama_5.png",
+      "sha256": "75efcd69b6a07f42fcc98cfc8da9a07f902927bf9bdaf04ef7787d9521e129dc",
+      "size": 864269,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_farm/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_farm_properties.txt",
+      "sha256": "9e3181857591c528d4790475d2cde0ad5d258143597111a6441cc38384c09b1e",
+      "size": 127,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_panorama_panorama_0.png",
+      "sha256": "571dbddab65bf2a14d583523c0b0b71d6663e4dd61812ea44ed21028d65b2dea",
+      "size": 398217,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_panorama_panorama_1.png",
+      "sha256": "1145969d58414f36d398fb34e35800d6b5908f2fc0a02feaf860ff5486758085",
+      "size": 382911,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_panorama_panorama_2.png",
+      "sha256": "cb612643e385f0f4606fbf322231d201d2523fbbfb5c7d57e0a8b04e09c83eff",
+      "size": 450352,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_panorama_panorama_3.png",
+      "sha256": "5a5fb80703c17b31050acc19ee902a4d462b0324ae26c3acd95eef717d8de324",
+      "size": 431607,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_panorama_panorama_4.png",
+      "sha256": "a71892729d06d79581188976114f6d982b8849ae228256b1a32442e7aaed84a7",
+      "size": 2115,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_panorama_panorama_5.png",
+      "sha256": "27f7f55c3bf205fecf14ee37fd34ad8169224fe003039523c501fb8a0dad8e06",
+      "size": 288856,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_house/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_house_properties.txt",
+      "sha256": "1c79a6641d5e04457845a05fe44f53d46080bc39824f556e173d0ccca05bfda3",
+      "size": 128,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_panorama_panorama_0.png",
+      "sha256": "367dd9d170a4aafd41a4caecf53acde4d3bf88e20b208b971cd2efa272b17942",
+      "size": 660651,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_panorama_panorama_1.png",
+      "sha256": "03bb0a87a8878e97c6f3e28769cfa2c1d073a54608ba5b501c9c82d540bf7c39",
+      "size": 731725,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_panorama_panorama_2.png",
+      "sha256": "2aa207b8b07bb4c6a804b5983ac5c1c48782331b5582420ba4376ac59f021719",
+      "size": 576456,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_panorama_panorama_3.png",
+      "sha256": "92aea6a9fd69958d67a486c7f799f8f0fbc6d010decaf721a1ca41e424c6607f",
+      "size": 551796,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_panorama_panorama_4.png",
+      "sha256": "106b3425295ca811ed2b5fee4bbab27032301ec0e9f23a6905ae689c785603dc",
+      "size": 261038,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_panorama_panorama_5.png",
+      "sha256": "552900559cfacd4bbc9e35595c602af6c9bba598b963ad324c8d958f7520896b",
+      "size": 439376,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shed/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shed_properties.txt",
+      "sha256": "ec8e9f44efc0f71be25cf78c72cd45347cf32ae95469373b163f3973a192b44b",
+      "size": 127,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_panorama_panorama_0.png",
+      "sha256": "afbc4d18f6418485ec9db7656aef2e3b80913d2994e2d0d217f97552c0a4a4b5",
+      "size": 746257,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_panorama_panorama_1.png",
+      "sha256": "cee47be070f5af134ca51b7dac67d802f697055c786a1960e6baf65066cab9a0",
+      "size": 444580,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_panorama_panorama_2.png",
+      "sha256": "fc5491837d91265becd26bdcd64f505311a320e0c4f890517ee97477478c5ba4",
+      "size": 443611,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_panorama_panorama_3.png",
+      "sha256": "2cf842a306bec5da138d7bb4bfb7cd2c8b0a4850da5d78f15e421d47c6bc8f95",
+      "size": 428620,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_panorama_panorama_4.png",
+      "sha256": "1d2efedd3aa7c75353d199b97404337cde969945eed3b3aa886a9c09aae8a054",
+      "size": 38446,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_panorama_panorama_5.png",
+      "sha256": "84c3e10d9f6a35fad2683736469fa4b73312cac16acf305e0744f441204fabc2",
+      "size": 125515,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/entrana_shop/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_entrana_shop_properties.txt",
+      "sha256": "b2586094409723f69c9433b3c6bb97307a85de9def2ffeccd13f46c116ecb66f",
+      "size": 127,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_panorama_panorama_0.png",
+      "sha256": "73c312975511b243c69f288b270bf92cac8b97693bd82e012d04463d45534b82",
+      "size": 880236,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_panorama_panorama_1.png",
+      "sha256": "2eb6538a037fefffed35453926e28cbfd6d41e2d5d251012a00b96d0661da4c1",
+      "size": 617663,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_panorama_panorama_2.png",
+      "sha256": "c9106a8fb28a02aa43121ade0acb03bf59b8cc79c876923a85cf0eb55ab5f426",
+      "size": 622285,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_panorama_panorama_3.png",
+      "sha256": "86d4ece88c6c6fd67a141701b7fb205708d5dd8a1a51da019075d3f70a0d8aff",
+      "size": 909168,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_panorama_panorama_4.png",
+      "sha256": "c16ca84afcd9e8f5bc9a014a6df242ff43596f90e8b71c960e7c8b03b68f240e",
+      "size": 77722,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_panorama_panorama_5.png",
+      "sha256": "f6bfdd09df627fbf67b68fb7848713c6f57140c470f56220a6f0b81558c7929b",
+      "size": 475985,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/jesus_farm/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_jesus_farm_properties.txt",
+      "sha256": "bcdd86114de8517188181ade67f78fa7bf0d602e3fd793ae83a1e49f99679944",
+      "size": 125,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_panorama_panorama_0.png",
+      "sha256": "9275e7f4f96242efde1711073f17ccdf1be3eb3e466fa6e5e54fa8b87b73c37c",
+      "size": 562936,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_panorama_panorama_1.png",
+      "sha256": "0bac3f487b28542d8e739f555e4047bbd55783379ba39d658c3cdab134287a85",
+      "size": 396859,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_panorama_panorama_2.png",
+      "sha256": "0add46fe60f02c27d33f5019bd6df0e514271f1cc2c6ac3a4eccb764596ed8bc",
+      "size": 504857,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_panorama_panorama_3.png",
+      "sha256": "08da7afe3dbb93f5248492a325e5d87b0c4997829b393f075e715493b4807a7d",
+      "size": 442368,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_panorama_panorama_4.png",
+      "sha256": "ce3f58773ffd1016b98da63bd9c437584a615e314c493484b4615a48432d01dd",
+      "size": 21209,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_panorama_panorama_5.png",
+      "sha256": "38899d463dcf16605bbf8adc237c15c3e4f9df8ef19d18aef71fdf9b1db82775",
+      "size": 331102,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/london_farm/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_london_farm_properties.txt",
+      "sha256": "c427313058a0ff3516866c4ba20900882c27b96b668ad7c32d2ccbf9ad043ae8",
+      "size": 126,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_panorama_panorama_0.png",
+      "sha256": "2d63ed35a65c7af0bf54fad54d3d0405d875807166b0561abdb3c5dbe93c411d",
+      "size": 682911,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_panorama_panorama_1.png",
+      "sha256": "ce8dbd79ae954b476cf071307afd2e485725b1af0741848536a078efdd3de2a9",
+      "size": 568721,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_panorama_panorama_2.png",
+      "sha256": "772472d03d91d515c7970905896a9feba4348058c4d21a980fcc00cc4b412c66",
+      "size": 566124,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_panorama_panorama_3.png",
+      "sha256": "e1f58ab94a00a7a0ac37b8b0479b9c4eaa7925aea1a802c228751b61da346394",
+      "size": 512978,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_panorama_panorama_4.png",
+      "sha256": "29b91d4ff2ac46f6660f38a29e1bf1fd1f67c33c81da9fc1aaad52ae3728857b",
+      "size": 39459,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_panorama_panorama_5.png",
+      "sha256": "26f75f2ba6ed19a408bafd7d23e633cb7976f309c09abff89c83f0853fe3fb8f",
+      "size": 652365,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/server_village/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_server_village_properties.txt",
+      "sha256": "c44741c4b45869961a58135366c0997f3114469ec9c6df8dc0470ddbc51a294c",
+      "size": 129,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_panorama_panorama_0.png",
+      "sha256": "54ffb174623a9d836acbd420c4cc32926cb2a381a10dc2c4ae1eb38d451e6d33",
+      "size": 571755,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_panorama_panorama_1.png",
+      "sha256": "d31d19f5c7c4458908d761eb3f9eb694534710ea3d7695a19204bb0ebe0963dd",
+      "size": 672812,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_panorama_panorama_2.png",
+      "sha256": "11bbdcdbd361432c2e778a365444bb2bb41900c4d588e33657ac0d0a1b0141b7",
+      "size": 619645,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_panorama_panorama_3.png",
+      "sha256": "b22d0a1c752d7fc888b0ca8b75cf0ea42fee9942e863314a906cfb950abc500c",
+      "size": 570858,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_panorama_panorama_4.png",
+      "sha256": "6540210e68ae1f7fefa334f163e8fe96fb950640860fc72785d3a0dba4fecd6f",
+      "size": 73976,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_panorama_panorama_5.png",
+      "sha256": "529d533290fc230194a48e13524af9bb1e8f96f46fdd00557b24e0ec2a4a222d",
+      "size": 924428,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/shady_acres/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_shady_acres_properties.txt",
+      "sha256": "42b19e845cea96adebe18e6b0f7e1db0c9dbab15f530b322269154b78eb24073",
+      "size": 126,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/panorama/panorama_0.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_panorama_panorama_0.png",
+      "sha256": "fb23c9858bcbe648d439fba2f2f766371ea3bffbba2e976a45048b172e057d3b",
+      "size": 679296,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/panorama/panorama_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_panorama_panorama_1.png",
+      "sha256": "80eaf57a3f215954fc45ff4a5b2bcc72ac8dc3f4551d0ea681695ed948e44724",
+      "size": 342268,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/panorama/panorama_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_panorama_panorama_2.png",
+      "sha256": "98a8cf7226f311245ee68b2e625cbc20827d0b82087aa8efcca308baba8547e3",
+      "size": 625789,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/panorama/panorama_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_panorama_panorama_3.png",
+      "sha256": "607c57a23ad6f0ad3a5d0fc9586881f931e177d23c9642a03831f17a9c6599b1",
+      "size": 610840,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/panorama/panorama_4.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_panorama_panorama_4.png",
+      "sha256": "c1ba0d9ea032886298d93cd33c6fd85b9d228c7a8a888cf99f6cad664c070af9",
+      "size": 330563,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/panorama/panorama_5.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_panorama_panorama_5.png",
+      "sha256": "6a96bc9ab66e02ff42cf115ef9bfb82d103ab8e8522f0628470ebc69b8eda35b",
+      "size": 572655,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/panoramas/siberia/properties.txt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_panoramas_siberia_properties.txt",
+      "sha256": "5832653f27056910da7accfdd474fef67f77fe540999c6254611f25a55127c9f",
+      "size": 122,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_cherry_blossom.json",
+      "sha256": "6c155e91e0a8088c0d301072860c9379d969fe1fff8948e10a6f8a1eb50e7035",
+      "size": 9722,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_cozy_campfire.json",
+      "sha256": "246bdf1c77a76cded940547e3364c45d54ca897e1c2cba709ea1f2e803b470be",
+      "size": 9720,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/dark.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_dark.json",
+      "sha256": "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+      "size": 4133,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_dark_high_contrast.json",
+      "sha256": "86ac00c41d37cda3716a8fd8bfc7853f27777808fa1abc921731cf3d3c28eb03",
+      "size": 9732,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/light.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_light.json",
+      "sha256": "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "size": 4135,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_light_high_contrast.json",
+      "sha256": "647fe87f548362dbf09181119632388c9bcc5a0c33f0ab1784ec4a2e08c60050",
+      "size": 9734,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_pumpkin_soup.json",
+      "sha256": "1bd373d3f6924b200bbef324965b88de7e79e74a49a61ddf4d265d31a61366f6",
+      "size": 9718,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_purple_void.json",
+      "sha256": "0d23d3f09912878e7c6ddde4a2d3ed0a4b84cc714226a05d3b03e46fba5e46a3",
+      "size": 9716,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_ui_themes_spooky_season.json",
+      "sha256": "1427d90097c55dff9e3a810711034bedf51a28cd874d92d93f7703bf95e96c18",
+      "size": 9720,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/fancymenu/user_variables.db",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_user_variables.db",
+      "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "size": 23,
       "side": "both"
     },
     {
@@ -172,24 +1057,31 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/armor_weapons__tools.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_armor_weapons__tools.snbt",
+      "sha256": "e4fdd794b67a3b943ab62bfe819264184a7cd1483b96b6aa27ec90604542d2e4",
+      "size": 29761,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/aspect_bridge.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_aspect_bridge.snbt",
-      "sha256": "da7d62e5793d30e748cfa16fd30e67f708f068f47dad321713140f0a05fd6ae7",
+      "sha256": "dba66c9697a7d732e405d1516171d25c5343cfdaae6ce51f481fda351dcebfef",
       "size": 5023,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/astral_sorcery.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_astral_sorcery.snbt",
-      "sha256": "55888f507390ea1e781a8816d9a0d93cb08c35309ec06526e1d47171484b3f06",
-      "size": 50262,
+      "sha256": "285536350143e06b7de9e173331e4475b938506b0d4a8d7875b437dd7bed0ea5",
+      "size": 50444,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/botania.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_botania.snbt",
-      "sha256": "cb90c2faf70058c0daa665227fb7682a6cfa10b80da989caa04cb89ec62e2c84",
-      "size": 24350,
+      "sha256": "e15b1f3c31313a3735af9862e7881073b6ee5732244baad29118be1c0146e6a3",
+      "size": 24484,
       "side": "both"
     },
     {
@@ -335,8 +1227,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/space.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_space.snbt",
-      "sha256": "ed7b22827f39e86310960e77516a7923dbe6e54b91fa083de9b667194912dee4",
-      "size": 21446,
+      "sha256": "0023e91646f0e75f2110ecbe96af4e267b039cf09535f5e54bf0b1fd4967ea06",
+      "size": 21470,
       "side": "both"
     },
     {
@@ -356,8 +1248,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/thaumcraft.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumcraft.snbt",
-      "sha256": "0d856f1dd785b7ab9c1961530416ebd5da30058aa76b52fea5f90bc9b16a46bb",
-      "size": 12640,
+      "sha256": "6b8023b86294bd32e615548c8367e2d4931fc0cb87f8574bd0a353b7c0377f66",
+      "size": 13246,
       "side": "both"
     },
     {
@@ -365,6 +1257,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumic_addons.snbt",
       "sha256": "961d6ef029b3d84fcecf8ff88b906083f819ded58845ab4786b9d31974f9fbb4",
       "size": 46662,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/tinkers.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_tinkers.snbt",
+      "sha256": "172f200c03c99a37c7530d60638f658144f799302634a642ca9fbea8940c0fb8",
+      "size": 9946,
       "side": "both"
     },
     {
@@ -475,7 +1374,7 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/aspect_bridge_ids.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_aspect_bridge_ids.json",
-      "sha256": "91c158d6c0afdeb12163b8febc4b0fdb022a42b53742a8db88a90f61aeb11e65",
+      "sha256": "2bdef365dea14ea83986d90ecc68638928d588c49d75f667cf89a702edbbbb9d",
       "size": 920,
       "side": "both"
     },
@@ -496,8 +1395,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_aspect_bridge_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_aspect_bridge_chapter.py",
-      "sha256": "9b853408d5f9958949cab9b181073933c32eed8fd4d14cc51da34062aad3e480",
-      "size": 12798,
+      "sha256": "7773526c8c47403bfbb2cffed03920be0e77890d368714a04c3726cfd59a8c58",
+      "size": 14372,
       "side": "both"
     },
     {
@@ -531,8 +1430,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_thaumic_addons_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_thaumic_addons_chapter.py",
-      "sha256": "4011fb02e6147e28df3100d3dd7c6fc237b6fc805f4d73ba48c196e782f9f473",
-      "size": 32945,
+      "sha256": "a214ee915fa6d579a6d5b1b814bc01df53a9fd3688927510d0cede630fcc97bb",
+      "size": 33647,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_tinkers_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_tinkers_chapter.py",
+      "sha256": "fa3cc9404a1001feba3da95a0d91d57283ee6e60a6614481df3640b142c56e7c",
+      "size": 13762,
       "side": "both"
     },
     {
@@ -559,8 +1465,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/thaumic_addons_ids.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_thaumic_addons_ids.json",
-      "sha256": "1d6511b16f5e5fe072816e8368925ab6ae735b30e11570e13b652edf25ac2e69",
-      "size": 19672,
+      "sha256": "1f5ab3a27516fd7055d25ee432d32c6aee73ce419bf708404fd734a5de60aec9",
+      "size": 19356,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/tinkers_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_tinkers_ids.json",
+      "sha256": "6a65851a601c2ce3bb1294e835de8f5d3c7dbe0e183b01e19f72b62c0cf74235",
+      "size": 1472,
       "side": "both"
     },
     {
@@ -580,8 +1493,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/isorropia-common.toml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_isorropia-common.toml",
-      "sha256": "9cbc7da62de3819370a0012b00e51766cd1a030c53600f7647a8979104e5c7b8",
-      "size": 424,
+      "sha256": "c5d0a7663fa6d70c8a3df6707abf9d616af6d25ccb853f987aa6c9c254a307fe",
+      "size": 756,
       "side": "both"
     },
     {
@@ -720,15 +1633,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/packetfixer.properties",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_packetfixer.properties",
-      "sha256": "7eb58a770f661c49e18a7760a5330422fe6c005cf09f32b8ae65a71a80132583",
+      "sha256": "12352c429145f2e98d608f603a7598ebc5040e0a247c8d762bd7b842057900ce",
       "size": 488,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/pollution-common.toml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_pollution-common.toml",
-      "sha256": "d2fc094e302e6dde9a13ab87e2c905c9022c9107a9db2b8807f7262b53bee062",
-      "size": 2876,
+      "sha256": "316f1b5f6b278efeca623002f9573d13c72a8532dc9a4510df5fa6ddd06a881c",
+      "size": 3140,
       "side": "both"
     },
     {
@@ -811,8 +1724,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/tools/build_twilight_forest_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_tools_build_twilight_forest_chapter.py",
-      "sha256": "04418e0986cb07b49c0f1893845e3dc0a75a78f242a84d440870f237531fbb4c",
-      "size": 38282,
+      "sha256": "1a86cff49bae0019963f3f54945861291d410959b23faa8dd2bd8b6e96bc8647",
+      "size": 41460,
       "side": "both"
     },
     {
@@ -839,15 +1752,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/warptheory-common.toml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_warptheory-common.toml",
-      "sha256": "0a3a0742c2a840e627c7e0ac441790647d1274ecb5e0ad7ce4e923dba1a20acd",
-      "size": 157,
+      "sha256": "00f0692eb41c3355f4d3ef6a7e9d1970e153d3554e650e7ed4c9ea59c8f6ec36",
+      "size": 326,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/docs/BIO_LINE_PLAN.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_BIO_LINE_PLAN.md",
-      "sha256": "0861158ed08d7a5859f0d00c19610b05432d3e003ffb581a893af99a546c1784",
-      "size": 26810,
+      "sha256": "dbc6815042b3039098fe183dec4810f86c762ec4503d063330b1249fceaf72c3",
+      "size": 27004,
       "side": "both"
     },
     {
@@ -874,8 +1787,8 @@
     {
       "path": "versions/Society Sunlit Valley/docs/GT_ADDON_LINE_PLAN.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_GT_ADDON_LINE_PLAN.md",
-      "sha256": "f1b0e6a027807576b194d85a2373ffe9466943156b85e92992be29100b6b8163",
-      "size": 18823,
+      "sha256": "d62eea262a1dc0ad88ff648940552ac2f2991ce214adcb1fb00e6dd205d2a870",
+      "size": 21038,
       "side": "both"
     },
     {
@@ -944,8 +1857,8 @@
     {
       "path": "versions/Society Sunlit Valley/docs/PROJECT_OVERVIEW.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_PROJECT_OVERVIEW.md",
-      "sha256": "d537cdfb3c945c77af34281d4dbe2531b700251f7e87f1233c380574e41f2ee2",
-      "size": 10291,
+      "sha256": "41fd00be29d2fe3381467a6e6805c31a1538e9fd7891e9bf187ba863ab8d36ed",
+      "size": 11533,
       "side": "both"
     },
     {
@@ -958,15 +1871,15 @@
     {
       "path": "versions/Society Sunlit Valley/docs/SPACE_INTEGRATION.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_SPACE_INTEGRATION.md",
-      "sha256": "c815e445c62d17703951cc9f76bbdf8a40d4e6d8d85da15ce676c61e6c172100",
-      "size": 7045,
+      "sha256": "ea162aa9e40123044e933722b7c647c7900aca7d3547ac73d88a1dcda03dd79a",
+      "size": 7830,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/docs/STATUS.md",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_STATUS.md",
-      "sha256": "6c7cbd31293d7bca5d3836e53ec0d1711f8e1ed7dfa97b5d1a4b11508979cb71",
-      "size": 10060,
+      "sha256": "edbc185fd3c47ba2cbca3f078c5ef0e0ffc9537619d515fdd92b9235f937ba2d",
+      "size": 13635,
       "side": "both"
     },
     {
@@ -1042,8 +1955,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquestlocalizer/lang/zh_cn.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquestlocalizer_lang_zh_cn.json",
-      "sha256": "e76fef48320d8ff98ac7a02710444232a57093943f6a21ec9e0e950c6786f8d3",
-      "size": 804987,
+      "sha256": "542ed1b66e770d93f34ff06e2cc7b7c9d13ccb040dd5b2e39ffd90cbfa861dd6",
+      "size": 810432,
       "side": "both"
     },
     {
@@ -1658,15 +2571,15 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/fixRocketFuels.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_fixRocketFuels.js",
-      "sha256": "f072b6478b65664e1fd4af0ef5f3fef8b19404a9c9c3a3c059578e871acd1abb",
-      "size": 1310,
+      "sha256": "9d5287ee2cf81e49d8a59abfba76922201eb2f8d518a77473d48e0897cc1a089",
+      "size": 1877,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/gtnnLinks.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_gtnnLinks.js",
-      "sha256": "67a72b97f61b268bdaeca59697d999b1b45986e9cd604c14b18d6a6461794fef",
-      "size": 2503,
+      "sha256": "3c5c9b9f15f951cf486545f6bc0cf399e87b0931050d08d14127dfb6109a3932",
+      "size": 2659,
       "side": "both"
     },
     {
@@ -1686,8 +2599,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/mekLinks.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_mekLinks.js",
-      "sha256": "0e536790729957dd42e75cffd83ee5208fbe85313f746505f971205bc29c6f97",
-      "size": 1937,
+      "sha256": "5e44c107c2c834cfd7eb0970b0364252d4bafd1cfdd6880350b5c221e6ca2894",
+      "size": 1991,
       "side": "both"
     },
     {
@@ -2001,7 +2914,7 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/bridgeTechnomGt.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_bridgeTechnomGt.js",
-      "sha256": "e3fb99e85c33153bc2c961a7aafea94150eb9c7c84ddaddd90c3e44070fa1460",
+      "sha256": "fed7c9326d31e7dbc989d751df6e97c540626c74d1be071467cf3aeb76a2ca05",
       "size": 2988,
       "side": "both"
     },
@@ -2120,8 +3033,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/(59+)污染 Pollution-1.20.1-1.0.0-port.0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.Pollution-1.20.1-1.0.0-port.0.1.0.jar",
-      "sha256": "38701380633ceb20f5ed6f3cf7f29e0f06281ea9e6eee10393a90eb2ddbe08cf",
-      "size": 10419509,
+      "sha256": "4cf4ce00a5d695d527bfb6460f403c2126c75bf81cd2649334fe188e9360e6e7",
+      "size": 10473812,
       "side": "both"
     },
     {
@@ -2132,10 +3045,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.5-alpha.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.ThaumicHorizons-1.20.1-1.0.5-alpha.jar",
-      "sha256": "2b9a6e5656837872b392081f509b90817220a7041a809048f6979aab06d48561",
-      "size": 4276635,
+      "path": "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.10-alpha.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.ThaumicHorizons-1.20.1-1.0.10-alpha.jar",
+      "sha256": "b525619d376fc19f901e175f385caec2b2a2988869a7b8c6fe77c551b3926f7c",
+      "size": 4284868,
       "side": "both"
     },
     {
@@ -3007,6 +3920,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/eventwrapper-forge-1.20.1-1.1.4.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_eventwrapper-forge-1.20.1-1.1.4.jar",
+      "sha256": "b583db8e37efe39d14257f316ebbb20d502e3f063f21e367595e54085c1d5de1",
+      "size": 1564001,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/everycomp-1.20-2.9.24-forge.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_everycomp-1.20-2.9.24-forge.jar",
       "sha256": "f7be6337c47c98ad9aabff5e0657b7a392e158313bcd18f1a2719f6f6df1a2df",
@@ -3039,6 +3959,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_ExtendedAE-1.20-1.4.3-forge.jar",
       "sha256": "0b5adaf148d0f8198273b3c26d1dea5bcb575c77604403ba92808c294728fcf1",
       "size": 1538278,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/extrabotany-forge-1.20.1-1.9.2.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_extrabotany-forge-1.20.1-1.9.2.jar",
+      "sha256": "1de99382011d71c25e708107221e70d9a2f9c815a0b847a72317e62234e0ae26",
+      "size": 3869675,
       "side": "both"
     },
     {
@@ -3602,6 +4529,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/kubejs_botania-1.4.0-forge.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_kubejs_botania-1.4.0-forge.jar",
+      "sha256": "26b37e33e24f87e411c557a285f5b53c7384497cf8d00c0263db1f10462b72b2",
+      "size": 28516,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/kubejs_curios_forge_1.20.1-1.0.4.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_kubejs_curios_forge_1.20.1-1.0.4.jar",
       "sha256": "acfcf24a006e14e2d2f9dee3706017f526b88a47c205880546938d44432da1d1",
@@ -3728,6 +4662,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/LibX-1.20.1-5.0.14.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_LibX-1.20.1-5.0.14.jar",
+      "sha256": "6b795bbeeb320a4fc44438bec23f7937e8c70f7b87e809e044872e37a9ac1b27",
+      "size": 1258082,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/lionfishapi-2.4-Fix.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_lionfishapi-2.4-Fix.jar",
       "sha256": "7f54de417aae331bf39f2847d3029d0976b90b50f217f9b4cc856433d34aee6f",
@@ -3823,13 +4764,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MaxEnchantX-1.20.X-1.3-Forge.jar",
       "sha256": "3d43e1461047054f1ee1c3f3a5ffae43c4c422ea435e092464682d71efa2bc84",
       "size": 32212,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/mcef-forge-2.1.6-1.20.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mcef-forge-2.1.6-1.20.1.jar",
-      "sha256": "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3",
-      "size": 218417,
       "side": "both"
     },
     {
@@ -3959,6 +4893,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Multiworld-Forge-1.20.1.jar",
+      "sha256": "06d918f55647be5f59dc7125352b07b530f05221baf5603f94f4a08edfb6014d",
+      "size": 124164,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/MyServerIsCompatible-1.20-1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MyServerIsCompatible-1.20-1.0.jar",
       "sha256": "74bd64fe43eefa4a81006184b7558ceff20f6579597c0c35baeb44e70cfaaf51",
@@ -3970,6 +4911,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_mysticaloaktree-1.20-1.11.jar",
       "sha256": "217f791ed65773a26f0563e45e15bed025e95b91e77f114169706777e6fb72d7",
       "size": 231836,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/MythicBotany-1.20.1-4.0.4.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_MythicBotany-1.20.1-4.0.4.jar",
+      "sha256": "395ccecf60321fede08a5a528087af273269f21ddce062270df6568d405a463d",
+      "size": 2233413,
       "side": "both"
     },
     {
@@ -4673,6 +5621,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.2.0.jar",
+      "sha256": "652a4f4967c7e67b0714eb948a9b42de9594afcedf96ba6fb07fc246970c2db4",
+      "size": 16322,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.2.0.jar",
       "sha256": "5d18fa6ad9a5ccb0d98324dba55da948bb629f03145d62f8174375b5c4cd930e",
@@ -4971,13 +5926,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_waystones-forge-1.20.1-14.1.17.jar",
       "sha256": "079aa58d6e95bee3caff622e10dcb6504efef43b803c7c21e2551201bd1ca78c",
       "size": 518286,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_webdisplays-2.0.2-1.20.1.jar",
-      "sha256": "017626c9c08bc6fa620c33643bd6ce9a1368f741b3af36d62fc299d5e38535af",
-      "size": 811968,
       "side": "both"
     },
     {
