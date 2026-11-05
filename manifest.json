@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1337",
+  "version": "20261105-1405",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -85,7 +85,8 @@
     "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar",
     "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar",
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar",
-    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar"
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar",
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.1.jar"
   ],
   "files": [
     {
@@ -5668,10 +5669,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.1.jar",
-      "sha256": "7176f770241a1e24e4792ca73402ee55dcdaff9c4f9f544720d69e9525a1785c",
-      "size": 44362,
+      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.2.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.2.jar",
+      "sha256": "4a5270f4e16222659df2898cf909830d63a9a6119034bd8246dcd5aeddeb6bfd",
+      "size": 49241,
       "side": "both"
     },
     {
