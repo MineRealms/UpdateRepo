@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1619",
+  "version": "20261105-1710",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -1152,8 +1152,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "8778ec31832994abbc94eeff057f83445ad16dde951a3c454ae4b20da5b94572",
-      "size": 40508,
+      "sha256": "0039c513e72875f5a65f71a8e78178d90a6cf6f9eac9016db78adb2a8fa77f53",
+      "size": 41073,
       "side": "both"
     },
     {
@@ -1257,8 +1257,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/twilight_forest.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_twilight_forest.snbt",
-      "sha256": "1396c1b21eb3c16a9fde54269f2e735c393a1c1f480829543ccf4a8f2538fc7b",
-      "size": 27520,
+      "sha256": "22cf2750db716b2ae87cca28f732beacc27a966370bce91b2e4a74be2634da77",
+      "size": 26889,
       "side": "both"
     },
     {
@@ -2060,6 +2060,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/twilightforest/tags/items/portal/activator.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_kubejs_data_twilightforest_tags_items_portal_activator.json",
+      "sha256": "53fa5da67d6089fd819056ce921451e4394e9cb4f5819e0ae0dd5a72ffcc414e",
+      "size": 68,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/botania/gateBotania.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_botania_gateBotania.js",
       "sha256": "b8b1d10951f20dbf0ce07543b189e557bdfb457629c2d3e5fd5ec69130ce7720",
@@ -2566,8 +2573,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/(59+)污染 Pollution-1.20.1-1.0.0-port.0.1.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.Pollution-1.20.1-1.0.0-port.0.1.0.jar",
-      "sha256": "c51d19d23be26638072c039a77cb8b371b094bf584dccc0cf279590b4f8431d2",
-      "size": 10477933,
+      "sha256": "8caa25eb5f8a513f9d3f4d3358b6ae67c9679b1c540b3f7857004346403ef030",
+      "size": 10479329,
       "side": "both"
     },
     {
