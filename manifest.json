@@ -1,6 +1,6 @@
 {
-  "version": "phase4-20261105",
-  "name": "Sunlit Valley targeted runtime update",
+  "version": "20261105-1337",
+  "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
@@ -84,7 +84,8 @@
     "versions/Society Sunlit Valley/mods/mcef-forge-2.1.6-1.20.1.jar",
     "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar",
     "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar",
-    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar"
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar",
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar"
   ],
   "files": [
     {
@@ -1268,6 +1269,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumic_addons.snbt",
       "sha256": "961d6ef029b3d84fcecf8ff88b906083f819ded58845ab4786b9d31974f9fbb4",
       "size": 46662,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/thaumic_industry.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumic_industry.snbt",
+      "sha256": "0bf3229c70e098214f26c28d27caee705e2012792a3211108b929afa25b5896f",
+      "size": 19354,
       "side": "both"
     },
     {
@@ -2671,6 +2679,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/phase4RecipeRepairs.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_phase4RecipeRepairs.js",
+      "sha256": "321e5ba92bd8592115dc79eee89336c2d6b7eb813afcab8dc813391bfa5431a8",
+      "size": 207812,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt_demo.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_demo.js",
       "sha256": "fe317879d7d686b617d732b92a46a56ad13228988ed809be4330d202153dd5af",
@@ -2881,6 +2896,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/fixVintageDelightTags.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_fixVintageDelightTags.js",
+      "sha256": "e4899df1c5a57791cb8a507c7c5cc8a75d1dba0535fca8998547fcca90c9fdbb",
+      "size": 607,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/handleGtmfoTags.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_handleGtmfoTags.js",
       "sha256": "379c93607ca3182b94440119bb5dceea9d68090357385ca2a67de08bd81f1250",
@@ -3032,6 +3054,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_manifest.json",
       "sha256": "87e89d0a75121b0b09689c3c176bb26bf2a35f6cdb9ab057d457c63041a980d9",
       "size": 85092,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/ModpackUpdater-all.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_ModpackUpdater-all.jar",
+      "sha256": "e0ff92df1107f3980644e2c2f5d624e892277b0cfbffa29c4d132a6a3bddf763",
+      "size": 390523,
       "side": "both"
     },
     {
@@ -5639,10 +5668,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.0.jar",
-      "sha256": "7d54d4431653ccfd4a0935c6f3c06c09a316794ef5017d751e9c8e7ba53dc11a",
-      "size": 44039,
+      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.1.jar",
+      "sha256": "7176f770241a1e24e4792ca73402ee55dcdaff9c4f9f544720d69e9525a1785c",
+      "size": 44362,
       "side": "both"
     },
     {
@@ -6007,34 +6036,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_SPACE_INTEGRATION.md",
       "sha256": "c815e445c62d17703951cc9f76bbdf8a40d4e6d8d85da15ce676c61e6c172100",
       "size": 7045,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/thaumic_industry.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumic_industry.snbt",
-      "sha256": "0bf3229c70e098214f26c28d27caee705e2012792a3211108b929afa25b5896f",
-      "size": 19354,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/phase4RecipeRepairs.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_phase4RecipeRepairs.js",
-      "sha256": "321e5ba92bd8592115dc79eee89336c2d6b7eb813afcab8dc813391bfa5431a8",
-      "size": 207812,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/fixVintageDelightTags.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_fixVintageDelightTags.js",
-      "sha256": "e4899df1c5a57791cb8a507c7c5cc8a75d1dba0535fca8998547fcca90c9fdbb",
-      "size": 607,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/ModpackUpdater-all.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_ModpackUpdater-all.jar",
-      "sha256": "e0ff92df1107f3980644e2c2f5d624e892277b0cfbffa29c4d132a6a3bddf763",
-      "size": 390523,
       "side": "both"
     }
   ]
