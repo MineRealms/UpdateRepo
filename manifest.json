@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1528",
+  "version": "20261105-1534",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -1151,15 +1151,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "de454f99286aed634b6d59d7fee0d037807b4ce8f417345382482c38c0f0f625",
-      "size": 31358,
+      "sha256": "600178915e39854d98216f352f7043c4026b4808c8f02f6dc8579aad2f42d9b3",
+      "size": 33574,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_processing.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_processing.snbt",
-      "sha256": "574c92907d0b34202c32134785367df3dfc475b4aef6e2528c21038dcaac36ee",
-      "size": 16547,
+      "sha256": "b56e0fae82f50a8241014aee7eb096c57a9f26faa4d6a5469d470dec5aec1c88",
+      "size": 18600,
       "side": "both"
     },
     {
