@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1710",
+  "version": "20261105-1735",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -2559,8 +2559,8 @@
     {
       "path": "versions/Society Sunlit Valley/ModpackUpdater-all.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_ModpackUpdater-all.jar",
-      "sha256": "e0ff92df1107f3980644e2c2f5d624e892277b0cfbffa29c4d132a6a3bddf763",
-      "size": 390523,
+      "sha256": "a26ee0e7a8db5a6f6d6aab98c3cc79e809e81e7af8260effbf4df624520ce7ba",
+      "size": 393048,
       "side": "both"
     },
     {
