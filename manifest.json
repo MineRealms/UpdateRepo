@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1506",
+  "version": "20261105-1511",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -2259,6 +2259,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_mincerRecipeCleanup.js",
       "sha256": "cd3542daef2151a3b9342a95bb962159adec8af709e7faa7c188632314ca3f4d",
       "size": 234,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitHud.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitHud.js",
+      "sha256": "b461b329abec12e39fd2a9f746accf6201a499dc9a2b3e3feee0651a867afa61",
+      "size": 1653,
       "side": "both"
     },
     {
