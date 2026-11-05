@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1534",
+  "version": "20261105-1619",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -165,7 +165,8 @@
     "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_silver_cluster_smelting.json",
     "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_tin_cluster_smelting.json",
     "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json",
-    "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json"
+    "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json",
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.3.jar"
   ],
   "files": [
     {
@@ -1151,15 +1152,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "600178915e39854d98216f352f7043c4026b4808c8f02f6dc8579aad2f42d9b3",
-      "size": 33574,
+      "sha256": "8778ec31832994abbc94eeff057f83445ad16dde951a3c454ae4b20da5b94572",
+      "size": 40508,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_processing.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_processing.snbt",
-      "sha256": "b56e0fae82f50a8241014aee7eb096c57a9f26faa4d6a5469d470dec5aec1c88",
-      "size": 18600,
+      "sha256": "6d032e911af07a9d15c524770739d6dbfae9b4f0d7c4abc5338a338bd64edea0",
+      "size": 20198,
       "side": "both"
     },
     {
@@ -5160,10 +5161,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.3.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.3.jar",
-      "sha256": "2b07bebf3f304f1cea79a98a9a0e450c30ecf9db4e5c1f2aca1457824a69c90b",
-      "size": 49239,
+      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.4.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.4.jar",
+      "sha256": "2f64cb7b10407d248daf5f5442eeb8ea0b945de39324f107eb376c5a1d5f0f57",
+      "size": 49658,
       "side": "both"
     },
     {
