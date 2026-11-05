@@ -6,15 +6,11 @@
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
     "versions/Society Sunlit Valley/config/fabric/indigo-renderer.properties",
-    "versions/Society Sunlit Valley/config/fancymenu/customization/pause_screen_layout.txt",
-    "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt",
-    "versions/Society Sunlit Valley/config/fancymenu/options.txt",
     "versions/Society Sunlit Valley/config/jade/plugins.json",
     "versions/Society Sunlit Valley/config/jade/sort-order.json",
     "versions/Society Sunlit Valley/config/jei/client/recipe-category-sort-order.ini",
     "versions/Society Sunlit Valley/config/oculus.properties",
-    "versions/Society Sunlit Valley/config/packetfixer.properties",
-    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar"
+    "versions/Society Sunlit Valley/config/packetfixer.properties"
   ],
   "delete": [
     "versions/HMCL-3.10.0.318.jar",
@@ -87,7 +83,8 @@
     "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.5-alpha.jar",
     "versions/Society Sunlit Valley/mods/mcef-forge-2.1.6-1.20.1.jar",
     "versions/Society Sunlit Valley/mods/webdisplays-2.0.2-1.20.1.jar",
-    "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar"
+    "versions/Society Sunlit Valley/mods/Multiworld-Forge-1.20.1.jar",
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar"
   ],
   "files": [
     {
@@ -5427,8 +5424,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/SignPicture-Rebornified-1.0.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_SignPicture-Rebornified-1.0.0.jar",
-      "sha256": "049f437c37271ce296d0733899f00f313e9138953aba56cf9b5f2d6eaa86cfde",
-      "size": 345690,
+      "sha256": "496485cee891852d11eae54aa6fb7c3ba50c77f468bb3b864905499911deb986",
+      "size": 347328,
       "side": "both"
     },
     {
@@ -5642,10 +5639,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.2.0.jar",
-      "sha256": "5d18fa6ad9a5ccb0d98324dba55da948bb629f03145d62f8174375b5c4cd930e",
-      "size": 39374,
+      "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.0.jar",
+      "sha256": "7d54d4431653ccfd4a0935c6f3c06c09a316794ef5017d751e9c8e7ba53dc11a",
+      "size": 44039,
       "side": "both"
     },
     {
