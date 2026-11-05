@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1735",
+  "version": "20261105-1828",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -166,16 +166,35 @@
     "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_tin_cluster_smelting.json",
     "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json",
     "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json",
-    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.3.jar"
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.3.jar",
+    "versions/Society Sunlit Valley/BOTANIA_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/BIO_LINE_PLAN.md",
+    "versions/Society Sunlit Valley/docs/BOTANIA_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/FTBQ_GUIDE.md",
+    "versions/Society Sunlit Valley/docs/GTMFO_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/GT_ADDON_LINE_PLAN.md",
+    "versions/Society Sunlit Valley/docs/GT_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/KUBEJS.md",
+    "versions/Society Sunlit Valley/docs/MAINTENANCE_GUIDE.md",
+    "versions/Society Sunlit Valley/docs/MIDDLE_EARTH_GUIDE.md",
+    "versions/Society Sunlit Valley/docs/MODPACK_REPORT.md",
+    "versions/Society Sunlit Valley/docs/MODS_BASELINE.md",
+    "versions/Society Sunlit Valley/docs/PROJECT_OVERVIEW.md",
+    "versions/Society Sunlit Valley/docs/RESEARCH_LINES.md",
+    "versions/Society Sunlit Valley/docs/SPACE_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/STATUS.md",
+    "versions/Society Sunlit Valley/docs/SUNLIT_MARKET.md",
+    "versions/Society Sunlit Valley/docs/SUNLIT_VALLEY_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/SV_PRICE_AUDIT.md",
+    "versions/Society Sunlit Valley/docs/TASK_GUIDE.md",
+    "versions/Society Sunlit Valley/docs/TC4_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/TF_INTEGRATION.md",
+    "versions/Society Sunlit Valley/docs/TOOLS.md",
+    "versions/Society Sunlit Valley/GTMFO_INTEGRATION.md",
+    "versions/Society Sunlit Valley/GT_INTEGRATION.md",
+    "versions/Society Sunlit Valley/SPACE_INTEGRATION.md"
   ],
   "files": [
-    {
-      "path": "versions/Society Sunlit Valley/BOTANIA_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_BOTANIA_INTEGRATION.md",
-      "sha256": "39c121d5151eea24513d6060230132aa641640c164f6326a236b009cb37b9250",
-      "size": 5487,
-      "side": "both"
-    },
     {
       "path": "versions/Society Sunlit Valley/config/fancymenu/assets/btn_a11y.png",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_btn_a11y.png",
@@ -1458,87 +1477,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/docs/BIO_LINE_PLAN.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_BIO_LINE_PLAN.md",
-      "sha256": "dbc6815042b3039098fe183dec4810f86c762ec4503d063330b1249fceaf72c3",
-      "size": 27004,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/BOTANIA_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_BOTANIA_INTEGRATION.md",
-      "sha256": "39c121d5151eea24513d6060230132aa641640c164f6326a236b009cb37b9250",
-      "size": 5487,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/FTBQ_GUIDE.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_FTBQ_GUIDE.md",
-      "sha256": "12fec85442c8299a7be48f1ae7316de7bf49c20543343f93a8a013aaafa479ed",
-      "size": 10045,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/GTMFO_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_GTMFO_INTEGRATION.md",
-      "sha256": "83ac4c0ebe1c5d9a1e05fe5c4ff9d06c7e5bde68df5be2ab0da0d09549f9c3a0",
-      "size": 22420,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/GT_ADDON_LINE_PLAN.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_GT_ADDON_LINE_PLAN.md",
-      "sha256": "d62eea262a1dc0ad88ff648940552ac2f2991ce214adcb1fb00e6dd205d2a870",
-      "size": 21038,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/GT_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_GT_INTEGRATION.md",
-      "sha256": "bf34786664ae77fb4c0179d88ad76377025c7d58cf96e8332ddaf325781dd67f",
-      "size": 23650,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/KUBEJS.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_KUBEJS.md",
-      "sha256": "073df5e63cf2d809aeaae6671b977d99d01fc14fda9c7ab341a276c27a9f8302",
-      "size": 4370,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/MAINTENANCE_GUIDE.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_MAINTENANCE_GUIDE.md",
-      "sha256": "90b44a2c429288d198b60033cbe9c8ae02701832248ab33b85db6e735075f95f",
-      "size": 9553,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/MIDDLE_EARTH_GUIDE.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_MIDDLE_EARTH_GUIDE.md",
-      "sha256": "9b6cf8368f00286f3d7d454ffd667112d5b297479f228952f45f6d66b6e90031",
-      "size": 7900,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/docs/MODPACK_REPORT.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_MODPACK_REPORT.json",
       "sha256": "2d5d117293ab8149df7973ded3d3d9c9ae29e89421d1e8d9b489d2a53e407aea",
       "size": 68291,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/MODPACK_REPORT.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_MODPACK_REPORT.md",
-      "sha256": "458d3319772b8633cb93cbd704b81d71b614bdbdac65360439ca5f57b89266a8",
-      "size": 43298,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/MODS_BASELINE.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_MODS_BASELINE.md",
-      "sha256": "2014cab7abfc161a5644f45ca04a911b414ac60e3e6045cec76bb9d421f2d48c",
-      "size": 58967,
       "side": "both"
     },
     {
@@ -1553,97 +1495,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_overview.png",
       "sha256": "a0875f0ce91aca5bfb1cb73d8c8878f8b9d61083f5788430d1bd528a135b0eaf",
       "size": 1294548,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/PROJECT_OVERVIEW.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_PROJECT_OVERVIEW.md",
-      "sha256": "41fd00be29d2fe3381467a6e6805c31a1538e9fd7891e9bf187ba863ab8d36ed",
-      "size": 11533,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/RESEARCH_LINES.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_RESEARCH_LINES.md",
-      "sha256": "107056d905c98da2e25ce1681446aa529355f0157756156c70ad211c96406e01",
-      "size": 7357,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/SPACE_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_SPACE_INTEGRATION.md",
-      "sha256": "ea162aa9e40123044e933722b7c647c7900aca7d3547ac73d88a1dcda03dd79a",
-      "size": 7830,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/STATUS.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_STATUS.md",
-      "sha256": "edbc185fd3c47ba2cbca3f078c5ef0e0ffc9537619d515fdd92b9235f937ba2d",
-      "size": 13635,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/SUNLIT_MARKET.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_SUNLIT_MARKET.md",
-      "sha256": "29696ed17c1821441a0fec03ff03429aa8238814a33ead68a2d4b2e2e105b71d",
-      "size": 7343,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/SUNLIT_VALLEY_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_SUNLIT_VALLEY_INTEGRATION.md",
-      "sha256": "a618b4fdb0f15b787e2786349405655d23595d4317eac573f8d7cfd09f8a8c17",
-      "size": 12606,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/SV_PRICE_AUDIT.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_SV_PRICE_AUDIT.md",
-      "sha256": "389d39bc6eea92fb7d2848f7af9983c0c25cb9ce85013ef2998630adb8285159",
-      "size": 7225,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/TASK_GUIDE.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_TASK_GUIDE.md",
-      "sha256": "b79fc3f318b9968e0a8fe01949c47fd5c0420319df03a02540cd6a5d985b8b33",
-      "size": 8302,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/TC4_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_TC4_INTEGRATION.md",
-      "sha256": "c027ca51182954a237a2bfbcf40778f9d9cfc613e47e41a656bd162316fabd9d",
-      "size": 26340,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/TF_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_TF_INTEGRATION.md",
-      "sha256": "fdd83b57da775a5bc8c8a56144df84fd9cc69239b8b20197ba0fd5a270d7fa69",
-      "size": 9156,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/docs/TOOLS.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_docs_TOOLS.md",
-      "sha256": "35f5f91f67bf853a0e5a56c8590b5e4dcb88695ba6086776b6f3a17af2d1cd61",
-      "size": 6226,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/GTMFO_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_GTMFO_INTEGRATION.md",
-      "sha256": "83ac4c0ebe1c5d9a1e05fe5c4ff9d06c7e5bde68df5be2ab0da0d09549f9c3a0",
-      "size": 22420,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/GT_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_GT_INTEGRATION.md",
-      "sha256": "348ee9d6e22e5c1351db0643c5538c04062934405bc6e7ea10cac5a43dcb110e",
-      "size": 26556,
       "side": "both"
     },
     {
@@ -5529,13 +5380,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/SPACE_INTEGRATION.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_SPACE_INTEGRATION.md",
-      "sha256": "c815e445c62d17703951cc9f76bbdf8a40d4e6d8d85da15ce676c61e6c172100",
-      "size": 7045,
       "side": "both"
     }
   ]
