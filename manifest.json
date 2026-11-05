@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1434",
+  "version": "20261105-1503",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -87,7 +87,8 @@
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar",
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar",
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.1.jar",
-    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.2.jar"
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.2.jar",
+    "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt"
   ],
   "files": [
     {
@@ -345,8 +346,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/fancymenu/customization/pause_screen_layout.txt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_pause_screen_layout.txt",
-      "sha256": "9ff6fe3965bc9b74aa1034f0588aeb337ae159529c118444d5d9cb5c30a6b30e",
-      "size": 28287,
+      "sha256": "419bdce0b1d8123140ca3156a1b428da68287459c9e4e4bd79b65191ffc57622",
+      "size": 27509,
       "side": "both"
     },
     {
@@ -354,13 +355,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_title_screen_layout_4.txt",
       "sha256": "e98284949024feb0e83a59b53f32a4fb0b0b0c478ec291519517121dfe0f3f91",
       "size": 35617,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_customization_universal_layout.txt",
-      "sha256": "44bd742d0f3e0f10d633cd9bcce94df5d348cc6df827c16de1f8eed89e0e6f6e",
-      "size": 2995,
       "side": "both"
     },
     {
