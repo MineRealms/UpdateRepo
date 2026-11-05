@@ -1,5 +1,5 @@
 {
-  "version": "20261105-1503",
+  "version": "20261105-1504",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -10,7 +10,56 @@
     "versions/Society Sunlit Valley/config/jade/sort-order.json",
     "versions/Society Sunlit Valley/config/jei/client/recipe-category-sort-order.ini",
     "versions/Society Sunlit Valley/config/oculus.properties",
-    "versions/Society Sunlit Valley/config/packetfixer.properties"
+    "versions/Society Sunlit Valley/config/packetfixer.properties",
+    "versions/Society Sunlit Valley/config/astralsorcery-client.toml",
+    "versions/Society Sunlit Valley/config/astralsorcery-common.toml",
+    "versions/Society Sunlit Valley/config/attributefix.json",
+    "versions/Society Sunlit Valley/config/biomespawnpoint/spawnbiomes.txt",
+    "versions/Society Sunlit Valley/config/connector.json",
+    "versions/Society Sunlit Valley/config/controllable-client.toml",
+    "versions/Society Sunlit Valley/config/cozycafe-common.toml",
+    "versions/Society Sunlit Valley/config/crash_assistant/config.toml",
+    "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/README.md",
+    "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json",
+    "versions/Society Sunlit Valley/config/crash_assistant/modlist.json",
+    "versions/Society Sunlit Valley/config/crash_assistant/scripts/log_analysis/01_sunlit_known_issues.jexl",
+    "versions/Society Sunlit Valley/config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl",
+    "versions/Society Sunlit Valley/config/embeddium-options.json",
+    "versions/Society Sunlit Valley/config/fml.toml",
+    "versions/Society Sunlit Valley/config/gtmfo.yaml",
+    "versions/Society Sunlit Valley/config/isorropia-common.toml",
+    "versions/Society Sunlit Valley/config/jade/jade.json",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-client.ini",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-colors.ini",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-debug.ini",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-mod-id-format.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-client.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-colors.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-debug.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-mod-id-format.ini",
+    "versions/Society Sunlit Valley/config/jei/recipe-category-sort-order.ini",
+    "versions/Society Sunlit Valley/config/l2_configs/l2screentracker-client.toml",
+    "versions/Society Sunlit Valley/config/l2_configs/l2screentracker-common.toml",
+    "versions/Society Sunlit Valley/config/l2_configs/l2tabs-client.toml",
+    "versions/Society Sunlit Valley/config/mett-common.toml",
+    "versions/Society Sunlit Valley/config/mezz_config/client/default/settings.ini",
+    "versions/Society Sunlit Valley/config/pollution-common.toml",
+    "versions/Society Sunlit Valley/config/SeasonHUD-client.toml",
+    "versions/Society Sunlit Valley/config/shouldersurfing-client.toml",
+    "versions/Society Sunlit Valley/config/sunlitmarket-common.toml",
+    "versions/Society Sunlit Valley/config/sunlitmarket-core.toml",
+    "versions/Society Sunlit Valley/config/sunlitmarket/deposit_values.json",
+    "versions/Society Sunlit Valley/config/tc4tweaks-client.toml",
+    "versions/Society Sunlit Valley/config/technom-common.toml",
+    "versions/Society Sunlit Valley/config/thaumadds-client.json",
+    "versions/Society Sunlit Valley/config/thaumcraft-client.toml",
+    "versions/Society Sunlit Valley/config/thaumcraft-worldgen.toml",
+    "versions/Society Sunlit Valley/config/thaumictinkerer-client.toml",
+    "versions/Society Sunlit Valley/config/tools/build_twilight_forest_chapter.py",
+    "versions/Society Sunlit Valley/config/tools/twilightforest_ids.md",
+    "versions/Society Sunlit Valley/config/twilightdelight-common.toml",
+    "versions/Society Sunlit Valley/config/twilightforest-common.toml",
+    "versions/Society Sunlit Valley/config/warptheory-common.toml"
   ],
   "delete": [
     "versions/HMCL-3.10.0.318.jar",
@@ -88,7 +137,91 @@
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.0.jar",
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.1.jar",
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.2.jar",
-    "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt"
+    "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt",
+    "versions/Society Sunlit Valley/config/astralsorcery-client.toml",
+    "versions/Society Sunlit Valley/config/astralsorcery-common.toml",
+    "versions/Society Sunlit Valley/config/attributefix.json",
+    "versions/Society Sunlit Valley/config/biomespawnpoint/spawnbiomes.txt",
+    "versions/Society Sunlit Valley/config/connector.json",
+    "versions/Society Sunlit Valley/config/controllable-client.toml",
+    "versions/Society Sunlit Valley/config/cozycafe-common.toml",
+    "versions/Society Sunlit Valley/config/crash_assistant/config.toml",
+    "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/README.md",
+    "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json",
+    "versions/Society Sunlit Valley/config/crash_assistant/modlist.json",
+    "versions/Society Sunlit Valley/config/crash_assistant/scripts/log_analysis/01_sunlit_known_issues.jexl",
+    "versions/Society Sunlit Valley/config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl",
+    "versions/Society Sunlit Valley/config/embeddium-options.json",
+    "versions/Society Sunlit Valley/config/everycomp-entries.toml",
+    "versions/Society Sunlit Valley/config/fabric/indigo-renderer.properties",
+    "versions/Society Sunlit Valley/config/fml.toml",
+    "versions/Society Sunlit Valley/config/gtmfo.yaml",
+    "versions/Society Sunlit Valley/config/isorropia-common.toml",
+    "versions/Society Sunlit Valley/config/jade/jade.json",
+    "versions/Society Sunlit Valley/config/jade/plugins.json",
+    "versions/Society Sunlit Valley/config/jade/sort-order.json",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-client.ini",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-colors.ini",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-debug.ini",
+    "versions/Society Sunlit Valley/config/jei/client/default/jei-mod-id-format.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-client.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-colors.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-debug.ini",
+    "versions/Society Sunlit Valley/config/jei/client/jei-mod-id-format.ini",
+    "versions/Society Sunlit Valley/config/jei/client/recipe-category-sort-order.ini",
+    "versions/Society Sunlit Valley/config/jei/recipe-category-sort-order.ini",
+    "versions/Society Sunlit Valley/config/l2_configs/l2screentracker-client.toml",
+    "versions/Society Sunlit Valley/config/l2_configs/l2screentracker-common.toml",
+    "versions/Society Sunlit Valley/config/l2_configs/l2tabs-client.toml",
+    "versions/Society Sunlit Valley/config/mett-common.toml",
+    "versions/Society Sunlit Valley/config/mezz_config/client/default/settings.ini",
+    "versions/Society Sunlit Valley/config/oculus.properties",
+    "versions/Society Sunlit Valley/config/packetfixer.properties",
+    "versions/Society Sunlit Valley/config/pollution-common.toml",
+    "versions/Society Sunlit Valley/config/SeasonHUD-client.toml",
+    "versions/Society Sunlit Valley/config/shouldersurfing-client.toml",
+    "versions/Society Sunlit Valley/config/sunlitmarket-common.toml",
+    "versions/Society Sunlit Valley/config/sunlitmarket-core.toml",
+    "versions/Society Sunlit Valley/config/sunlitmarket/deposit_values.json",
+    "versions/Society Sunlit Valley/config/tc4tweaks-client.toml",
+    "versions/Society Sunlit Valley/config/technom-common.toml",
+    "versions/Society Sunlit Valley/config/thaumadds-client.json",
+    "versions/Society Sunlit Valley/config/thaumcraft-client.toml",
+    "versions/Society Sunlit Valley/config/thaumcraft-worldgen.toml",
+    "versions/Society Sunlit Valley/config/thaumictinkerer-client.toml",
+    "versions/Society Sunlit Valley/config/tools/build_twilight_forest_chapter.py",
+    "versions/Society Sunlit Valley/config/tools/twilightforest_ids.md",
+    "versions/Society Sunlit Valley/config/twilightdelight-common.toml",
+    "versions/Society Sunlit Valley/config/twilightforest-common.toml",
+    "versions/Society Sunlit Valley/config/warptheory-common.toml",
+    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_banker_choice.json",
+    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_blacksmith_choice.json",
+    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_fisher_choice.json",
+    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_market_choice.json",
+    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_shepherd_choice.json",
+    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_trader_choice.json",
+    "versions/Society Sunlit Valley/kubejs/data/farmingforblockheads/farmingforblockheads_compat/quark_saplings.json",
+    "versions/Society Sunlit Valley/kubejs/data/forge/loot_modifiers/global_loot_modifiers.json",
+    "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/items/freeze_resistant.json",
+    "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/items/heat_resistant.json",
+    "versions/Society Sunlit Valley/kubejs/data/longwings/tags/blocks/pollination_banned_crops.json",
+    "versions/Society Sunlit Valley/kubejs/data/quality_food/tags/blocks/quality_blocks.json",
+    "versions/Society Sunlit Valley/kubejs/data/quality_food/tags/items/material_whitelist.json",
+    "versions/Society Sunlit Valley/kubejs/data/relics/curios/entities/modifier.json",
+    "versions/Society Sunlit Valley/kubejs/data/society/curios/slots/clock.json",
+    "versions/Society Sunlit Valley/kubejs/data/society/recipes/altar/starlight_phial.json",
+    "versions/Society Sunlit Valley/kubejs/data/society/tags/blocks/treasure_spot_spawns.json",
+    "versions/Society Sunlit Valley/kubejs/data/society_trading/shops/witch.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/entity_aspects/twilightforest_entities.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/astral_sorcery_aspects.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/pack_bridge_aspects.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/twilightforest_aspects.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_copper_cluster_smelting.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_lead_cluster_smelting.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_silver_cluster_smelting.json",
+    "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_tin_cluster_smelting.json",
+    "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json",
+    "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json"
   ],
   "files": [
     {
@@ -96,118 +229,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_BOTANIA_INTEGRATION.md",
       "sha256": "39c121d5151eea24513d6060230132aa641640c164f6326a236b009cb37b9250",
       "size": 5487,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/astralsorcery-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_astralsorcery-client.toml",
-      "sha256": "51c5068b9321f4f2869a00ac2b91cb1f2005ab3331b861c09a0b2fb618418ba5",
-      "size": 760,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/astralsorcery-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_astralsorcery-common.toml",
-      "sha256": "479d8c109380907dfee7b6ced0ffdfbb2f6f580621861ce4cec5fd09e40057fb",
-      "size": 6072,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/attributefix.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_attributefix.json",
-      "sha256": "b274cff2fbe39e46a215b45b20c6cf9b46b7d7fe065bd8729153e2d6c4c5e174",
-      "size": 90752,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/biomespawnpoint/spawnbiomes.txt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_biomespawnpoint_spawnbiomes.txt",
-      "sha256": "77f2d0d6de8521f02678f250eee179489d573671613e3bc2125fa016312c2859",
-      "size": 10676,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/connector.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_connector.json",
-      "sha256": "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22",
-      "size": 144,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/controllable-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_controllable-client.toml",
-      "sha256": "5dcd8fa889212563194fa5c8a1fde0fdb2f92648849888dec8354c32ea2e3e30",
-      "size": 4343,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/cozycafe-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_cozycafe-common.toml",
-      "sha256": "110a39199bdde126b0565e06ec22d1dbf60c93ae7416b620a89d826123e3f6f2",
-      "size": 2859,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/crash_assistant/config.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_config.toml",
-      "sha256": "38515b45272eab929c4325f6c588efd7832a71d2a031ca4df94bfafcf5000aad",
-      "size": 22948,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/README.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_crash_assistant_localization_overrides_README.md",
-      "sha256": "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d",
-      "size": 2650,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_crash_assistant_localization_overrides_zh_cn.json",
-      "sha256": "05a99426e3455decba9614c2c69a4e1683ac56b15a84e330d45db7dbb7e025e2",
-      "size": 1962,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/crash_assistant/modlist.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_modlist.json",
-      "sha256": "98fa9d45aabb957a86461588f445d4e1b8b59a37103e7e8dad9f706caaa43f84",
-      "size": 98392,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/crash_assistant/scripts/log_analysis/01_sunlit_known_issues.jexl",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_scripts_log_analysis_01_sunlit_known_issues.jexl",
-      "sha256": "ee1deb85b15576639d81446606101b91023a57275726da292196028213e2ae4e",
-      "size": 1832,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_crash_assistant_scripts_startup_00_migrated_problematic_mods.jexl",
-      "sha256": "70a259fe03a4d709082d6b2f0d7da927042b874789b39837816307c56daf6793",
-      "size": 640,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/embeddium-options.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_embeddium-options.json",
-      "sha256": "06919cac15544c081f1971509258ee4e4d08bc8cb5fa9f7a047048ac8958155f",
-      "size": 849,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/everycomp-entries.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_everycomp-entries.toml",
-      "sha256": "2a55c86616f7e5717b069559b2c07798560f3e162a52b834618f00dbfc67d8cd",
-      "size": 7378,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/fabric/indigo-renderer.properties",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fabric_indigo-renderer.properties",
-      "sha256": "73dd208c2824d7317ef1fd0a975c59957fc85d2b82761981766fe0ac13fbd95f",
-      "size": 290,
       "side": "both"
     },
     {
@@ -1044,13 +1065,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/fml.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fml.toml",
-      "sha256": "0a19f827abac613bbce62232a2e661aec4b4be1f972dbd23f52b5eb6826a972a",
-      "size": 1148,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ae2_addons.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ae2_addons.snbt",
       "sha256": "3f2e6f74b666d8d756156a16b68c6cd9376abf9c89d4e2ed2e1827d07c90b8c6",
@@ -1496,279 +1510,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_trade_ids.json",
       "sha256": "2a7556074ba522ef91f8f679b12059919f4bd61e5d4431f9103afc2a052522f1",
       "size": 2214,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/gtmfo.yaml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_gtmfo.yaml",
-      "sha256": "3446189613ccfd7d246c6dec26b1f2aa65b15ae7dec024096e9f92b8d22aaaf2",
-      "size": 6586,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/isorropia-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_isorropia-common.toml",
-      "sha256": "c5d0a7663fa6d70c8a3df6707abf9d616af6d25ccb853f987aa6c9c254a307fe",
-      "size": 756,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jade/jade.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jade_jade.json",
-      "sha256": "02e7d3269549d52819858a548c037b0561ab4ae86a2ed1b316a4cc21fccd9b1c",
-      "size": 995,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jade/plugins.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jade_plugins.json",
-      "sha256": "144a2dace3acdf0e159e2d20c1bff994c72190e6b415aac61cd1519a8880b21c",
-      "size": 4860,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jade/sort-order.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jade_sort-order.json",
-      "sha256": "dd7a334ee3b8f0a0045ed2129f14ddef6a78d1d2324c37b0ce2df21888ac58e6",
-      "size": 7954,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/default/jei-client.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_default_jei-client.ini",
-      "sha256": "aa4ef758061013cfdac67aafb156d267f31b05ab9f6beeb048075ac8d41c379f",
-      "size": 14511,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/default/jei-colors.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_default_jei-colors.ini",
-      "sha256": "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7",
-      "size": 1655,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/default/jei-debug.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_default_jei-debug.ini",
-      "sha256": "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806",
-      "size": 1174,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/default/jei-mod-id-format.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_default_jei-mod-id-format.ini",
-      "sha256": "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1",
-      "size": 863,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/jei-client.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_jei-client.ini",
-      "sha256": "aa4ef758061013cfdac67aafb156d267f31b05ab9f6beeb048075ac8d41c379f",
-      "size": 14511,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/jei-colors.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_jei-colors.ini",
-      "sha256": "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7",
-      "size": 1655,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/jei-debug.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_jei-debug.ini",
-      "sha256": "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806",
-      "size": 1174,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/jei-mod-id-format.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_jei-mod-id-format.ini",
-      "sha256": "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1",
-      "size": 863,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/client/recipe-category-sort-order.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_client_recipe-category-sort-order.ini",
-      "sha256": "e68fc9f3176f4b3aaf57ce103c9ccb7ba4953a986f02198668445dd5aea3ef59",
-      "size": 5853,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/jei/recipe-category-sort-order.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_jei_recipe-category-sort-order.ini",
-      "sha256": "430b945cc61432bcf34b40cddcdc93ae9697fe8c8122de125948f32ef4e38701",
-      "size": 5232,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/l2_configs/l2screentracker-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_l2_configs_l2screentracker-client.toml",
-      "sha256": "cc8a21a4268501c79be5cca344c60ba060c485a5c7be4ba4d4fe328656d52d81",
-      "size": 41,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/l2_configs/l2screentracker-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_l2_configs_l2screentracker-common.toml",
-      "sha256": "1ea62c0ca1893ce7b5b1aacbbd0f4f453ac6d6542d652fe2af9d4b2a4947c55f",
-      "size": 53,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/l2_configs/l2tabs-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_l2_configs_l2tabs-client.toml",
-      "sha256": "4e417f5b9ca4789d7d8cec73cb0a56707b31ca54deeb91bf831e2bd0735266ff",
-      "size": 167,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/mett-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_mett-common.toml",
-      "sha256": "16ac091068be9c8be672dbdee2ed0cd78aa0e3920c76dfd4b9e4eb03d3ded12a",
-      "size": 443,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/mezz_config/client/default/settings.ini",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_mezz_config_client_default_settings.ini",
-      "sha256": "1febf6ff1d35f4ffe34d6e5444e3c9496155a6abf3f49eb4ef5650d102645249",
-      "size": 1452,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/oculus.properties",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_oculus.properties",
-      "sha256": "2e6c2861e5248c52d475da00f9f9204a5469794cc0e4f40d5f2f65fbfb5242d4",
-      "size": 301,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/packetfixer.properties",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_packetfixer.properties",
-      "sha256": "12352c429145f2e98d608f603a7598ebc5040e0a247c8d762bd7b842057900ce",
-      "size": 488,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/pollution-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_pollution-common.toml",
-      "sha256": "316f1b5f6b278efeca623002f9573d13c72a8532dc9a4510df5fa6ddd06a881c",
-      "size": 3140,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/SeasonHUD-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_SeasonHUD-client.toml",
-      "sha256": "77716a68b8dc007dcf806be0d14cf544aed151461989e768d53c95d2551fe32e",
-      "size": 3400,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/shouldersurfing-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_shouldersurfing-client.toml",
-      "sha256": "a2c0773f72c0aee2822a215576281da52fdb20d1a18a45c102af18bb10280cf5",
-      "size": 16395,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/sunlitmarket-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitmarket-common.toml",
-      "sha256": "8ef9d202abefc2355ad163d8fc340a9e4d101df81221f74026c43169967674f4",
-      "size": 1569,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/sunlitmarket-core.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitmarket-core.toml",
-      "sha256": "99c8cc2d15516b317da428e7a06ba50cfce88305ba7532977078bd2551a82b00",
-      "size": 3517,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/sunlitmarket/deposit_values.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitmarket_deposit_values.json",
-      "sha256": "0eaf891f333ef3b1e4de8547b19980a06ef826591e8feb293eb9999822566f1a",
-      "size": 43,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/tc4tweaks-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_tc4tweaks-client.toml",
-      "sha256": "1fdcebcfe460c0c5f1b010711bb85f01c612514cdf45867784db26ff63b97f52",
-      "size": 1689,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/technom-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_technom-common.toml",
-      "sha256": "1d1e46bacf3f5921ec3d1991233e1d5048748f1f25d6aaa788b2f24f7865d298",
-      "size": 2739,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/thaumadds-client.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_thaumadds-client.json",
-      "sha256": "53114008ed8e920357df5d002dc294460034fba644ca310991cab3f93369051b",
-      "size": 21,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/thaumcraft-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_thaumcraft-client.toml",
-      "sha256": "2a5c04fb9eaf269c264cf3c99ad420480bb2632eb5730909735b7b19284ca89a",
-      "size": 2033,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/thaumcraft-worldgen.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_thaumcraft-worldgen.toml",
-      "sha256": "1c784f103edcc55149768b1ca74151ed54420f75e367835c5b5ed6cb0b121acd",
-      "size": 1836,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/thaumictinkerer-client.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_thaumictinkerer-client.toml",
-      "sha256": "9fa9df23aa58511cfa13e7fb2189007a49d7ffb940b7878c343282931380f6c0",
-      "size": 345,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/tools/build_twilight_forest_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_tools_build_twilight_forest_chapter.py",
-      "sha256": "1a86cff49bae0019963f3f54945861291d410959b23faa8dd2bd8b6e96bc8647",
-      "size": 41460,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/tools/twilightforest_ids.md",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_tools_twilightforest_ids.md",
-      "sha256": "bcb42076e261ff7dfea09253c1649d8932bcfd7df5ac8e20956bc304338fb583",
-      "size": 54402,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/twilightdelight-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_twilightdelight-common.toml",
-      "sha256": "5f034790d210d87afb64c4d7ee72da325594e699548ac0866b8e0b5f05bdeb08",
-      "size": 260,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/twilightforest-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_twilightforest-common.toml",
-      "sha256": "c92f7a8ad8c9da6f1df4874751f939eaae5b107135f0b40f1e1eb7a918919b39",
-      "size": 7756,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/warptheory-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_warptheory-common.toml",
-      "sha256": "00f0692eb41c3355f4d3ef6a7e9d1970e153d3554e650e7ed4c9ea59c8f6ec36",
-      "size": 326,
       "side": "both"
     },
     {
@@ -2371,202 +2112,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_client_scripts_tooltips_isorropiaFoodTooltips.js",
       "sha256": "17564cb52ef2dd0b68fcedfa800fcec7a25010ba23e83aa383c7139792499461",
       "size": 639,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_banker_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_banker_choice.json",
-      "sha256": "2df5e8d0408f9aee83236f075c5118f18dced192b01c4b5ef1e83b04975cff0c",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_blacksmith_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_blacksmith_choice.json",
-      "sha256": "61f98521ab466b7d1b2a85dc4ce5826f7254f59f0938ebf3978765f119bcec25",
-      "size": 654,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_fisher_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_fisher_choice.json",
-      "sha256": "2f8b2044c2d7902a6b71a2d9aa500d3f79624f918dc56eaab63b74f9de94970d",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_market_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_market_choice.json",
-      "sha256": "ee70eec6e1760a0eb13d46856954051bce282749a6b15c48ee7e22861dec776c",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_shepherd_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_shepherd_choice.json",
-      "sha256": "fcb9d2ede974f896126a9177bcc08d692a71bf8de099f1b74df20147e7df872f",
-      "size": 646,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_trader_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_trader_choice.json",
-      "sha256": "e631946d8844bcc549d7c561eb1453ab4860223a76dfda8d69e1ace3730bdaa4",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/farmingforblockheads/farmingforblockheads_compat/quark_saplings.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_farmingforblockheads_farmingforblockheads_compat_quark_saplings.json",
-      "sha256": "d88bf75e5d46e41da7a777c0c50a30fd8928533d7253c20c0912a063e3ac4c16",
-      "size": 561,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/forge/loot_modifiers/global_loot_modifiers.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_forge_loot_modifiers_global_loot_modifiers.json",
-      "sha256": "0f585f360f57c4d4005580d45663ad20a15f550baae8bedb7ae87a0d5101789d",
-      "size": 115,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/items/freeze_resistant.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_gcyr_tags_items_freeze_resistant.json",
-      "sha256": "345843631d363d6fb87b12a950a09435304024a060f0a870e35aad7aef761de0",
-      "size": 170,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/items/heat_resistant.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_gcyr_tags_items_heat_resistant.json",
-      "sha256": "345843631d363d6fb87b12a950a09435304024a060f0a870e35aad7aef761de0",
-      "size": 170,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/longwings/tags/blocks/pollination_banned_crops.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_longwings_tags_blocks_pollination_banned_crops.json",
-      "sha256": "24bdc9b6630deec4b55ef8b1f1d0a5ac50866973d6be3528052fec64a75c74cc",
-      "size": 1471,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/quality_food/tags/blocks/quality_blocks.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_quality_food_tags_blocks_quality_blocks.json",
-      "sha256": "5efce4bad4ad378e2919ae1b5d524d0fa3f7a9ade8c68976b20c31c3dc74b2d3",
-      "size": 2270,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/quality_food/tags/items/material_whitelist.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_quality_food_tags_items_material_whitelist.json",
-      "sha256": "99d9da01c809a2953522823aa62ec65ec4c205d115108f5685c7651cb0e8ac7f",
-      "size": 3371,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/relics/curios/entities/modifier.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_relics_curios_entities_modifier.json",
-      "sha256": "a25611fb9fb3789f2867aa720f41cfacfaab2e2d0c94ed599ca977511ac8b0e5",
-      "size": 144,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/curios/slots/clock.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_curios_slots_clock.json",
-      "sha256": "ba4422ee48955034f52593fa301c0e9d030a1bfe3e40d2359788d790a4c3b5ad",
-      "size": 31,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/altar/starlight_phial.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_altar_starlight_phial.json",
-      "sha256": "ffccc5c902f39e2c3e82c07d3c74e41c60efe8616b5f2dfa7b878aea89caf756",
-      "size": 557,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/tags/blocks/treasure_spot_spawns.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_tags_blocks_treasure_spot_spawns.json",
-      "sha256": "4da430621acc5e8afe82907c88111e5d08fbfbedba3b0b6edf24f69c325eab45",
-      "size": 769,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society_trading/shops/witch.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_trading_shops_witch.json",
-      "sha256": "a0bdfea60eb506a83bea1c4a75f2a6f0c7828630e0cefa2b145db57bdae7b2e7",
-      "size": 15931,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/entity_aspects/twilightforest_entities.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_entity_aspects_twilightforest_entities.json",
-      "sha256": "43ecf73805912385c9d4772268d2c094ca44f54d7516e20f5600bff9e74a97e8",
-      "size": 16475,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/astral_sorcery_aspects.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_astral_sorcery_aspects.json",
-      "sha256": "21c81e7d0f2ac156e922c03bea40fdd249b3b713be0a06bf22c65feaaa028912",
-      "size": 2987,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/pack_bridge_aspects.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_pack_bridge_aspects.json",
-      "sha256": "7ea122b344a56d6691ce9e2b8d6b59ffdb890d5e9b41204c8aef81c937c0cd93",
-      "size": 7874,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/object_aspects/twilightforest_aspects.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_object_aspects_twilightforest_aspects.json",
-      "sha256": "2bcfdcb6c8799650631be4a17a8ebf061a42cfb4cfdc53380546a56dbde7e755",
-      "size": 22229,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_copper_cluster_smelting.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_copper_cluster_smelting.json",
-      "sha256": "23bb2f321a3494b2011d10eb6941423a169d7ea5c97432bff01bca69bff6b0af",
-      "size": 254,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_lead_cluster_smelting.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_lead_cluster_smelting.json",
-      "sha256": "75bcc5747b117e276398972a439f2d6dbfbc9ecb71dd2d9a345afb88ee83a465",
-      "size": 246,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_silver_cluster_smelting.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_silver_cluster_smelting.json",
-      "sha256": "da30c97899cc6438fdca80f72af794db01b7956c79de8b10082ba13ccb84e472",
-      "size": 250,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/thaumcraft/recipes/compat/native_tin_cluster_smelting.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_thaumcraft_recipes_compat_native_tin_cluster_smelting.json",
-      "sha256": "6a257b914770b34d38398633724c9d6e644a4d40dcafad3169d6c7beba814b92",
-      "size": 244,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/deepslate_mineshaft.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_zhopo_tags_worldgen_biome_has_structure_deepslate_mineshaft.json",
-      "sha256": "80bc8ad9b269f6dd20d1bab39378b0ef0c0f6666d1eaa17f7d84214f791c9fba",
-      "size": 99,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zhopo/tags/worldgen/biome/has_structure/stone_mineshaft.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_zhopo_tags_worldgen_biome_has_structure_stone_mineshaft.json",
-      "sha256": "ae6ba9d085b552e1ccf3e352e87e37d577e8af5b3fee750617d1ceee12401df8",
-      "size": 67,
       "side": "both"
     },
     {
