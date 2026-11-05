@@ -2,7 +2,20 @@
   "version": "phase4-20261105",
   "name": "Sunlit Valley targeted runtime update",
   "changelog": "",
-  "ignore": [],
+  "ignore": [
+    "versions/Society Sunlit Valley/manifest.json",
+    "versions/Society Sunlit Valley/config/everycomp-entries.toml",
+    "versions/Society Sunlit Valley/config/fabric/indigo-renderer.properties",
+    "versions/Society Sunlit Valley/config/fancymenu/customization/pause_screen_layout.txt",
+    "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt",
+    "versions/Society Sunlit Valley/config/fancymenu/options.txt",
+    "versions/Society Sunlit Valley/config/jade/plugins.json",
+    "versions/Society Sunlit Valley/config/jade/sort-order.json",
+    "versions/Society Sunlit Valley/config/jei/client/recipe-category-sort-order.ini",
+    "versions/Society Sunlit Valley/config/oculus.properties",
+    "versions/Society Sunlit Valley/config/packetfixer.properties",
+    "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.2.0.jar"
+  ],
   "delete": [
     "versions/HMCL-3.10.0.318.jar",
     "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar",
