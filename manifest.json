@@ -1,7 +1,7 @@
 {
   "version": "20261107-0340",
   "name": "Society Sunlit Valley",
-  "changelog": "",
+  "changelog": "修复 JEI 匠魂熔炼/奥术合成工具条崩溃（EMI 兼容 JEI 15.62）",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
