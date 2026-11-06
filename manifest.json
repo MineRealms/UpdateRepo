@@ -1,7 +1,7 @@
 {
-  "version": "20261106-2218",
+  "version": "20261107-0340",
   "name": "Society Sunlit Valley",
-  "changelog": "HMCL 文件不再由清单管理",
+  "changelog": "",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
@@ -3256,8 +3256,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/emi-1.1.24+1.20.1+forge.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_emi-1.1.24.1.20.1.forge.jar",
-      "sha256": "92784dcf5222d72983a420c90f2e9240468ee0fece96f757c82d7884b6cbdb72",
-      "size": 1121750,
+      "sha256": "c19ea45e1e1ea5899292d740e4e34c3d99d2394d15395b3bd4597d982c1cf170",
+      "size": 1122943,
       "side": "both"
     },
     {
