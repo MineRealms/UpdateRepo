@@ -1,7 +1,7 @@
 {
-  "version": "20261106-2212",
+  "version": "20261106-2218",
   "name": "Society Sunlit Valley",
-  "changelog": "更新器 jar 不再由清单分发（本地已有文件保留）",
+  "changelog": "HMCL 文件不再由清单管理",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
@@ -62,7 +62,6 @@
     "versions/Society Sunlit Valley/config/warptheory-common.toml"
   ],
   "delete": [
-    "versions/HMCL-3.10.0.318.jar",
     "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar",
     "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.20.0.129.jar",
     "ModpackUpdater-all.jar",
