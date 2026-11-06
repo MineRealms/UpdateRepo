@@ -1,7 +1,7 @@
 {
-  "version": "20261106-2207",
+  "version": "20261106-2212",
   "name": "Society Sunlit Valley",
-  "changelog": "移除重复的 ModpackUpdater-all.jar（更新器以包根目录那份为准）",
+  "changelog": "更新器 jar 不再由清单分发（本地已有文件保留）",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
@@ -192,8 +192,7 @@
     "versions/Society Sunlit Valley/docs/TOOLS.md",
     "versions/Society Sunlit Valley/GTMFO_INTEGRATION.md",
     "versions/Society Sunlit Valley/GT_INTEGRATION.md",
-    "versions/Society Sunlit Valley/SPACE_INTEGRATION.md",
-    "versions/Society Sunlit Valley/ModpackUpdater-all.jar"
+    "versions/Society Sunlit Valley/SPACE_INTEGRATION.md"
   ],
   "files": [
     {
