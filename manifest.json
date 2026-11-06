@@ -1,7 +1,7 @@
 {
-  "version": "20261105-1828",
+  "version": "20261106-2207",
   "name": "Society Sunlit Valley",
-  "changelog": "",
+  "changelog": "移除重复的 ModpackUpdater-all.jar（更新器以包根目录那份为准）",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
@@ -192,7 +192,8 @@
     "versions/Society Sunlit Valley/docs/TOOLS.md",
     "versions/Society Sunlit Valley/GTMFO_INTEGRATION.md",
     "versions/Society Sunlit Valley/GT_INTEGRATION.md",
-    "versions/Society Sunlit Valley/SPACE_INTEGRATION.md"
+    "versions/Society Sunlit Valley/SPACE_INTEGRATION.md",
+    "versions/Society Sunlit Valley/ModpackUpdater-all.jar"
   ],
   "files": [
     {
@@ -2405,13 +2406,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_manifest.json",
       "sha256": "87e89d0a75121b0b09689c3c176bb26bf2a35f6cdb9ab057d457c63041a980d9",
       "size": 85092,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/ModpackUpdater-all.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_ModpackUpdater-all.jar",
-      "sha256": "a26ee0e7a8db5a6f6d6aab98c3cc79e809e81e7af8260effbf4df624520ce7ba",
-      "size": 393048,
       "side": "both"
     },
     {
