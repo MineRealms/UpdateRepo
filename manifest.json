@@ -1,7 +1,7 @@
 {
-  "version": "20261107-0340",
-  "name": "Society Sunlit Valley",
-  "changelog": "修复 JEI 匠魂熔炼/奥术合成工具条崩溃（EMI 兼容 JEI 15.62）",
+  "version": "phase4-20261107-npcfix",
+  "name": "Sunlit Valley targeted runtime update",
+  "changelog": "",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
     "versions/Society Sunlit Valley/config/everycomp-entries.toml",
@@ -5372,6 +5372,20 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/npcs/villagerHomeMechanics.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261107-npcfix/versions_Society.Sunlit.Valley_kubejs_server_scripts_npcs_villagerHomeMechanics.js",
+      "sha256": "db5f8673bb165eeaa11a18289af8b3b01b99418ff96dd14780c3574769f1df2d",
+      "size": 6458,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/ModpackUpdater-all.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261107-npcfix/versions_Society.Sunlit.Valley_ModpackUpdater-all.jar",
+      "sha256": "20c94736481707f7d25fe70da1f9cdcc469ef876785f136cf0c12a9cb73a4ade",
+      "size": 390701,
       "side": "both"
     }
   ]
