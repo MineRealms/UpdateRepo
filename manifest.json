@@ -1,5 +1,5 @@
 {
-  "version": "phase4-20261108-industry-balance",
+  "version": "phase4-20261108-zmod",
   "name": "Sunlit Valley targeted runtime update",
   "changelog": "",
   "ignore": [
@@ -5463,6 +5463,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tianxuan_controller.json",
       "sha256": "e974d0d488454d9cc435859e7d3a2087d86cdf7ae6b9109cbadd5318e52d2929",
       "size": 1216,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-zmod/versions_Society.Sunlit.Valley_mods_zmod-forge-1.20.1-1.40.03-all.jar",
+      "sha256": "32e204660b1571205a8b394fb3a4f145087add0724123c22328a246b8c1920a1",
+      "size": 43260755,
       "side": "both"
     }
   ]
