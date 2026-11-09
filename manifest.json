@@ -1,5 +1,5 @@
 {
-  "version": "phase4-20261109-cataclysm",
+  "version": "phase4-20261109-cataclysmancy",
   "name": "Sunlit Valley targeted runtime update",
   "changelog": "",
   "ignore": [
@@ -5801,6 +5801,34 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.2.1.jar",
       "sha256": "5cde5338febe47cfbcfbd98f2d4402cdc6c027198df6ad0b4ae691839b04ad4a",
       "size": 35685,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/cataclysmancy.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_cataclysmancy.snbt",
+      "sha256": "747c556a1913269a231096f58e6c8e5dd86e1d53fe64123df2b4c8d8da35688f",
+      "size": 11188,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_cataclysmancy_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_cataclysmancy_chapter.py",
+      "sha256": "6746b524a4c164cd3b8596de40ac8aee14d396074a5f2ae5b8ddab9ce285ff28",
+      "size": 14053,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/cataclysmancy_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_tools_cataclysmancy_ids.json",
+      "sha256": "29a2f1437879a4b3caca6452849e07dfeda2a9f640f48d9674f07467253a2dc1",
+      "size": 2663,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/cataclysm/cataclysm_temple.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_cataclysm_cataclysm_temple.png",
+      "sha256": "60b465eaef4a6d9ac9042ff578bcb3a51c00c8a7b8c72c19b247dd6d188fa15b",
+      "size": 2171991,
       "side": "both"
     }
   ]
