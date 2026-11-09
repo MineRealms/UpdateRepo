@@ -1,5 +1,5 @@
 {
-  "version": "phase4-20261108-zmod",
+  "version": "phase4-20261109-client",
   "name": "Sunlit Valley targeted runtime update",
   "changelog": "",
   "ignore": [
@@ -1031,7 +1031,7 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ae2_addons.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ae2_addons.snbt",
-      "sha256": "a84616030fc3761ca7a0e37133996517e89bece3f9009e5a8a8e1250feaacb06",
+      "sha256": "81a066eb2d9c75baafead2273a2248a7e079a12fc4419f387fb234b2fb723e38",
       "size": 12701,
       "side": "both"
     },
@@ -1171,15 +1171,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "0039c513e72875f5a65f71a8e78178d90a6cf6f9eac9016db78adb2a8fa77f53",
-      "size": 41073,
+      "sha256": "4fdb6e12f2415ca645107ccb1805369a12e00c7dc98b46553594c3052b0040c3",
+      "size": 42419,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_processing.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_processing.snbt",
-      "sha256": "6d032e911af07a9d15c524770739d6dbfae9b4f0d7c4abc5338a338bd64edea0",
-      "size": 20198,
+      "sha256": "09ce2716860e000043316f51bb5ed818f2bba10d58d32ef6d8ebfe831c427c7c",
+      "size": 20746,
       "side": "both"
     },
     {
@@ -1276,8 +1276,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/twilight_forest.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_twilight_forest.snbt",
-      "sha256": "22cf2750db716b2ae87cca28f732beacc27a966370bce91b2e4a74be2634da77",
-      "size": 26889,
+      "sha256": "6b28214a38747217374d639662e9976b70545094dc92d283e220ecaac67e5091",
+      "size": 27950,
       "side": "both"
     },
     {
@@ -5007,8 +5007,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.0.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.2.0.jar",
-      "sha256": "a1af147c9ce2c30b55661b45cefd99382e70153cff882b4b472984a48e744585",
-      "size": 21894,
+      "sha256": "4be493f09f2bfb707dc1deffab1e059430718f9db69216528418ea29c0987088",
+      "size": 32014,
       "side": "both"
     },
     {
@@ -5413,8 +5413,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/sunlitindustry-common.toml",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_sunlitindustry-common.toml",
-      "sha256": "4e00394a1e246336e575c24dcfa0fffec7bcfdda42209ae847e8ee9d9c0bd0eb",
-      "size": 139,
+      "sha256": "61221ad0f956613dad853079737a6751b427ca20e3ed03273b22cc3c55658943",
+      "size": 523,
       "side": "both"
     },
     {
@@ -5462,8 +5462,22 @@
     {
       "path": "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-zmod/versions_Society.Sunlit.Valley_mods_zmod-forge-1.20.1-1.40.03-all.jar",
-      "sha256": "32e204660b1571205a8b394fb3a4f145087add0724123c22328a246b8c1920a1",
-      "size": 43260755,
+      "sha256": "d546173646653b47372494b7b14276663ddf390af4dd44f012eca46f7fafe5b4",
+      "size": 43264034,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/bio_wetware.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_bio_wetware.snbt",
+      "sha256": "1916d5aa2408aa368a86604d593d831add97cadf93b98bb3de07b6c2bdf6536e",
+      "size": 22914,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/registration/registerJadeData.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_startup_scripts_registration_registerJadeData.js",
+      "sha256": "b056cb54b47e3c5cd397b17039d102a26d692003ffe625ea4180862aba3e6608",
+      "size": 1954,
       "side": "both"
     }
   ]
