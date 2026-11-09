@@ -1,5 +1,5 @@
 {
-  "version": "phase4-20261109-cataclysmancy",
+  "version": "phase4-20261110-tc59addons",
   "name": "Sunlit Valley targeted runtime update",
   "changelog": "",
   "ignore": [
@@ -193,7 +193,9 @@
     "versions/Society Sunlit Valley/GT_INTEGRATION.md",
     "versions/Society Sunlit Valley/SPACE_INTEGRATION.md",
     "versions/Society Sunlit Valley/mods/worldedit-mod-7.2.15.jar",
-    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.0.jar"
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.0.jar",
+    "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.0.jar",
+    "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.10-alpha.jar"
   ],
   "files": [
     {
@@ -2427,20 +2429,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.Technomancy-1.20.1-0.1.0-dev.jar",
       "sha256": "02319ac8687299d6209c087a73060d2bb92b7c261c74741a166bdb93cc5e6a5e",
       "size": 1653934,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.10-alpha.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.ThaumicHorizons-1.20.1-1.0.10-alpha.jar",
-      "sha256": "b525619d376fc19f901e175f385caec2b2a2988869a7b8c6fe77c551b3926f7c",
-      "size": 4284868,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.Thaumic.Additions-1.20.1-0.1.0.jar",
-      "sha256": "221db801f3699ad0fc039929f51bafbc72576394eff3e2a9945feeece52bfc7a",
-      "size": 4981857,
       "side": "both"
     },
     {
@@ -5829,6 +5817,20 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_cataclysm_cataclysm_temple.png",
       "sha256": "60b465eaef4a6d9ac9042ff578bcb3a51c00c8a7b8c72c19b247dd6d188fa15b",
       "size": 2171991,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261110-tc59addons/versions_Society.Sunlit.Valley_mods_.59.ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
+      "sha256": "e376e762d46c5ccd7af0db4462a3db32c8367c449a3b409fe52aa033fe287952",
+      "size": 4293501,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261110-tc59addons/versions_Society.Sunlit.Valley_mods_.59.Thaumic.Additions-1.20.1-0.1.1.jar",
+      "sha256": "dce4bf6305f03df98b194d22d1add345365ea7c4871bb57c921964b23bbf2388",
+      "size": 4991367,
       "side": "both"
     }
   ]
