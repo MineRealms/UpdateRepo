@@ -5507,15 +5507,15 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/assets/society/lang/en_us.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_assets_society_lang_en_us.json",
-      "sha256": "c1550dc7a98e8cdf71e840397dc6fe60975ffffcb03685aaaa72cc932703088b",
-      "size": 3313,
+      "sha256": "18c5ed6c4e6d0f61ede571d30f4d22e16c4a2993532fc45675f53fd59af614a7",
+      "size": 82824,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/kubejs/assets/society/lang/zh_cn.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_assets_society_lang_zh_cn.json",
-      "sha256": "94a690fb8f1686c7f5cbbb4ace81581dc1574cda2a5d9c0eaaa7373566079a0f",
-      "size": 3053,
+      "sha256": "88538848d0e1b409d9efa3d0448244e7f08b41ab5452a470c0aed12babec2752",
+      "size": 142267,
       "side": "both"
     },
     {
