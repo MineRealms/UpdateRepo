@@ -1921,6 +1921,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/blockEvents/customBlockEntityBroken.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_blockEvents_customBlockEntityBroken.js",
+      "sha256": "470ba95a81e813e304d91acdd42eee6b6d95d51fd020eb82fddcdb83aa58e6e3",
+      "size": 3963,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/botania/gateBotania.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_botania_gateBotania.js",
       "sha256": "b8b1d10951f20dbf0ce07543b189e557bdfb457629c2d3e5fd5ec69130ce7720",
