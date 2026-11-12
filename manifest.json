@@ -62,58 +62,6 @@
     "versions/Society Sunlit Valley/config/warptheory-common.toml"
   ],
   "delete": [
-    "versions/Society Sunlit Valley/mods/selectivebounds-forge-1.20.1-0.0.2.jar",
-    "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.20.0.129.jar",
-    "ModpackUpdater-all.jar",
-    "versions/Society Sunlit Valley/kubejs/server_scripts/_diag_tags.js",
-    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20708.jar",
-    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20708.jar",
-    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20708.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20708.jar",
-    "versions/Society Sunlit Valley/mods/gtmfo-0.0.5.jar",
-    "versions/Society Sunlit Valley/mods/gtmfo-0.0.6.jar",
-    "versions/Society Sunlit Valley/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
-    "versions/Society Sunlit Valley/mods/mae2-1.6.1.jar",
-    "versions/Society Sunlit Valley/mods/gtmfo-0.0.7.jar",
-    "versions/Society Sunlit Valley/mods/gtmfo-0.0.8.jar",
-    "versions/Society Sunlit Valley/mods/AstralSorcery-1.20.1.0.jar.bak-20261005-asrefactor",
-    "versions/Society Sunlit Valley/mods/pollution-1.20.1-1.0.0-1.20.1-port.0.1.0.jar.bak-20261005-asrefactor",
-    "versions/Society Sunlit Valley/mods/jei-1.20.1-forge-15.56.0.205.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-energistics-1.20.1-forge-1.1.3.0-port.0.1.0-20711.jar",
-    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20711.jar",
-    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20711.jar",
-    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20711.jar",
-    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20731.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20711.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20731.jar",
-    "versions/Society Sunlit Valley/mods/twilightdelight-2.0.13.jar",
-    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20731.jar",
-    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20732.jar",
-    "versions/Society Sunlit Valley/mods/nodalmechanics-1.20.1-forge-1.0.0-dev.jar",
-    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20731.jar",
-    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20732.jar",
-    "versions/Society Sunlit Valley/mods/technom-1.20.1-0.1.0-dev.jar",
-    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20732.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-horizons(Isorropia)-1.20.1-0.1.0-dev.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20732.jar",
-    "versions/Society Sunlit Valley/mods/warptheory-1.20.1-forge-1.5.8-port.0.1.0.jar",
-    "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.17-forge-alpha.jar",
-    "versions/Society Sunlit Valley/mods/enhancedvisuals-4IG1vNXQ.jar",
-    "versions/Society Sunlit Valley/mods/warpfx-1.20.1-forge-0.1.0.jar",
-    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20740.jar",
-    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20746.jar",
-    "versions/Society Sunlit Valley/mods/[forge-1.20.1]AllMusic_Client-3.9.2.jar",
     "versions/Society Sunlit Valley/mods/ae2wtlib-15.2.3-forge.jar",
     "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20748.jar",
     "versions/Society Sunlit Valley/mods/mett-1.20.1-0.8.0-1.20.1.jar",
@@ -1041,13 +989,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ae2_overview.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ae2_overview.snbt",
-      "sha256": "b7603fddd21e42940dca428d1707a4ddeac1d8b563be2e70bfbc51545d20fc01",
-      "size": 19527,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/armor_weapons__tools.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_armor_weapons__tools.snbt",
       "sha256": "f9367520c247f3f5d3d372bc953a0ab1625cca100cd84a69f6be758c6ad0aa3c",
@@ -1083,59 +1024,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtceu.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtceu.snbt",
-      "sha256": "3f2d61b2954003a6c0ea1fdc20d230abd05b5a9b783b670b6ce67568012fbdf5",
-      "size": 47055,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/heating_coils.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_heating_coils.snbt",
       "sha256": "4213f0b9eb29b2ea0306ce02b49107898b862f5279d368f1337154120f2f3283",
       "size": 3674,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/hv__high_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_hv__high_voltage.snbt",
-      "sha256": "81a7ccd276f20b1e4e3e43fa0dd60b21eb885bedfe70a27657d35f63c1ce6473",
-      "size": 44478,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ivi__mechanical_farming.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ivi__mechanical_farming.snbt",
-      "sha256": "472e8506e763b603a19e1123432f8f43ebb810a947bc06d0ce9cb6da9423e479",
-      "size": 28572,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/iv__insane_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_iv__insane_voltage.snbt",
-      "sha256": "641a1659c59837e1905ac35a1d856863e98003159b6048f746b5bc91019fe742",
-      "size": 31820,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/longwings.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_longwings.snbt",
-      "sha256": "4db45e08b3c4aa395e54625539ba2a409a636924fd5dca8801b53d08d779d071",
-      "size": 51575,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_luv__ludicrous_voltage.snbt",
-      "sha256": "9959341ecc1c3008b1964d8261725573f98d9fbfc222416bc298d26140fb2bef",
-      "size": 35114,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/lv__low_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_lv__low_voltage.snbt",
-      "sha256": "45cabccae95cde0a59380bbf19d355cda39ae463569c045a8ac6237a771bd2bf",
-      "size": 78995,
       "side": "both"
     },
     {
@@ -1157,20 +1049,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_multiblock_dilemma.snbt",
       "sha256": "9913444cb71c6e0a51a6e48b0aa7353764ca317372aed78f13280c9b98d4826d",
       "size": 4997,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/mv__medium_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_mv__medium_voltage.snbt",
-      "sha256": "0386b753c3bc4a8d96de64299e931731560d873d9a143c88b1757da0f3e84a00",
-      "size": 79555,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/nutrition.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_nutrition.snbt",
-      "sha256": "31ebce291b87e12feda43eb2a77620d6e8a2f409a83aaf7b053277594e1e4290",
-      "size": 2589,
       "side": "both"
     },
     {
@@ -1209,24 +1087,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/slimes.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_slimes.snbt",
-      "sha256": "7f760fd51714cf900a0a751f5bb99890f97d0b84f9d1f8dfcbd5cbbd85063a73",
-      "size": 17610,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/space.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_space.snbt",
       "sha256": "389631fc363f5115be00df5ad22797a68eb85b2beae58377f6001cef7552d301",
       "size": 22435,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/steam_age.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_steam_age.snbt",
-      "sha256": "23020507cc7d853fbf7755a1cce2464dde166b798d8f78edf5152b24521031fd",
-      "size": 51844,
       "side": "both"
     },
     {
@@ -1286,13 +1150,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_uv__ultimate_voltage.snbt",
-      "sha256": "45089735a75170fede5e5dcfaab52513a1aa5e9a1416cfc1d31d4d5f290ffe49",
-      "size": 14968,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/zpm__zero_point_module.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_zpm__zero_point_module.snbt",
       "sha256": "2ddf718c8e811e9af3fe8419bfb9356000c8fb843215773df464bbb1a7fa412c",
@@ -1304,62 +1161,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapter_groups.snbt",
       "sha256": "32265c7b08e48fb18b02b0c4fc9c082999eb17d59a42c2adabee19eddf9f245b",
       "size": 742,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/bronze_age.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_bronze_age.snbt",
-      "sha256": "2f244ef5e65a15f5b901c66994ad7b05f02424eed022c6a54f28cd751c1f43b3",
-      "size": 193,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/distillation_tower.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_distillation_tower.snbt",
-      "sha256": "dc7b04a529717780231e0331a29d0216ea423023332517b268175ffccc93b2ae",
-      "size": 209,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/gallium_arsenide.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_gallium_arsenide.snbt",
-      "sha256": "085aa52c863f9b87476bcabd73dcb9973ddb3b11f157cb53a662c3c638cd5b0d",
-      "size": 197,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/hv.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_hv.snbt",
-      "sha256": "3aac8e16b127baaa45a038257fb73c6c16560bc345451728b099dfb5c6e7bcc5",
-      "size": 187,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/hv_components.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_hv_components.snbt",
-      "sha256": "683debd33661a07b1687cbcba93c284eba0c7aa9e58d67845f7579f70cede678",
-      "size": 197,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/platinum_group_processing.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_platinum_group_processing.snbt",
-      "sha256": "c3c3dead1732288d909c9c9a6d517153166b1073f3d23b2e74a1feb6f6a65030",
-      "size": 455,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/polyethylene.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_polyethylene.snbt",
-      "sha256": "cffe9b2a4067da29537351129b4f561322fe44bc5869dba0de9e6c7ac36927b3",
-      "size": 458,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/reward_tables/titanium.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_reward_tables_titanium.snbt",
-      "sha256": "097a8ef1ede7217105b8442e7c2ca60976fb24f0d0bcef6fed1261b366f406ec",
-      "size": 207,
       "side": "both"
     },
     {
@@ -1377,13 +1178,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/astral_sorcery_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_astral_sorcery_ids.json",
-      "sha256": "81e8d2c5d9869f13b11d8b2ce5b4100337f99dc9d9898ae096f62fe588ff15a4",
-      "size": 9807,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_ae2_addons_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_ae2_addons_chapter.py",
       "sha256": "5c5399f2bca1f15b632c51aef26ccafbfb4438f174e0682af5d09dc8c1688d51",
@@ -1398,13 +1192,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_astral_sorcery_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_astral_sorcery_chapter.py",
-      "sha256": "19516ce42dc6b679cd85cddfc3cdb8a8675d3c7c5eeeb97da84c2e4ec4a73e03",
-      "size": 53390,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_mek_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_mek_chapter.py",
       "sha256": "7f22f049cdaad489e6567f564b2900e81c4bccd538f573c3a036624953b1b224",
@@ -1416,13 +1203,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_middle_earth_chapter.py",
       "sha256": "a4d4e70f59e3ed7e97d8429f858e2746f5dec904e2d8a1d76cb44e8875bb09c9",
       "size": 22410,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_pollution_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_pollution_chapter.py",
-      "sha256": "b47e5b8efc3adfba1d203b9b254ef29f24ed85d82fc9af8098d1afbe51b503c7",
-      "size": 60985,
       "side": "both"
     },
     {
@@ -1451,13 +1231,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_middle_earth_ids.json",
       "sha256": "9e021fdd1fbcca88999cb888ada616f63173b08b28e296a4acdf56124b76e40e",
       "size": 3035,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/pollution_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_pollution_ids.json",
-      "sha256": "9590ed69f5bd5e8676f2e5f34f7481a2931f02f49a29dceb735f4702d347c113",
-      "size": 42493,
       "side": "both"
     },
     {
@@ -1503,416 +1276,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquestlocalizer/lang/en_us.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquestlocalizer_lang_en_us.json",
-      "sha256": "83ee84b08c21a63563062e82f330dfc0534520a2deb5721cbe74dc5ce93b4bf7",
-      "size": 837734,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquestlocalizer/lang/zh_cn.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquestlocalizer_lang_zh_cn.json",
       "sha256": "459e32a38faa81f0bea383a796f8cc1ec242a94728edb48c78f510296aa278c3",
       "size": 810434,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/acetaldehyde.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_acetaldehyde.json",
-      "sha256": "473a571bbe7fe5dbc31db731f1aa9a89bbebf6e362f0da45c5c7194ded2cb8d9",
-      "size": 588,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ammonia.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ammonia.json",
-      "sha256": "36c49a150ca350889bd82efdbbdd4924c3f8976637a59f567fa81ee343f257a9",
-      "size": 832,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ammonium_chloride.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ammonium_chloride.json",
-      "sha256": "ee6254a7a436a8a002e11342ea6b540fb4430d343dc2f131fc8230daa24e7398",
-      "size": 1157,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ammonium_perchlorate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ammonium_perchlorate.json",
-      "sha256": "0fe8debcd38a717f287242e79564abbdc14dcb6de9795420fb89de8d02ae8ada",
-      "size": 2156,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/arsenic_trioxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_arsenic_trioxide.json",
-      "sha256": "4d4a70b4d4daef750795575b3333ddcc28b4c321b86f9ce49f27dee1fc592a0b",
-      "size": 1105,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/blue_vitriol.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_blue_vitriol.json",
-      "sha256": "0a6605af6fd27d2d925205ae097e4ca74c29d4b429389f1fa2343a9925c1837a",
-      "size": 1223,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/carbon_dioxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_carbon_dioxide.json",
-      "sha256": "bc2f4bc4988537109d5c2426e1984dff3cd7c3c0a14a9b7140c069d170870837",
-      "size": 657,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/carbon_monoxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_carbon_monoxide.json",
-      "sha256": "03a496006e6a8c39f4c452ce9f413a02fcb380b2342380ca9d89d53464ef26d4",
-      "size": 401,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/chloroauric_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_chloroauric_acid.json",
-      "sha256": "630fdbc3a98decf1c9508706b4e2a50120d786ba43161d2c17746d41ba50f83a",
-      "size": 1072,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/citric_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_citric_acid.json",
-      "sha256": "ea6efdae490a6730e5495a943323b7a3870a25d1c417710e2efb71c362843f48",
-      "size": 3883,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/codeine.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_codeine.json",
-      "sha256": "f8be71f07986b6e7bc09df40c389ceea3cf4bedf1fb54f689b3ec8d28d8e1002",
-      "size": 4568,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/cupric_hydrogen_arsenite.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_cupric_hydrogen_arsenite.json",
-      "sha256": "8075eec223dfbe75c37267152bd300c95fa74e8ce50b06181dba6ee451ea3e5d",
-      "size": 1194,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/dimethylamine.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_dimethylamine.json",
-      "sha256": "d97b52e0c3d33d2e9f855de4139360c740af4fbcf470a29ea5783745c50af135",
-      "size": 782,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/diphenylamine.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_diphenylamine.json",
-      "sha256": "16ee61bd5b21b3e137da67268626a20b0d815c18323c84722329e0c1cccb312d",
-      "size": 1152,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/glyoxal.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_glyoxal.json",
-      "sha256": "c7e1a0aa0f233ed5a8c60dd374060d6c80b5fb9412bd3d915e368134390e6590",
-      "size": 819,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/glyoxylic_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_glyoxylic_acid.json",
-      "sha256": "836c97ee105f7ae19f86fd0d4f4a977ac4425ac329dd866a12debb694ecb9e23",
-      "size": 1329,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/guaiacol.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_guaiacol.json",
-      "sha256": "96c0890bf00bb337a799c99ddb4f71d3015b94b7c2aabbf6376b81e7d93e5a8c",
-      "size": 1223,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/hydrochloric_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_hydrochloric_acid.json",
-      "sha256": "8e7053f7abc4041faba777f9291a0bf496942dbc190e8fb8bb6b4bafcfbaa5f9",
-      "size": 368,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/hydrogen_cyanide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_hydrogen_cyanide.json",
-      "sha256": "b9c38b03807669622faa7bac4591ed80cc85f93a2d063b3ac811313acf20ef83",
-      "size": 657,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/hydrogen_sulfide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_hydrogen_sulfide.json",
-      "sha256": "e3e3dbb040a89427d3073ed3be57158fe900d76fbdd5f7997d8fab450c7000dc",
-      "size": 605,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/ii_nitrophenol.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_ii_nitrophenol.json",
-      "sha256": "9f0023f8087d37b09e9ca9102a915b153b00e242ac90e2e3a211247c1725b313",
-      "size": 1498,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/isopropyl_chloride.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_isopropyl_chloride.json",
-      "sha256": "238cad0c58ed7df04498b3e2b5a19b2b387b486877ee766d5015b0e9038b1ccd",
-      "size": 750,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/iv_nitrophenol.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_iv_nitrophenol.json",
-      "sha256": "259b01b34a96e38eb89090a9f5733384aa5e1c4a17e4b3ada9f42116c63d9d0e",
-      "size": 1499,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/lithium_carbonate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_lithium_carbonate.json",
-      "sha256": "846166264b512c5f309f505858dbdeb051cc00d8bcde27df5f14d70f264d8205",
-      "size": 1104,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/lithium_oxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_lithium_oxide.json",
-      "sha256": "1c611412c7fbe77b40eae458ae702e7b6fb7fad43a92da320d055c275c4f761b",
-      "size": 623,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/nitric_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_nitric_acid.json",
-      "sha256": "337886addd192e6c60fef3ebb63bdca6cfb1f241ce9224c4d5cabb4e5def02c6",
-      "size": 1091,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/nitrogen_dioxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_nitrogen_dioxide.json",
-      "sha256": "8472ed865a216cbdeea053c8ef4f332e1750a65b377a733d1272c06e60c127e9",
-      "size": 639,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/nitrous_oxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_nitrous_oxide.json",
-      "sha256": "8771f5d4e9713ae572bd4b904b8fa620524c1d92d9157f9f2abe91013943e403",
-      "size": 657,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/paracetamol.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_paracetamol.json",
-      "sha256": "109857798af08326576a237f318fe055f8bc998ecd9943019dcce513ccb5613b",
-      "size": 1937,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/perchloric_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_perchloric_acid.json",
-      "sha256": "c213c417bbf5bc01e9dbe73d125e899f8709ba0c0472e83372fcd6f16fa5af0d",
-      "size": 1373,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/phenothiazine.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_phenothiazine.json",
-      "sha256": "85f3ea00c119e5bbbb669339d8cdfce66f3c59fab458722ce6e2a9382f24e626",
-      "size": 1508,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/potassium_perchlorate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_potassium_perchlorate.json",
-      "sha256": "3d8f7e4949d2e54e107e57851b9f07e7ffde74a90a6a3d14bc389f3848a2f3a3",
-      "size": 1241,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/promethazine.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_promethazine.json",
-      "sha256": "4e53cd00127368222d5b2e85a9e80cedb294dbda1fd6e9c9284d8f8683ea189e",
-      "size": 2600,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_arsenite_solution.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_arsenite_solution.json",
-      "sha256": "35fc456f661df51bdda66888cbe7d2b3f62675629f9d06f9f2186c1e3e19fb85",
-      "size": 754,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_bicarbonate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_bicarbonate.json",
-      "sha256": "899e87b20e8dea9df01f8b158e92b2dc0c8457514619e8fbe3190a87ef05f349",
-      "size": 1211,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_chlorate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_chlorate.json",
-      "sha256": "e61fd3805c54b22c0545b8c2799110e928856a680623d2c9650aeb94a56c948b",
-      "size": 985,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_chloride.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_chloride.json",
-      "sha256": "8b642382ae92f32c4b562cf7d0f4fd6f599521171a8248d2aedd840eaa37963a",
-      "size": 367,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_cyanide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_cyanide.json",
-      "sha256": "688a862f79f7ab1a7c3977893a093f51989b32063d920585275928e2627ec2dc",
-      "size": 521,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_hydroxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_hydroxide.json",
-      "sha256": "9e683a5657e006a0860c07f8c0823c5c5421ec715fe7f82f5b5147f328cfa442",
-      "size": 481,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_perchlorate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_perchlorate.json",
-      "sha256": "41d542df9bef32ced280d64033082a6ee573c3db2d39b0ab3049511b9e1e43e7",
-      "size": 1242,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_stearate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_stearate.json",
-      "sha256": "6dc68f543dc8699f2254c59b8b4ff8984d42588be01339a62113706d26a9ab5f",
-      "size": 4311,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sodium_sulfate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sodium_sulfate.json",
-      "sha256": "b94280683a319d7d5a7cd7ba4fd162c998de2fa5652c5425d216e2fec687d5e2",
-      "size": 1343,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/stearin.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_stearin.json",
-      "sha256": "ded3b3072442fb6bc481f9f095317de0788e0950fff181b885a70f563296be1a",
-      "size": 13838,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sulfuric_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sulfuric_acid.json",
-      "sha256": "d225f556bd06a912307c72b5ab6490789cd6fcddf5c40856221a052c59fada2d",
-      "size": 1573,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/sulfur_dioxide.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_sulfur_dioxide.json",
-      "sha256": "6ae6c4b06ab6ffb0c0464b37f03b1cbede73d7e00b5f23594823d457366b0ce5",
-      "size": 657,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/tricalcium_phosphate.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_tricalcium_phosphate.json",
-      "sha256": "bf32e43777825441613641c48bb75a1865f98fe2e6b41912c609f0498cc9df4f",
-      "size": 2524,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/vanilglycolic_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_vanilglycolic_acid.json",
-      "sha256": "3cb6ce2a6f573e0d01bce07444102f859baf9319c0e071e0af6c89fef1fe0bb2",
-      "size": 2655,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/vanillin.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_vanillin.json",
-      "sha256": "44bb8a1d569ec05e8035410c0d6c6288d43879a82a2f0f86fd3fb526b5a0381c",
-      "size": 1696,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/vanillylmandelic_acid.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_vanillylmandelic_acid.json",
-      "sha256": "e0bfee9a93cd8d51f7b27944adba336b0de77016ea783b37e0af13a56282c551",
-      "size": 2875,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/water.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_water.json",
-      "sha256": "cb24806e01fbe967a080cc1e6711667cb2fc791aa2e047f9843acf77b3b5dcad",
-      "size": 605,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/molecules/x_phenothiazine_ii_propyl_chloride.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_molecules_x_phenothiazine_ii_propyl_chloride.json",
-      "sha256": "5849ffa4fbc3a304aa7257dac41d10f2e286d2d9b50eddca62b8adceb5bc04be",
-      "size": 2163,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/space/beyondstars.png",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_space_beyondstars.png",
-      "sha256": "9d498d6f1cd19bc20c59cbcb6f5fdbd0228c2f3f565ec31f9faa614b636b6655",
-      "size": 482416,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/space/space.png",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_space_space.png",
-      "sha256": "58f1fe052335334e5d7c44b2591ca5fe0ad4a9eb568223119930442cb9718236",
-      "size": 306081,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/space/spacestation.png",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_space_spacestation.png",
-      "sha256": "096ad199abb765fd1b1afc4d71f3db896a85c173e3d4f69419132cc8d779ca70",
-      "size": 403920,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/space/station-1.png",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_space_station-1.png",
-      "sha256": "7a4cc097da824fe1ce671d53ad40858b81dcd2a10edea50c1eda7ac6b5c7206f",
-      "size": 174875,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/client_scripts/tooltips/botaniaGateTooltips.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_client_scripts_tooltips_botaniaGateTooltips.js",
-      "sha256": "d90eabaa77d44f1da805730a25f03b50bef1a5d76d6b1385acd9bb9fad9222c8",
-      "size": 600,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/client_scripts/tooltips/isorropiaFoodTooltips.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_client_scripts_tooltips_isorropiaFoodTooltips.js",
-      "sha256": "17564cb52ef2dd0b68fcedfa800fcec7a25010ba23e83aa383c7139792499461",
-      "size": 639,
       "side": "both"
     },
     {
@@ -1930,20 +1297,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/botania/gateBotania.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_botania_gateBotania.js",
-      "sha256": "b8b1d10951f20dbf0ce07543b189e557bdfb457629c2d3e5fd5ec69130ce7720",
-      "size": 2774,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/entities/globalAnimalVariables.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_entities_globalAnimalVariables.js",
-      "sha256": "1a6893fb7f048eef560f830742e89bb63d3e14da39f47189939186893694e752",
-      "size": 3232,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/fixRocketFuels.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_fixRocketFuels.js",
       "sha256": "9d5287ee2cf81e49d8a59abfba76922201eb2f8d518a77473d48e0897cc1a089",
@@ -1955,13 +1308,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_gtnnLinks.js",
       "sha256": "3c5c9b9f15f951cf486545f6bc0cf399e87b0931050d08d14127dfb6109a3932",
       "size": 2659,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/hardenRockets.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_hardenRockets.js",
-      "sha256": "86dc4e11fdc2c836a179f8894c0d7a6ae413f188dd1aacc349e8bf79a36ba841",
-      "size": 3236,
       "side": "both"
     },
     {
@@ -1979,20 +1325,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/globalServer.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_globalServer.js",
-      "sha256": "cfdbaa818db2a3ac0f5258e67e693e282eb147e75dab2fd7fb46da231a8467b0",
-      "size": 15333,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/braziliandelightNutrients.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_braziliandelightNutrients.js",
-      "sha256": "f217b6542ce98edac9964fec62bbaf0a0aaa7cb7d624c77e9b001327f7ef9271",
-      "size": 4790,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/gtmfoNutrients.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_gtmfoNutrients.js",
       "sha256": "6ef85a472baf6313cce4dfc46b843cc8e31fff1aca2cc0431ac866f9d2295245",
@@ -2000,66 +1332,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gtmfo/twilightdelightNutrients.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gtmfo_twilightdelightNutrients.js",
-      "sha256": "7ca0a2555a26e18ae9aeb03d8b53330db63c121bc7d3e989a43d1754b8cd5fb8",
-      "size": 5549,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/createBridges.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_createBridges.js",
-      "sha256": "d6e98839261be49f6cbd36c80b5c5ee07cd3af39a66c11f771c1af24739f95cb",
-      "size": 5286,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/gtcaCasingCompat.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_gtcaCasingCompat.js",
-      "sha256": "8e4c9c96e0c6077813725c11876fa76e4a35d51aeff7b654ed2d4a168b3ff00f",
-      "size": 2892,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/lockLVBehindCreate.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_lockLVBehindCreate.js",
-      "sha256": "27b8355e6a12998ef6c0103017fa44e2caa3077cfdae40fcd122088c5409c265",
-      "size": 1555,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/oreVeins.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_oreVeins.js",
-      "sha256": "21a0893a54665483c45a5dae05e38f21f53c13aa6cd1f9b96ea587bdd34e2221",
-      "size": 13724,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/phase4RecipeRepairs.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_phase4RecipeRepairs.js",
       "sha256": "321e5ba92bd8592115dc79eee89336c2d6b7eb813afcab8dc813391bfa5431a8",
       "size": 207812,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt_demo.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_demo.js",
-      "sha256": "fe317879d7d686b617d732b92a46a56ad13228988ed809be4330d202153dd5af",
-      "size": 18949,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/isorropia/chocoFood.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_isorropia_chocoFood.js",
-      "sha256": "734dd2729fe71f4ca1f3fa4fb1e7c785b6a8ae007f3576f434cd6c4035fd225e",
-      "size": 1083,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/itemEvents/magicRope.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_itemEvents_magicRope.js",
-      "sha256": "edc674a300ef50096828373b18c1d19508f614f4e288f4be2f7539aadbbd7179",
-      "size": 4234,
       "side": "both"
     },
     {
@@ -2084,13 +1360,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meRecipes.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meRecipes.js",
-      "sha256": "f3659b32cb42de787e7c9b1f7f049255f0a62639c0eac681c4c0521d84db6674",
-      "size": 1309,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/me/meTags.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_me_meTags.js",
       "sha256": "512aa37634cd097f8416746f52dc52d84fceaf5d6977f88a32dea9513a1886e0",
@@ -2102,34 +1371,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_npcs_npcInteraction.js",
       "sha256": "ba0e955fa1f11ff76b68fc07856a4568d3b27d62bba2249efe7da81ab1ff3e17",
       "size": 12736,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/addGtmfoGtRecipes.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_addGtmfoGtRecipes.js",
-      "sha256": "f92affe14e6b9ef41995d995cf146685aea2aed6b3fd2a0529bb8f10de05ac4e",
-      "size": 3201,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/addGtmfoRecipes.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_addGtmfoRecipes.js",
-      "sha256": "e6a428b39aa597becb706674e2b22b8925a8757177a00005e0fc0cf068d175af",
-      "size": 6248,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/compatRecipeCleanup.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_compatRecipeCleanup.js",
-      "sha256": "201d8b2011ab3a2799e2d5f04b00d002f51455aa3a9d288741ed0f5b6a0b6c69",
-      "size": 1106,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/recipes/mincerRecipeCleanup.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_recipes_mincerRecipeCleanup.js",
-      "sha256": "cd3542daef2151a3b9342a95bb962159adec8af709e7faa7c188632314ca3f4d",
-      "size": 234,
       "side": "both"
     },
     {
@@ -2266,48 +1507,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/handleGtmfoTags.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_handleGtmfoTags.js",
-      "sha256": "379c93607ca3182b94440119bb5dceea9d68090357385ca2a67de08bd81f1250",
-      "size": 8095,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/handleItemBlockFluidTags.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_handleItemBlockFluidTags.js",
-      "sha256": "aa9a5fd3ce2d235617ba2f2a89099bcdd83ab9b541c14ad882cca7c9fec0f0b7",
-      "size": 30912,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/tfSeasonsTags.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_tfSeasonsTags.js",
-      "sha256": "06f8c0ef84198dda1cf8c1168ebf8fd3d4ed9ae05d0aeffcae3b4d09925a5e67",
-      "size": 1515,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tags/unifyOreAndCropTags.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tags_unifyOreAndCropTags.js",
-      "sha256": "8826a80ac9f293233cfe18d6e748340e328eb20f2c3b98ed032865d02d3da4d7",
-      "size": 1412,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcGtCompat.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcGtCompat.js",
-      "sha256": "851cb4d03d25dd24f54b98403be681434adfac323c6223e078c0cc62691db927",
-      "size": 1853,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcRecipes.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcRecipes.js",
-      "sha256": "28780f94af924fdfa81751d53ec8b5c6d3e96e1d16f69334f2e95f7a79548249",
-      "size": 2803,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/bridgeTechnomGt.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_bridgeTechnomGt.js",
       "sha256": "fed7c9326d31e7dbc989d751df6e97c540626c74d1be071467cf3aeb76a2ca05",
@@ -2315,108 +1514,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/gateTechnom.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_gateTechnom.js",
-      "sha256": "cf20492edb8b79c645693ca9b885c5b13500e36a824639c7aa0241c96e54666d",
-      "size": 2589,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/gateTechnomBotania.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_gateTechnomBotania.js",
-      "sha256": "6a1ca30a62e274cf6eedae90b3cc3f6387967a0131d4f643d2791aaf42248fdd",
-      "size": 1230,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/technomTags.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_technomTags.js",
-      "sha256": "23acd737036f5bf6a54cf2fb3c8aa9bf246581d561f7475acc805b0919c55532",
-      "size": 1072,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/thaumadds/thaumaddsFarmBridge.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_thaumadds_thaumaddsFarmBridge.js",
-      "sha256": "67ae31365460212ae1ce6020e9576be4201e5c9c3ab7f92dab9a96de59dae1f4",
-      "size": 1398,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/twilightforest/disableUncraftingTable.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_twilightforest_disableUncraftingTable.js",
-      "sha256": "7d01dbbdeb2a1281fb837c4e52c56e43832425e5827b7685fea03ebcf5ecc079",
-      "size": 452,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/braziliandelightTrades.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_braziliandelightTrades.js",
-      "sha256": "166081e520e1dd6ed8f860506d6e97f082514a136ad76bb33edf8092970b9c4d",
-      "size": 3496,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/globalNPCHandlers.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_globalNPCHandlers.js",
-      "sha256": "95539a2959d9d879cd895c662becc900c094a519333cf98d8536725bc2d70b49",
-      "size": 9023,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/gtmfoTrades.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_gtmfoTrades.js",
-      "sha256": "340f1a3786d75abec8995bf55a2c54198a31a1ea5e87bbdaa0e422c80d95ecb3",
-      "size": 5461,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/gt/worldGenLayers.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_gt_worldGenLayers.js",
-      "sha256": "dded5d87f88df286e1c23c124abcaf8d472880d2dd7f1efe08e1bd62d5c80d0f",
-      "size": 1437,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/husbandryDefinitions.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_husbandryDefinitions.js",
-      "sha256": "59e85e2657ce559cb83e16201f27290c9de7482c01d013e84c2fb5e75208f0cd",
-      "size": 17101,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/me/meTrades.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_me_meTrades.js",
       "sha256": "34cc5933240d88d339c3e77ddd19c776ddc979376c3465b648dcf6336dc4ebdb",
       "size": 2272,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/tc4Trades.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_tc4Trades.js",
-      "sha256": "f83d4ff7cecabda8d8b7810f7ae5e5a680622de7b7c4ea3d65cb73e3d54edf82",
-      "size": 1898,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/tfTrades.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_tfTrades.js",
-      "sha256": "a13b881c18a263165fe0b21dd9098deaec9311b5fa8011040b9b5f5d817daf97",
-      "size": 2939,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/twilightdelightTrades.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_twilightdelightTrades.js",
-      "sha256": "1a460d55073125c144d5dbf108ffca66fd8af784d0061d8dee6a540a13f894eb",
-      "size": 3757,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/manifest.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_manifest.json",
-      "sha256": "87e89d0a75121b0b09689c3c176bb26bf2a35f6cdb9ab057d457c63041a980d9",
-      "size": 85092,
       "side": "both"
     },
     {
