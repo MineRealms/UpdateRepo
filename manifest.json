@@ -1965,8 +1965,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/heavyAlloys.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_heavyAlloys.js",
-      "sha256": "ebf6775c8d71f7fb1c7a154ce8eb89bdffffd68137b0d8705c062abb587deed1",
-      "size": 2796,
+      "sha256": "b3707a8a267dc23d1504d427ffb1682f3d0d5725805e4ffde6eba375f2d32f1c",
+      "size": 3133,
       "side": "both"
     },
     {
@@ -5486,8 +5486,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/industrial_quest_support.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_industrial_quest_support.py",
-      "sha256": "6474a5b23b8f636bf70314ac9e6c7b3c38442bcd4f4c344967123b97ad71d2b6",
-      "size": 11122,
+      "sha256": "4418a5c5ef931411358f5256967178f5da7a8597d131317208dc8ccae8e41877",
+      "size": 11550,
       "side": "both"
     },
     {
@@ -5796,6 +5796,90 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_cataclysmancy.snbt",
       "sha256": "747c556a1913269a231096f58e6c8e5dd86e1d53fe64123df2b4c8d8da35688f",
       "size": 11188,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtnn_industry.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtnn_industry.snbt",
+      "sha256": "666e7fda3007b7cf9e9fed977dd444ff7ff1359a8e61e3576a134e969da23de2",
+      "size": 31445,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtca_industry.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtca_industry.snbt",
+      "sha256": "4ef5bbfc1f0ba50ed335668b71e3cf520e04e0af5dd54a1f3848611789aafc71",
+      "size": 16999,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtca_space.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtca_space.snbt",
+      "sha256": "70729c0346e2ffa6f20f96805f5a65390cc70aab325cf296a16c276f294fd1e1",
+      "size": 18869,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/gtcaOrbitalAssembly.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_gtcaOrbitalAssembly.js",
+      "sha256": "97068407578eebd0f166c3146d28f81a3d082afbb2a407a18e07086a71039320",
+      "size": 1889,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/gtcaLinks.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_gtcaLinks.js",
+      "sha256": "8de7e999f8d75a23e43885011fb3d837ee6659eaed7dc7381cb1440bf36d43fd",
+      "size": 2431,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/industry/voidMekaSuitAssembly.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_industry_voidMekaSuitAssembly.js",
+      "sha256": "a59402a94d3032a4558cf60d05f1e2f78199f4d4bcd05e22be6b36af334fe2ae",
+      "size": 4680,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtnn_industry_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtnn_industry_chapter.py",
+      "sha256": "7215b212e2fb13c6aa4cb197b044a985e77bac7daafc58c0dbc60a687a37ea14",
+      "size": 23340,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtca_industry_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtca_industry_chapter.py",
+      "sha256": "d39358887a56113dedd513917f6aa5a49471916af990dc823d8b49981deb4e02",
+      "size": 11793,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtca_space_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtca_space_chapter.py",
+      "sha256": "e1749454a02b83e57a9be9f0ee1d79e58a10a1492fa0773ba62872d0c649994a",
+      "size": 12688,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtnn_industry_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtnn_industry_ids.json",
+      "sha256": "fe412150a8aeb50bd02cf6725d4d6d10d0b1b2feabfada5320ce1655d1b77221",
+      "size": 5069,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtca_industry_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtca_industry_ids.json",
+      "sha256": "4ee2981add0887454ff32f8fb7f430746ec39b844210f8731115abdd923b4f49",
+      "size": 2902,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtca_space_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtca_space_ids.json",
+      "sha256": "f7369676de87d14dcd8ee48ef61b378b395eee147d04359bd5d91d5787396f81",
+      "size": 3426,
       "side": "both"
     },
     {
