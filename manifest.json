@@ -1077,8 +1077,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ev__extreme_voltage.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ev__extreme_voltage.snbt",
-      "sha256": "3c1401d57aa50aa9aeec826d0170cd4188d32a9f13af8e9362bc2f90e3084f82",
-      "size": 62746,
+      "sha256": "a2c7c466bb9381189f3f96f38f2162e5a807a871ac4449f8491bdbb7d5178113",
+      "size": 62953,
       "side": "both"
     },
     {
@@ -1175,8 +1175,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "4fdb6e12f2415ca645107ccb1805369a12e00c7dc98b46553594c3052b0040c3",
-      "size": 42419,
+      "sha256": "4d10c771f7e518813f9ed6d63c81552d8ac0d871e2ee63c0d35b5ed123e5b8c6",
+      "size": 42593,
       "side": "both"
     },
     {
@@ -1217,8 +1217,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/space.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_space.snbt",
-      "sha256": "35b93284ea1a4b40d17b92887ddc4f066902ef86a058b889c8100355d3ea10a4",
-      "size": 22272,
+      "sha256": "389631fc363f5115be00df5ad22797a68eb85b2beae58377f6001cef7552d301",
+      "size": 22435,
       "side": "both"
     },
     {
@@ -1294,8 +1294,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/zpm__zero_point_module.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_zpm__zero_point_module.snbt",
-      "sha256": "1c930d89fa984eea7a934e6d7bb57e13cec42746cdb00a3543c1de131123b1b8",
-      "size": 21477,
+      "sha256": "2ddf718c8e811e9af3fe8419bfb9356000c8fb843215773df464bbb1a7fa412c",
+      "size": 21783,
       "side": "both"
     },
     {
