@@ -196,7 +196,8 @@
     "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.0.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.0.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.10-alpha.jar",
-    "versions/Society Sunlit Valley/mods/gtca-1.20.1-2.2.0.jar"
+    "versions/Society Sunlit Valley/mods/gtca-1.20.1-2.2.0.jar",
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.1.jar"
   ],
   "files": [
     {
@@ -5779,13 +5780,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.2.1.jar",
-      "sha256": "5cde5338febe47cfbcfbd98f2d4402cdc6c027198df6ad0b4ae691839b04ad4a",
-      "size": 35685,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/cataclysmancy.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_cataclysmancy.snbt",
       "sha256": "747c556a1913269a231096f58e6c8e5dd86e1d53fe64123df2b4c8d8da35688f",
@@ -5916,6 +5910,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtca-1.20.1-2.3.0.jar",
       "sha256": "7ce1fc7e466b774fb78b66cd7a0fa07ab30d6ce2f067bf2e5dfcb23367609970",
       "size": 3493101,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.8.1.jar",
+      "sha256": "13d9aed5a54c6058c5c6071f336f77d79132e917c0acd773b139cad8b7434626",
+      "size": 864493,
       "side": "both"
     }
   ]
