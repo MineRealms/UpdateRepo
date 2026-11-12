@@ -85,12 +85,6 @@
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.1.jar",
     "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.2.jar",
     "versions/Society Sunlit Valley/config/fancymenu/customization/universal_layout.txt",
-    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_banker_choice.json",
-    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_blacksmith_choice.json",
-    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_fisher_choice.json",
-    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_market_choice.json",
-    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_shepherd_choice.json",
-    "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_trader_choice.json",
     "versions/Society Sunlit Valley/kubejs/data/farmingforblockheads/farmingforblockheads_compat/quark_saplings.json",
     "versions/Society Sunlit Valley/kubejs/data/forge/loot_modifiers/global_loot_modifiers.json",
     "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/items/freeze_resistant.json",
@@ -1005,15 +999,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/astral_sorcery.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_astral_sorcery.snbt",
-      "sha256": "55888f507390ea1e781a8816d9a0d93cb08c35309ec06526e1d47171484b3f06",
-      "size": 50262,
+      "sha256": "ee41e53a8f75d46b44dafa317cc87832c83516e8ad90efd12209d82090f070eb",
+      "size": 50655,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/botania.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_botania.snbt",
-      "sha256": "cb90c2faf70058c0daa665227fb7682a6cfa10b80da989caa04cb89ec62e2c84",
-      "size": 24350,
+      "sha256": "7d4358b099b503bc32918ab96bcffd9ff7001edfaa2a83893b40ea20bcfab358",
+      "size": 24758,
       "side": "both"
     },
     {
@@ -1117,15 +1111,15 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/thaumic_industry.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_thaumic_industry.snbt",
-      "sha256": "8dfcb3f6e582450372ead6148a85a0a0275bb996ebb44ca43a1bf3d60e36e42b",
-      "size": 19110,
+      "sha256": "2922844a07b7ad15546cb539704a61cbed86dd36dc4b4e2f1e93c77f271d0152",
+      "size": 19556,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/tinkers.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_tinkers.snbt",
-      "sha256": "4cdefd13fc2b7abc0ee4dbb896a7a89eb0eb00d0305e5421748031ac95d063c0",
-      "size": 9647,
+      "sha256": "65b656c0a9c750c640751a7dea242421d1d75ce58b26edf320e397e3e149f3a0",
+      "size": 9766,
       "side": "both"
     },
     {
@@ -1138,8 +1132,50 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/trade.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_trade.snbt",
-      "sha256": "06a41669a7480afca165ba4dbe60a2232fe0c89d52aaf2bb3a8e030f80c2db2c",
-      "size": 14526,
+      "sha256": "e60b1097f5dcb67fd514e05ebb6d716be8074e32edf219de5302399f1b916799",
+      "size": 15504,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_banker_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_banker_choice.json",
+      "sha256": "2df5e8d0408f9aee83236f075c5118f18dced192b01c4b5ef1e83b04975cff0c",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_blacksmith_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_blacksmith_choice.json",
+      "sha256": "61f98521ab466b7d1b2a85dc4ce5826f7254f59f0938ebf3978765f119bcec25",
+      "size": 654,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_fisher_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_fisher_choice.json",
+      "sha256": "2f8b2044c2d7902a6b71a2d9aa500d3f79624f918dc56eaab63b74f9de94970d",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_market_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_market_choice.json",
+      "sha256": "ee70eec6e1760a0eb13d46856954051bce282749a6b15c48ee7e22861dec776c",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_shepherd_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_shepherd_choice.json",
+      "sha256": "fcb9d2ede974f896126a9177bcc08d692a71bf8de099f1b74df20147e7df872f",
+      "size": 646,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_trader_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_trader_choice.json",
+      "sha256": "e631946d8844bcc549d7c561eb1453ab4860223a76dfda8d69e1ace3730bdaa4",
+      "size": 638,
       "side": "both"
     },
     {
@@ -1390,22 +1426,22 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitHud.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitHud.js",
-      "sha256": "0434929cbc8a318213f3a9b6d046f0a28b6e8598a2d074cb13e4d5fa7d269570",
-      "size": 3503,
+      "sha256": "0df37b435d8bf6ca48032673947dadc45b2c140e6574246c546e4acc030ecdd5",
+      "size": 3818,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/meMerchants.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_meMerchants.js",
-      "sha256": "84693a1091ae13fbbc35779e7a7c0e3b00a9a12fd02b37890cd8cd9c9cb4043d",
-      "size": 7903,
+      "sha256": "d63986cbdd0246e120197d4b5f9c9528394cd79f56837563f712b056e9607871",
+      "size": 7924,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/meSeasonPrices.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_meSeasonPrices.js",
-      "sha256": "7ae0bf6cdc704b28dd148b3f290a795bf34664f54f0d729fe014fdfae46cca8f",
-      "size": 4709,
+      "sha256": "b8f44ec87c39f8668af050f0c7ed0cf92b9b7f805e3510c25abd377c2aaa3095",
+      "size": 4651,
       "side": "both"
     },
     {
@@ -1453,8 +1489,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/svHud.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_svHud.js",
-      "sha256": "9ecb5ca1bb707646ebc8adfe130f6c3ac9359ead5bc6de51d9388a64b679fdc3",
-      "size": 2464,
+      "sha256": "a09d23af52c503bb07d0414657f61feca274a561137417787c59b7ca78e9ae8d",
+      "size": 2502,
       "side": "both"
     },
     {
@@ -1474,15 +1510,15 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/svMastery.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_svMastery.js",
-      "sha256": "2c5b7f161abb16d2d151d81f7a55718398aa9c28e4442851f380a81d601ac267",
-      "size": 1636,
+      "sha256": "4b48393d9aa98366566898674686ae709c4fb1ab0fe1a5f873b02f5aa0db6792",
+      "size": 1622,
       "side": "both"
     },
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/svMeCustomers.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_svMeCustomers.js",
-      "sha256": "e9da6e19eb499f038344c54139c1d45ac0d89e9dfb23998218c9afaf9918af75",
-      "size": 7542,
+      "sha256": "5ba3b7da16844abb88dc17ea4705af6207ec1806f0e106b15f41a977dac7ea42",
+      "size": 7175,
       "side": "both"
     },
     {
@@ -1509,8 +1545,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/sunlitmarket/themedMerchants.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_sunlitmarket_themedMerchants.js",
-      "sha256": "0820f2d5af3f92d043ab6e407babedf54c188f30d337a19e7089b8c576cb33c1",
-      "size": 4394,
+      "sha256": "cb06a542e3a497e566fdd9c9340cf189f240c9aa8b3def83fb29c3cd8d537c5c",
+      "size": 4569,
       "side": "both"
     },
     {
