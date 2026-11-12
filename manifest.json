@@ -1297,6 +1297,20 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/blockEvents/placeNbtMachine.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_blockEvents_placeNbtMachine.js",
+      "sha256": "6f66a21ae1eb04f4ddd5370a29fa01e00886c5f42cb2fcc0e0cfa0df12499f0f",
+      "size": 1990,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/blockEvents/pamsTreeLoot.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_blockEvents_pamsTreeLoot.js",
+      "sha256": "182f0df2257de6719843cfbae815938c2c86d3fac50c5ed4f2bf1d299576c241",
+      "size": 2128,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/fixRocketFuels.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_fixRocketFuels.js",
       "sha256": "9d5287ee2cf81e49d8a59abfba76922201eb2f8d518a77473d48e0897cc1a089",
