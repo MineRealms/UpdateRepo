@@ -4910,6 +4910,27 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/other_decoration/wheat_grain_bin.nbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_other_decoration_wheat_grain_bin.nbt",
+      "sha256": "cc2f6f86061b064a891c29f0af77740d8943a1f04018a64ae8b9084a81cf4d78",
+      "size": 2978,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/other_decoration/wooden_wheat_farm.nbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_other_decoration_wooden_wheat_farm.nbt",
+      "sha256": "5d603548368802b7f6b01247a7bf8f9393f06bb06a4c4f23fca6087683c2c07e",
+      "size": 5433,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/houses/large_warped_tower.nbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_houses_large_warped_tower.nbt",
+      "sha256": "c5c067885007754effe7f3c70969c27a72a25c2fb83934457632d62efb4b136b",
+      "size": 90754,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/industry/gtTiangongProgression.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_industry_gtTiangongProgression.js",
       "sha256": "10a06606ccfb03f922ac557ff0364e86b87e94f9233683c6d70193ceaf318a8f",
