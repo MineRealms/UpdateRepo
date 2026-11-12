@@ -5365,13 +5365,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/ModpackUpdater-all.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261107-npcfix/versions_Society.Sunlit.Valley_ModpackUpdater-all.jar",
-      "sha256": "20c94736481707f7d25fe70da1f9cdcc469ef876785f136cf0c12a9cb73a4ade",
-      "size": 390701,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gt_nuclear_industry.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gt_nuclear_industry.snbt",
       "sha256": "1c9183adbc93a39890de04e688ddd98922036448fe7f0cd543f176997c38cacf",
