@@ -1048,8 +1048,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "fa2fd5b3ffdee24fa45dc7ee9a79ee2b88db18b5c72f7daeef03ba4d2609d65d",
-      "size": 43509,
+      "sha256": "e240eb87e992f064de26ff9d6d8bd11bd8ba8a22d7a86e2c4c4f20f55ca7370c",
+      "size": 43918,
       "side": "both"
     },
     {
@@ -5194,6 +5194,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_iv__insane_voltage.snbt",
       "sha256": "6caa9342ecf38424b4b7d8ae97bbf630b98a20723365ebca40c116d53987333d",
       "size": 31833,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/depthOreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_depthOreVeins.js",
+      "sha256": "cc59132a6dd60ea28da7a23aa7bfbb1e10b35b28e6e05f13f13861b507e96d71",
+      "size": 2785,
       "side": "both"
     }
   ]
