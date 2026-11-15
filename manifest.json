@@ -5094,8 +5094,8 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/tfHvOreVeins.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_tfHvOreVeins.js",
-      "sha256": "470ea0031e769acccc0a367c523402a1c7c8e0d094bcc1eabb07c938ed66498a",
-      "size": 2686,
+      "sha256": "9c5e938a06858b0e7dc69221cc5ceefd439e49f36c53c331a70ff2aa3ca4553e",
+      "size": 2680,
       "side": "both"
     },
     {
@@ -5199,8 +5199,22 @@
     {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/depthOreVeins.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_depthOreVeins.js",
-      "sha256": "cc59132a6dd60ea28da7a23aa7bfbb1e10b35b28e6e05f13f13861b507e96d71",
-      "size": 2785,
+      "sha256": "ff0b94061da75f1e331568ab92523b20aa6e0ad00e0dcfb54b518c6d9db39e89",
+      "size": 3026,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/oreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_oreVeins.js",
+      "sha256": "5dba269e0e37cfcfb19db9eb2f9274b8be279facad4fedc369b34fd2c17edc30",
+      "size": 14328,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/skullOreCompat.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_skullOreCompat.js",
+      "sha256": "394b7d1fcbfed5ac2bd4147d4d2b2687c74bcaebb05c7ba50a084153dd707b03",
+      "size": 2129,
       "side": "both"
     }
   ]
