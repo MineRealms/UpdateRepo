@@ -1,5 +1,5 @@
 {
-  "version": "20261117-2306",
+  "version": "20261118-0028",
   "name": "",
   "changelog": "",
   "ignore": [
@@ -152,7 +152,8 @@
     "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20759.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.1.jar",
-    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar"
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar",
+    "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar"
   ],
   "files": [
     {
@@ -5445,13 +5446,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-zmod/versions_Society.Sunlit.Valley_mods_zmod-forge-1.20.1-1.40.03-all.jar",
-      "sha256": "d546173646653b47372494b7b14276663ddf390af4dd44f012eca46f7fafe5b4",
-      "size": 43264034,
       "side": "both"
     }
   ]
