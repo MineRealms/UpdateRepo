@@ -1,6 +1,6 @@
 {
-  "version": "phase4-20261110-tc59addons",
-  "name": "Sunlit Valley targeted runtime update",
+  "version": "20261117-2306",
+  "name": "",
   "changelog": "",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
@@ -139,9 +139,43 @@
     "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.0.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.10-alpha.jar",
     "versions/Society Sunlit Valley/mods/gtca-1.20.1-2.2.0.jar",
-    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.1.jar"
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.2.1.jar",
+    "versions/Society Sunlit Valley/mods/(59+)中洲神秘学 MiddleEarthThaumaturgy-1.20.1-0.8.0.jar",
+    "versions/Society Sunlit Valley/mods/(59+)污染 Pollution-1.20.1-1.0.0-port.0.1.0.jar",
+    "versions/Society Sunlit Valley/mods/(59+)神秘科技 Technomancy-1.20.1-0.1.0-dev.jar",
+    "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20759.jar",
+    "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
+    "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.1.jar",
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar"
   ],
   "files": [
+    {
+      "path": "versions/Society Sunlit Valley/config/dsurround/dsurround.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_dsurround_dsurround.json",
+      "sha256": "dae30efd2914237ab80a5d4916b73485ab8f3d3eccde52b6933c8042b530cae5",
+      "size": 2520,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/extrabotany-client.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_extrabotany-client.toml",
+      "sha256": "46a265304c34e9814318ea4ba620d7762e29cdf7d0fb0088d623de7b8a22846d",
+      "size": 214,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/extrabotany-common.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_extrabotany-common.toml",
+      "sha256": "39e3b8bff31ef943a1bc672d3943ca20b262e4fdb7ef3dd6c0803a7ff5c0bf7b",
+      "size": 7284,
+      "side": "both"
+    },
     {
       "path": "versions/Society Sunlit Valley/config/fancymenu/assets/btn_a11y.png",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_fancymenu_assets_btn_a11y.png",
@@ -983,6 +1017,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ae2_overview.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ae2_overview.snbt",
+      "sha256": "4a9fb5d32dcb9455e626269dbce65f0eeab979dcd2b664d3a60ed0f633121ac9",
+      "size": 19543,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/armor_weapons__tools.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_armor_weapons__tools.snbt",
       "sha256": "f9367520c247f3f5d3d372bc953a0ab1625cca100cd84a69f6be758c6ad0aa3c",
@@ -1004,10 +1045,24 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/bio_wetware.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_bio_wetware.snbt",
+      "sha256": "8c4a76d259f36a39960b2f2aaa0e97985a3b449134bf1ff59106cc94b58c6415",
+      "size": 22935,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/botania.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_botania.snbt",
       "sha256": "f3422a8e0cd4884dfc0b5248d9418809beca27506aba3bf5164549e33616a668",
       "size": 24773,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/cataclysmancy.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_cataclysmancy.snbt",
+      "sha256": "3d2e4bab143422bf38aab6c6468329a144db90e090196917df13b3a190748c15",
+      "size": 11028,
       "side": "both"
     },
     {
@@ -1018,10 +1073,59 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtca_industry.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtca_industry.snbt",
+      "sha256": "c6dac76e8cc97e8d890341dd41dedf0a5d093b71e03c7d77e4ab67d0a510f5e4",
+      "size": 16377,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtca_space.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtca_space.snbt",
+      "sha256": "e13ef6a670d79623eed64aca6fd2daceaab5b6d4f5ef22ff27e4b3bf44974ee2",
+      "size": 18110,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtnn_industry.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtnn_industry.snbt",
+      "sha256": "e25af3db9ce1ef100b54207b82b7fec0d83a93427f2df723e7540ed44b5cac36",
+      "size": 30552,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gt_nuclear_industry.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gt_nuclear_industry.snbt",
+      "sha256": "4e1fa32b50b9f7a2291d8b0adba18cdc3439cf7b359e09e119c7afee85b1b521",
+      "size": 29394,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/heating_coils.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_heating_coils.snbt",
       "sha256": "4213f0b9eb29b2ea0306ce02b49107898b862f5279d368f1337154120f2f3283",
       "size": 3674,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/huixuan_tiangong.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_huixuan_tiangong.snbt",
+      "sha256": "1dfdcac9c4e365826835fab94fc6b1458a1ab576d3fddaaf501eb3fffefd8e36",
+      "size": 77585,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/hv__high_voltage.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_hv__high_voltage.snbt",
+      "sha256": "6c83b57e7f8b980c9afb1e1c628f1cb62a1f2743ddbd7ff52617a60a2f816609",
+      "size": 44512,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/iv__insane_voltage.snbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_iv__insane_voltage.snbt",
+      "sha256": "6caa9342ecf38424b4b7d8ae97bbf630b98a20723365ebca40c116d53987333d",
+      "size": 31833,
       "side": "both"
     },
     {
@@ -1048,8 +1152,8 @@
     {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/ore_generation.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_ore_generation.snbt",
-      "sha256": "e240eb87e992f064de26ff9d6d8bd11bd8ba8a22d7a86e2c4c4f20f55ca7370c",
-      "size": 43918,
+      "sha256": "eb8f19e1c370a04c8364fd742b4fe165ab1310b52fe017ec70c871a805546cf1",
+      "size": 45221,
       "side": "both"
     },
     {
@@ -1137,48 +1241,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_banker_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_banker_choice.json",
-      "sha256": "2df5e8d0408f9aee83236f075c5118f18dced192b01c4b5ef1e83b04975cff0c",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_blacksmith_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_blacksmith_choice.json",
-      "sha256": "61f98521ab466b7d1b2a85dc4ce5826f7254f59f0938ebf3978765f119bcec25",
-      "size": 654,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_fisher_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_fisher_choice.json",
-      "sha256": "2f8b2044c2d7902a6b71a2d9aa500d3f79624f918dc56eaab63b74f9de94970d",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_market_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_market_choice.json",
-      "sha256": "ee70eec6e1760a0eb13d46856954051bce282749a6b15c48ee7e22861dec776c",
-      "size": 638,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_shepherd_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_shepherd_choice.json",
-      "sha256": "fcb9d2ede974f896126a9177bcc08d692a71bf8de099f1b74df20147e7df872f",
-      "size": 646,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_trader_choice.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_trader_choice.json",
-      "sha256": "e631946d8844bcc549d7c561eb1453ab4860223a76dfda8d69e1ace3730bdaa4",
-      "size": 638,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/twilight_forest.snbt",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_twilight_forest.snbt",
       "sha256": "6b28214a38747217374d639662e9976b70545094dc92d283e220ecaac67e5091",
@@ -1228,6 +1290,48 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_cataclysmancy_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_cataclysmancy_chapter.py",
+      "sha256": "6746b524a4c164cd3b8596de40ac8aee14d396074a5f2ae5b8ddab9ce285ff28",
+      "size": 14053,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtca_industry_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtca_industry_chapter.py",
+      "sha256": "d39358887a56113dedd513917f6aa5a49471916af990dc823d8b49981deb4e02",
+      "size": 11793,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtca_space_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtca_space_chapter.py",
+      "sha256": "e1749454a02b83e57a9be9f0ee1d79e58a10a1492fa0773ba62872d0c649994a",
+      "size": 12688,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtnn_industry_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtnn_industry_chapter.py",
+      "sha256": "7215b212e2fb13c6aa4cb197b044a985e77bac7daafc58c0dbc60a687a37ea14",
+      "size": 23340,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gt_nuclear_industry_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gt_nuclear_industry_chapter.py",
+      "sha256": "f35825905a8df4a28e90eb45992de6a0fc69d50f61f75b75966e177e76dd30e5",
+      "size": 23596,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_huixuan_tiangong_chapter.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_huixuan_tiangong_chapter.py",
+      "sha256": "acb91d1b42c13321e60af6baa018531cdb6319b66e17a4faaa11d1867cd3d65a",
+      "size": 30437,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_mek_chapter.py",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_mek_chapter.py",
       "sha256": "7f22f049cdaad489e6567f564b2900e81c4bccd538f573c3a036624953b1b224",
@@ -1263,10 +1367,73 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/cataclysmancy_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_tools_cataclysmancy_ids.json",
+      "sha256": "29a2f1437879a4b3caca6452849e07dfeda2a9f640f48d9674f07467253a2dc1",
+      "size": 2663,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtca_industry_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtca_industry_ids.json",
+      "sha256": "4ee2981add0887454ff32f8fb7f430746ec39b844210f8731115abdd923b4f49",
+      "size": 2902,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtca_space_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtca_space_ids.json",
+      "sha256": "f7369676de87d14dcd8ee48ef61b378b395eee147d04359bd5d91d5787396f81",
+      "size": 3426,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtnn_industry_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtnn_industry_ids.json",
+      "sha256": "fe412150a8aeb50bd02cf6725d4d6d10d0b1b2feabfada5320ce1655d1b77221",
+      "size": 5069,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gt_nuclear_industry_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_gt_nuclear_industry_ids.json",
+      "sha256": "f1cb4a65573f76bb3282f4495f60fbc9bf0d8cb0c9426c03fced4f2c46060a1d",
+      "size": 4572,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/huixuan_tiangong_ids.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_huixuan_tiangong_ids.json",
+      "sha256": "9dfe9424e21ab0b87db6f5e85dc438cee64f5911bd02ebc8165285b058759aaa",
+      "size": 12587,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/industrial_quest_support.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_industrial_quest_support.py",
+      "sha256": "4418a5c5ef931411358f5256967178f5da7a8597d131317208dc8ccae8e41877",
+      "size": 11550,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/industry-progression-manifest.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_industry-progression-manifest.json",
+      "sha256": "899c883192832617c9152f24a20688a0c2d4c3535d7ee61789a5443ed1e6ee73",
+      "size": 59513,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/config/ftbquests/tools/middle_earth_ids.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_middle_earth_ids.json",
       "sha256": "9e021fdd1fbcca88999cb888ada616f63173b08b28e296a4acdf56124b76e40e",
       "size": 3035,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/staged_tiangong_progression.py",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_staged_tiangong_progression.py",
+      "sha256": "53259b2c620a13c6d64b4e683908bbdb2ccc1cfca9e67a0dba322998f55845ab",
+      "size": 33255,
       "side": "both"
     },
     {
@@ -1288,6 +1455,132 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_trade_ids.json",
       "sha256": "a748700b52fe46d3f3d09244c7708c5bafd0182aaa2061011c18567e62ef43ec",
       "size": 2213,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/Mekanism/generators.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_Mekanism_generators.toml",
+      "sha256": "86c38e7ecd89b32a2beb3cc3436e3c66c01f60906d8a2ac7a7bac688c8c35a24",
+      "size": 7193,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/mythicbotany-client.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_mythicbotany-client.toml",
+      "sha256": "d25e3e6d87d778432c0b3fb7d076dfe492de6a14fb813079f01d20d604e870a1",
+      "size": 234,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/mythicbotany.json5",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_mythicbotany.json5",
+      "sha256": "a60fe155819ee2e9fbeeda25a7550d5a5fa39fab83e09116b098c7cfd5dfb9d3",
+      "size": 4880,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-ae2-crafting.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-ae2-crafting.toml",
+      "sha256": "be65cf462dfe6a3aa4275e87da2ad7beb2f449bea12581c13e329d4051bd5472",
+      "size": 216,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-ae2-network-experiments.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-ae2-network-experiments.toml",
+      "sha256": "16ed62691b76bbb4e57341f349db2dec4155e3e55c6f597b137a3a906d9373ac",
+      "size": 406,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-ae2-planner.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-ae2-planner.toml",
+      "sha256": "5fe98825c62927757a11c18029b79a8559f797a68eedaf1abacee7e98dc86496",
+      "size": 404,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-common.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_sunlitindustry-common.toml",
+      "sha256": "89a7f7ac7fda6207aa2ac28c92fd652428b53cb1db6e312b74a8637e6ef0f85a",
+      "size": 894,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-debug.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-debug.toml",
+      "sha256": "e1f363dd5a808358a53f86bee3dccfdfcc9df27d806b8b0ed0add8d301aeabbb",
+      "size": 232,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-gt-advanced.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-gt-advanced.toml",
+      "sha256": "170ab0818f81fbb6a30d11e5b43f5cbdaa59c1c722fc0d80414a3d528bd49dab",
+      "size": 625,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-gt-muffler.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-gt-muffler.toml",
+      "sha256": "c389ceeef33d2aea5bdd6cef2319a75f81d5e38b35c00125094828cc474ba293",
+      "size": 135,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-item-energy.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-item-energy.toml",
+      "sha256": "be7a5b6280035e2c1dc39fd7d482f69bc8c1cc617bffee7338db2ca2d1a7ef1c",
+      "size": 708,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-legacy-performance.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-legacy-performance.toml",
+      "sha256": "34bb7277889c6494f97b8095230061fd008475cb5c3d6f543a378f2fb6885a70",
+      "size": 262,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-resources.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-resources.toml",
+      "sha256": "a8d7d5224571ed6f53c20607a2dc5f36bd4aa06c2792a54c217d703e42bab298",
+      "size": 476,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-server-performance.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-server-performance.toml",
+      "sha256": "5d55a9edb077d298dd855ae699f8e8c648ae2ceb50f8232ea16d27f7e088318a",
+      "size": 511,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-tiangong-client.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-tiangong-client.toml",
+      "sha256": "2e75f4a97e401121db3ed7e7487281d8cc14cf331d37dabb528d59bdba6259bf",
+      "size": 950,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/sunlitindustry-world-performance.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_sunlitindustry-world-performance.toml",
+      "sha256": "3b5e055aa725e3aa2bea1d3dab5de0a83e41f6bbcd521e66abdf228249ac7c10",
+      "size": 370,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/config/worldedit/worldedit.properties",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_worldedit_worldedit.properties",
+      "sha256": "36b2e67fd162d701f7cfcfaa137bfd29165723ae1445418a83b3179b9b1d786e",
+      "size": 2541,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/defaultconfigs/zmod-industrial-machines.toml",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_defaultconfigs_zmod-industrial-machines.toml",
+      "sha256": "983aae60f7f050632a17a87d3d6694d1188135d4202658c07e54688c809524a6",
+      "size": 975,
       "side": "both"
     },
     {
@@ -1319,10 +1612,493 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquests/textures/texture_1.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquests_textures_texture_1.png",
+      "sha256": "5fc2652c9c2e44b36c70920b73839f16aa1d6ac9d5b694554a36850ac131e669",
+      "size": 1455,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquests/textures/texture_2.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquests_textures_texture_2.png",
+      "sha256": "4a2d44c4d41c263f1ee661a70741dccaa5264f1eab1076cce9db9dbf9c8f71e3",
+      "size": 1472,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/ftbquests/textures/texture_3.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_ftbquests_textures_texture_3.png",
+      "sha256": "429d9dcb3f7aab3f376192825b3e28a385ba3fcf553a26b7c0d10cfe01a23cf0",
+      "size": 1707,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/lang/en_us.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_lang_en_us.json",
+      "sha256": "83c47036a9deb3205ec30df5589c0e2bfd1f02cbc72cfa164fe9635b0ed037f7",
+      "size": 4715,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/gtceu/lang/zh_cn.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_assets_gtceu_lang_zh_cn.json",
+      "sha256": "26fd1a0bdbe6d251fc313b3ab03f0080787ca4bc04a606bdb2f977b6bd4a3e75",
+      "size": 4576,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/society/lang/en_us.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_assets_society_lang_en_us.json",
+      "sha256": "18c5ed6c4e6d0f61ede571d30f4d22e16c4a2993532fc45675f53fd59af614a7",
+      "size": 82824,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/society/lang/zh_cn.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_assets_society_lang_zh_cn.json",
+      "sha256": "88538848d0e1b409d9efa3d0448244e7f08b41ab5452a470c0aed12babec2752",
+      "size": 142267,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/cataclysm/cataclysm_temple.png",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_cataclysm_cataclysm_temple.png",
+      "sha256": "60b465eaef4a6d9ac9042ff578bcb3a51c00c8a7b8c72c19b247dd6d188fa15b",
+      "size": 2171991,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/client_scripts/pollutionAspectOres.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_client_scripts_pollutionAspectOres.js",
+      "sha256": "7567eee44470642182fe22a279fe33b5a08211a3c671d9dd0641a60a977bbcb3",
+      "size": 187,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/config/sunlit-boss-awakening.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_config_sunlit-boss-awakening.json",
+      "sha256": "7e3248e6aacff54ed8b9d5c00230dc0fa88fcb1c3db3161dcfc46d692f22c1d8",
+      "size": 2639,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/config/sunlit-industrial-infusion.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_config_sunlit-industrial-infusion.json",
+      "sha256": "12477c50b8bb838260ab8ffc9d20eefd9a3835a959be99d6e87d253026729df4",
+      "size": 3354,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_banker_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_banker_choice.json",
+      "sha256": "2df5e8d0408f9aee83236f075c5118f18dced192b01c4b5ef1e83b04975cff0c",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_blacksmith_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_blacksmith_choice.json",
+      "sha256": "61f98521ab466b7d1b2a85dc4ce5826f7254f59f0938ebf3978765f119bcec25",
+      "size": 654,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_fisher_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_fisher_choice.json",
+      "sha256": "2f8b2044c2d7902a6b71a2d9aa500d3f79624f918dc56eaab63b74f9de94970d",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_market_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_market_choice.json",
+      "sha256": "ee70eec6e1760a0eb13d46856954051bce282749a6b15c48ee7e22861dec776c",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_shepherd_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_shepherd_choice.json",
+      "sha256": "fcb9d2ede974f896126a9177bcc08d692a71bf8de099f1b74df20147e7df872f",
+      "size": 646,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/dialog/dialogs/sunlitmarket_trader_choice.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_dialog_dialogs_sunlitmarket_trader_choice.json",
+      "sha256": "e631946d8844bcc549d7c561eb1453ab4860223a76dfda8d69e1ace3730bdaa4",
+      "size": 638,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/blocks/passes_flood_fill.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_gcyr_tags_blocks_passes_flood_fill.json",
+      "sha256": "46320b967c1d14475585c7c08c63d30be3f28b93f708eb358782d068b8ba629b",
+      "size": 602,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/kubejs/tags/blocks/me_stone.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_kubejs_tags_blocks_me_stone.json",
+      "sha256": "34c9810a8164b3bb50d174f5a1d56d7e78aa71380fdc42588a4c41ca991850f1",
+      "size": 773,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/houses/large_warped_tower.nbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_houses_large_warped_tower.nbt",
+      "sha256": "c5c067885007754effe7f3c70969c27a72a25c2fb83934457632d62efb4b136b",
+      "size": 90754,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/other_decoration/wheat_grain_bin.nbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_other_decoration_wheat_grain_bin.nbt",
+      "sha256": "cc2f6f86061b064a891c29f0af77740d8943a1f04018a64ae8b9084a81cf4d78",
+      "size": 2978,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/other_decoration/wooden_wheat_farm.nbt",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_other_decoration_wooden_wheat_farm.nbt",
+      "sha256": "5d603548368802b7f6b01247a7bf8f9393f06bb06a4c4f23fca6087683c2c07e",
+      "size": 5433,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/assembly_core_mekanismgenerators_fusion_reactor_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_assembly_core_mekanismgenerators_fusion_reactor_controller.json",
+      "sha256": "12b8e95f61684c74a860b0c3423eef69963066fcae2ffa2f74f3f1d9947bdbed",
+      "size": 970,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/assembly_core_mekanism_sps_casing.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_assembly_core_mekanism_sps_casing.json",
+      "sha256": "cf55b89c94fc12c15b9c2de5c4531bce91f9c835d80bd404eeb78d7ddd87bac8",
+      "size": 931,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/assembly_core_mekanism_supercharged_coil.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_assembly_core_mekanism_supercharged_coil.json",
+      "sha256": "8796d103a868dd7c4d52ba4e19b793d7ba09a21fb3f300697c92ec23a911c0e1",
+      "size": 928,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/matrix_iv.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_matrix_iv.json",
+      "sha256": "f27b2a251fbd4af25cdc4c2abdb971b346b446bfc8d3ba1e6448c40c7b93260f",
+      "size": 1073,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/matrix_luv.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_matrix_luv.json",
+      "sha256": "e6d7e9d523c85a145d80f76f0a595cb0e0d63ed1b14be9cb7f886236d0412648",
+      "size": 1181,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/matrix_zpm.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_matrix_zpm.json",
+      "sha256": "a0e4d88e7e702e5d52f7c5e6d2d855eb7fc00af4bdd0da76b636ee145f30433a",
+      "size": 1181,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/thaumcraft/object_aspects/cataclysm.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_thaumcraft_object_aspects_cataclysm.json",
+      "sha256": "56ebec36e540b1005be36cabdd4e49b1e22b423869d9d7c3ddf540a1e5c96e70",
+      "size": 2825,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/thaumcraft/research/cataclysm.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_thaumcraft_research_cataclysm.json",
+      "sha256": "fc6e218d2c5b27228e219184775af3f74e4b6f6d518b8573c6e669bf16679625",
+      "size": 6689,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/blackstone_caves.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_blackstone_caves.json",
+      "sha256": "60fa7dee7d55c3983a12808fc306a0ee9096d1740cd92fb77d8a91532402e15b",
+      "size": 2939,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/desert_caves.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_desert_caves.json",
+      "sha256": "8bcff7d030789bbde67ba8a1b717f407c688f770e3d176ad8877e98109cb7817",
+      "size": 2521,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/desert_fault.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_desert_fault.json",
+      "sha256": "1c4254a5067f31dfc595440f8a058b4c336ec1d210079b6d620af08e48278661",
+      "size": 3033,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/frozen_caves.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_frozen_caves.json",
+      "sha256": "a463910c941f6a3e3e2046d858b120a9e2fae753fd40909b5529ec752615a929",
+      "size": 3028,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/frozen_maelstrom.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_frozen_maelstrom.json",
+      "sha256": "1683ca0a5ce96d3582461b94fc41b681add2ffefe93ac258b574c978210876b1",
+      "size": 3062,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/lush_caverns.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_lush_caverns.json",
+      "sha256": "8c30a9e0149f566def5e90e343f5bf7ac7e3bdc3fdf439a9061669122b0a6870",
+      "size": 3401,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/skull_caves.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_skull_caves.json",
+      "sha256": "b017860157a2e1287ccac6d77e00e72a05fd6f48c1309a20518da3c1270747cb",
+      "size": 2440,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/umbra_barrens.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_umbra_barrens.json",
+      "sha256": "7fcdd3e002fc9da490dcabee1bdc6c9468091d02c8d0672dd64e6c20bcc307e4",
+      "size": 2106,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/data/twilightforest/tags/items/portal/activator.json",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_kubejs_data_twilightforest_tags_items_portal_activator.json",
       "sha256": "53fa5da67d6089fd819056ce921451e4394e9cb4f5819e0ae0dd5a72ffcc414e",
       "size": 68,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/fluid_processing_plant_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_fluid_processing_plant_controller.json",
+      "sha256": "8e03955d8676023ae37f8a1fa3dae7a6e09103dd55fbe555881fa89d1d4ea3e9",
+      "size": 1422,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/industrial_crusher_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_industrial_crusher_controller.json",
+      "sha256": "2691f025253969249e0dbc01ef430af39a155c66e858f1cd5dc4f628ed9ca0a2",
+      "size": 1316,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/industrial_pump_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_industrial_pump_controller.json",
+      "sha256": "5c054216d1902cb2ccba53efdd38e5eb8df12d1ef5f06898bd944f5dd1fefe46",
+      "size": 1303,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/integrated_ore_processing_plant_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_integrated_ore_processing_plant_controller.json",
+      "sha256": "7b710bc67a76b040c824bbd09a0a2b62f2137ed4f23277920e534c7876b77149",
+      "size": 1578,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/plasma_refinery_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_plasma_refinery_controller.json",
+      "sha256": "49703d3cdfdf1c39484a06667d2a884d1b61a31110baa633fcae06e012530806",
+      "size": 1330,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/precision_assembler_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_precision_assembler_controller.json",
+      "sha256": "624fade5b5277aeea89ac4acd408e1694cb6a20fd9cfa65b6cbdaea1333de4ab",
+      "size": 1181,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/precision_assembler_parallel_4x.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_precision_assembler_parallel_4x.json",
+      "sha256": "c9f5a5f40085fb96fd3b4f2940a62b0bf4a59f761db3d7a5bc78568e4d13b4b3",
+      "size": 1133,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/qiongli_controller_t3.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_qiongli_controller_t3.json",
+      "sha256": "323989a9040c9cbfd4d4d146723f837f631a22e98946fc4012adbd8841e7e3a8",
+      "size": 1105,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/singularity_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_singularity_controller.json",
+      "sha256": "eb20724722f9c1fa152474165e00db8144643ac7d319e77e46ab6528573b72a6",
+      "size": 1209,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/taiyi_matrix.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_taiyi_matrix.json",
+      "sha256": "6742d3756dfd621a453a7ffe148ed4b4a6e9c7a01f252a83dbae6bcb82356c30",
+      "size": 1164,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/thread_hatch_2x.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_thread_hatch_2x.json",
+      "sha256": "8eb4720695be678c0006641b94b6ae1a559e40091d2ac0132328c9b49600d28a",
+      "size": 983,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tianshu_controller_t3.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tianshu_controller_t3.json",
+      "sha256": "697b935314aed986657f4e82df8ee1f7b7859a5c7bc6db93665f5327ea434a1d",
+      "size": 1313,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tianxuan_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tianxuan_controller.json",
+      "sha256": "f523cf77fee07c878fe606a7a89bfb866039ffa7ff1104b168ae0a7b0567f194",
+      "size": 1515,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tier_three/matter_reconstructor_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tier_three_matter_reconstructor_controller.json",
+      "sha256": "e7de1dff64dc0b7c0a03c6eacd7e0614dfff1a2280a7fad0b95e05e6f9818346",
+      "size": 944,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tier_three/warped_polymerizer_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tier_three_warped_polymerizer_controller.json",
+      "sha256": "90100a48275ed0e3938bb0c80c5f09679ce80a893b93a05d48ceeab8d5132b89",
+      "size": 963,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tokamak_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tokamak_controller.json",
+      "sha256": "8777740bd294da592dd9f73d69cf6c7e93dda1bbadefea45a666a539580e4dc5",
+      "size": 1518,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tokamak_magnetic_coil.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tokamak_magnetic_coil.json",
+      "sha256": "561f2e87db0ac2ff84067baaa08bfe83afc0409525897f58789c8da89f875e67",
+      "size": 1085,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_input_port.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_input_port.json",
+      "sha256": "d3928239d51eedf8c84719bcc6d090e1d4bd8fd9161fce91177f6d6aa6fb0172",
+      "size": 891,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_input_port_batch.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_input_port_batch.json",
+      "sha256": "8235af61db2eca666e85ed171acd78050942f42b979d5c6f1714ef2293664a94",
+      "size": 1115,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_input_port_without_essentia.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_input_port_without_essentia.json",
+      "sha256": "dae60828a3e5b7af933d6b60ae991184d013f7417c90cce98ce17b8f4ccabb70",
+      "size": 939,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_output_port.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_output_port.json",
+      "sha256": "f2f7c08902a0efe4a497f4ad15f7553499bddf45c5e1d123da8e9e421704bb8e",
+      "size": 895,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_output_port_batch.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_output_port_batch.json",
+      "sha256": "8e235aff08f21797b1ede3758987a3111615c41321fe143f350dae63c30b52f3",
+      "size": 1118,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_output_port_without_essentia.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_output_port_without_essentia.json",
+      "sha256": "f44816bea521db8a06e1264b027798b1454fae1b8958cad3e3e8d13e73601ad7",
+      "size": 948,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_pattern_provider.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_pattern_provider.json",
+      "sha256": "2a8dea62f31a368024b018d280523b3ec6719421ffe7bd4fdd434e58d76819ab",
+      "size": 892,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_pattern_provider_no_tc_energy.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_pattern_provider_no_tc_energy.json",
+      "sha256": "a505cfbe42a3140043e34d90b5d4a0255884b9bc20e318622dfd0cbf2d7d2437",
+      "size": 948,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_wireless_connector.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_wireless_connector.json",
+      "sha256": "885f78c6564ec1d345926f116c2d26e2d08aacbef3dd6eceacfeee7139d5970d",
+      "size": 755,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/transcendence_core.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_transcendence_core.json",
+      "sha256": "797bc5a719e4ff998e6b9768fa556aa6a0c5f4c9881e043ac1d205cb5dc60257",
+      "size": 1230,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/transcendence_key.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_transcendence_key.json",
+      "sha256": "ef5de01e1558aa0c76e81fdb7d1e1e27a97425c126f9653ef15a100b8321feca",
+      "size": 1089,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/void_pylon_beacon.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_void_pylon_beacon.json",
+      "sha256": "4944a01da0a5493e2acfe775b0ea0ad0bbfbf21d5658ee66fe95becbc2e3823e",
+      "size": 1723,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/yaoguang_controller.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_yaoguang_controller.json",
+      "sha256": "bb0e697084c4b9886cac4b79b1c14ac22ef87c1aea5bdce1c2f85e272fbc1fd1",
+      "size": 1189,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/yuheng_controller_t3.json",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_yuheng_controller_t3.json",
+      "sha256": "aff2efce916fe67e78b23edcd37fa21b07aa6c33b4c6925ab8702bc681e78319",
+      "size": 1309,
       "side": "both"
     },
     {
@@ -1333,13 +2109,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/blockEvents/placeNbtMachine.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_blockEvents_placeNbtMachine.js",
-      "sha256": "6f66a21ae1eb04f4ddd5370a29fa01e00886c5f42cb2fcc0e0cfa0df12499f0f",
-      "size": 1990,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/blockEvents/pamsTreeLoot.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_blockEvents_pamsTreeLoot.js",
       "sha256": "182f0df2257de6719843cfbae815938c2c86d3fac50c5ed4f2bf1d299576c241",
@@ -1347,10 +2116,24 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/blockEvents/placeNbtMachine.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_blockEvents_placeNbtMachine.js",
+      "sha256": "6f66a21ae1eb04f4ddd5370a29fa01e00886c5f42cb2fcc0e0cfa0df12499f0f",
+      "size": 1990,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/fixRocketFuels.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_fixRocketFuels.js",
       "sha256": "9d5287ee2cf81e49d8a59abfba76922201eb2f8d518a77473d48e0897cc1a089",
       "size": 1877,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/gtcaLinks.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_gtcaLinks.js",
+      "sha256": "8de7e999f8d75a23e43885011fb3d837ee6659eaed7dc7381cb1440bf36d43fd",
+      "size": 2431,
       "side": "both"
     },
     {
@@ -1382,10 +2165,87 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/alfheimOreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_alfheimOreVeins.js",
+      "sha256": "063194fe7ebfe87c642e67ba461078663c4177f0c26d923164e0b2d6156ce1e2",
+      "size": 1560,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/depthOreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_depthOreVeins.js",
+      "sha256": "ff0b94061da75f1e331568ab92523b20aa6e0ad00e0dcfb54b518c6d9db39e89",
+      "size": 3026,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/gtcaOrbitalAssembly.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_gtcaOrbitalAssembly.js",
+      "sha256": "97068407578eebd0f166c3146d28f81a3d082afbb2a407a18e07086a71039320",
+      "size": 1889,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/meOreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_meOreVeins.js",
+      "sha256": "4d5acb9ecf60f6605e92c43dc0e4307ba78c831efd6f61ac6e5039f6092a3c80",
+      "size": 1478,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/oreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_oreVeins.js",
+      "sha256": "5dba269e0e37cfcfb19db9eb2f9274b8be279facad4fedc369b34fd2c17edc30",
+      "size": 14328,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/phase4RecipeRepairs.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261105-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_phase4RecipeRepairs.js",
       "sha256": "321e5ba92bd8592115dc79eee89336c2d6b7eb813afcab8dc813391bfa5431a8",
       "size": 207812,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/pollutionAspectHarvest.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_pollutionAspectHarvest.js",
+      "sha256": "8d3cc426eea00ae1d7d9a9b3cba23f8b8781ae99c5ac82cabb5d97bc3f6fe546",
+      "size": 573,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/pollutionAspectOreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_pollutionAspectOreVeins.js",
+      "sha256": "f4a9bb4584227647ff8f38acac5f35d9c530746715b6fe96ecda0437d4d11a72",
+      "size": 608,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/skullOreCompat.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_skullOreCompat.js",
+      "sha256": "394b7d1fcbfed5ac2bd4147d4d2b2687c74bcaebb05c7ba50a084153dd707b03",
+      "size": 2129,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/tfHvOreVeins.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_tfHvOreVeins.js",
+      "sha256": "9c5e938a06858b0e7dc69221cc5ceefd439e49f36c53c331a70ff2aa3ca4553e",
+      "size": 2680,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/industry/gtTiangongProgression.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_industry_gtTiangongProgression.js",
+      "sha256": "10a06606ccfb03f922ac557ff0364e86b87e94f9233683c6d70193ceaf318a8f",
+      "size": 25234,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/industry/voidMekaSuitAssembly.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_industry_voidMekaSuitAssembly.js",
+      "sha256": "a59402a94d3032a4558cf60d05f1e2f78199f4d4bcd05e22be6b36af334fe2ae",
+      "size": 4680,
       "side": "both"
     },
     {
@@ -1421,6 +2281,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_npcs_npcInteraction.js",
       "sha256": "ba0e955fa1f11ff76b68fc07856a4568d3b27d62bba2249efe7da81ab1ff3e17",
       "size": 12736,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/npcs/villagerHomeMechanics.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261107-npcfix/versions_Society.Sunlit.Valley_kubejs_server_scripts_npcs_villagerHomeMechanics.js",
+      "sha256": "db5f8673bb165eeaa11a18289af8b3b01b99418ff96dd14780c3574769f1df2d",
+      "size": 6458,
       "side": "both"
     },
     {
@@ -1557,10 +2424,38 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcBossAndIndustrial.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcBossAndIndustrial.js",
+      "sha256": "d2d7b38a5d4029a72b6c8b64004dfca07b4bce62eb8cb2058665cd020972ea9a",
+      "size": 7620,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcCataclysm.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcCataclysm.js",
+      "sha256": "cea12b9c021174686f4f13141286322a6a829c0b818345ca755eecda8e9f06f1",
+      "size": 2667,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/kubejs/server_scripts/technom/bridgeTechnomGt.js",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_technom_bridgeTechnomGt.js",
       "sha256": "fed7c9326d31e7dbc989d751df6e97c540626c74d1be071467cf3aeb76a2ca05",
       "size": 2988,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/gt/dimensionMarkers.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_gt_dimensionMarkers.js",
+      "sha256": "ca9dc7ea452561dccf7513309e3b2617f612981e8458a9016e4726b41f5fa825",
+      "size": 952,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/gt/worldGenLayers.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_gt_worldGenLayers.js",
+      "sha256": "79f893443aa9e5f2da157ac10290559f57e51cee75163e3e917329308c4a8143",
+      "size": 1677,
       "side": "both"
     },
     {
@@ -1571,24 +2466,59 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/(59+)中洲神秘学 MiddleEarthThaumaturgy-1.20.1-0.8.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.MiddleEarthThaumaturgy-1.20.1-0.8.0.jar",
-      "sha256": "62134be4621af61370161227af027d84e379e2eaba0e3947b6c47bffe7c7abcd",
-      "size": 732739,
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/registration/registerIndustryCores.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_startup_scripts_registration_registerIndustryCores.js",
+      "sha256": "58ece9618c865393455bf09eb959bc91cf14327fee9a6c98aad5cbc75b055ff2",
+      "size": 7001,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/(59+)污染 Pollution-1.20.1-1.0.0-port.0.1.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.Pollution-1.20.1-1.0.0-port.0.1.0.jar",
-      "sha256": "8caa25eb5f8a513f9d3f4d3358b6ae67c9679b1c540b3f7857004346403ef030",
+      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/registration/registerJadeData.js",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_startup_scripts_registration_registerJadeData.js",
+      "sha256": "b056cb54b47e3c5cd397b17039d102a26d692003ffe625ea4180862aba3e6608",
+      "size": 1954,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(72+)中洲神秘学 MiddleEarthThaumaturgy-1.20.1-0.8.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.MiddleEarthThaumaturgy-1.20.1-0.8.0.jar",
+      "sha256": "640420818cf03008183886cf6eedbdfc0a90c1fc23e72670d0a4c177fffac1db",
+      "size": 732782,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(72+)污染 Pollution-1.20.1-1.0.0-port.0.1.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.Pollution-1.20.1-1.0.0-port.0.1.0.jar",
+      "sha256": "ca552f11e141c7238d51a246a1c004fb78df59b274b7a0e1b5e74afac80cd514",
       "size": 10479329,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/(59+)神秘科技 Technomancy-1.20.1-0.1.0-dev.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.59.Technomancy-1.20.1-0.1.0-dev.jar",
-      "sha256": "02319ac8687299d6209c087a73060d2bb92b7c261c74741a166bdb93cc5e6a5e",
-      "size": 1653934,
+      "path": "versions/Society Sunlit Valley/mods/(72+)神秘视界 ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
+      "sha256": "ec16c65b3bbfe3a19cd46e04c170590095f78dce2e2d87059e8cc5ea89db9ab3",
+      "size": 4293501,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(72+)神秘领域 Thaumic Additions-1.20.1-0.1.4.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.Thaumic.Additions-1.20.1-0.1.4.jar",
+      "sha256": "6ab31f8282bb36bfc1995dc9667affc6a20d79503cfc8b644961ae92b66c9c46",
+      "size": 5028679,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(72+)秽玄天工-forge-1.20.1-1.40.03-all.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.-forge-1.20.1-1.40.03-all.jar",
+      "sha256": "3032ce7e758c20b5305a79b7a5eec539eb2be2b7d5c18366c564aea9d1b041b0",
+      "size": 43273274,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/(72+)量子魔法 Technomancy-1.20.1-0.1.0-dev.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.Technomancy-1.20.1-0.1.0-dev.jar",
+      "sha256": "96fbafff9775c065fec331b0590fb5e93c36a41489e2a00bbee74cd9b6aa81ff",
+      "size": 1654209,
       "side": "both"
     },
     {
@@ -2635,10 +3565,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20759.jar",
-      "sha256": "742b5c6449e6e9db3fff254e2e376fe7f0b3bb69c9c5f7e858a0379c39ab8063",
-      "size": 1232945,
+      "path": "versions/Society Sunlit Valley/mods/forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20766.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_forbidden-magic-forge-0.574-1.20.1-port.0.1.0-20766.jar",
+      "sha256": "8d1b4d9bdf9255ede1eeec03aa90f35acb4c78a3168f7c696843de80e552d4d3",
+      "size": 1232968,
       "side": "both"
     },
     {
@@ -2821,6 +3751,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gregtechterminals-6.8.5-fix.jar",
       "sha256": "347c83b0268048dee50bc42d96109d56ff1b3ee9a417f18706a324a45ad001be",
       "size": 849674,
+      "side": "both"
+    },
+    {
+      "path": "versions/Society Sunlit Valley/mods/gtca-1.20.1-2.3.0.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtca-1.20.1-2.3.0.jar",
+      "sha256": "7ce1fc7e466b774fb78b66cd7a0fa07ab30d6ce2f067bf2e5dfcb23367609970",
+      "size": 3493101,
       "side": "both"
     },
     {
@@ -3496,10 +4433,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_nodal-mechanics-forge-1.0.7-port.0.1.0-20759.jar",
-      "sha256": "2518b6d3ae498bd44937f6516896fef5e726e18f9100f1bd15880dde937eea83",
-      "size": 144583,
+      "path": "versions/Society Sunlit Valley/mods/nodal-mechanics-forge-1.0.7-port.0.1.0-20766.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_nodal-mechanics-forge-1.0.7-port.0.1.0-20766.jar",
+      "sha256": "7ca28adada24846db4695032b4035af9ddb810373c76bad425d3bf0f97c47235",
+      "size": 145262,
       "side": "both"
     },
     {
@@ -4147,6 +5084,13 @@
       "side": "both"
     },
     {
+      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.2.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.8.2.jar",
+      "sha256": "07460d15fb0906b067925e47fd8ff6fe85a7ebe84e6fd705f04162159572a2e8",
+      "size": 881710,
+      "side": "both"
+    },
+    {
       "path": "versions/Society Sunlit Valley/mods/sunlithud-1.20.1-0.4.4.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest-2/versions_Society.Sunlit.Valley_mods_sunlithud-1.20.1-0.4.4.jar",
       "sha256": "2f64cb7b10407d248daf5f5442eeb8ea0b945de39324f107eb376c5a1d5f0f57",
@@ -4189,10 +5133,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20759.jar",
-      "sha256": "e2e2f0fea477e51f4912e09c0d670022fd768906391d3e8bb9edf89b99857832",
-      "size": 3942259,
+      "path": "versions/Society Sunlit Valley/mods/tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20769.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_tainted-magic-forge-8.1.1-1.20.1-port.0.1.0-20769.jar",
+      "sha256": "b35194456bbadfefd5e7cfe65be6e62e2aa522cea895d197d2ff330bba95c85d",
+      "size": 3943199,
       "side": "both"
     },
     {
@@ -4224,24 +5168,24 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20759.jar",
-      "sha256": "9ecced9a4681c76fcb9f023e4d205d8f545700a2b1d241fda95f2eab2979dc9f",
-      "size": 20974612,
+      "path": "versions/Society Sunlit Valley/mods/thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20772.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumcraft-forge-4.2.3.5-1.20.1-port.0.1.0-20772.jar",
+      "sha256": "70fe635919da8c06eb6e4a16ad3d8e95df8db295fe572dfd9471f28e37f97d83",
+      "size": 21110275,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20759.jar",
-      "sha256": "8223a817c0092ef44f4cc1f1f03aed4d72c49512feede49fbad37218bd5d0db7",
-      "size": 2624620,
+      "path": "versions/Society Sunlit Valley/mods/thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20767.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-bases-forge-1.3.1710.4-1.20.1-port.0.1.0-20767.jar",
+      "sha256": "963c9cbb3c3a36f79342945972167a9b3a0470bcb6bc2d11d201641e6ebe822e",
+      "size": 2628073,
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20759.jar",
-      "sha256": "d3ceb2ce7a129450f5cdb44e43a326648576841730053e3e80074b7fe501bcfc",
-      "size": 3022698,
+      "path": "versions/Society Sunlit Valley/mods/thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20772.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumic-tinkerer-forge-2.5-1.20.1-port.0.1.0-20772.jar",
+      "sha256": "57fff0aa2cc6b38d10ce63727276b396eb52ba41f36243bc245f25af9a847c21",
+      "size": 3143088,
       "side": "both"
     },
     {
@@ -4406,10 +5350,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20759.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20759.jar",
-      "sha256": "de06056d89ecd8bee4c27c28558c372315dd3f829fb4399080bfc0b3d8cc133d",
-      "size": 607500,
+      "path": "versions/Society Sunlit Valley/mods/warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20766.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_warp-theory-forge-1.5.8-GTNH-1.20.1-port.0.1.0-20766.jar",
+      "sha256": "5531b2fa925acd2283d5311b4fd55621391a9cd2cdf76b626b8b88e1a687c133",
+      "size": 607504,
       "side": "both"
     },
     {
@@ -4504,717 +5448,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/npcs/villagerHomeMechanics.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261107-npcfix/versions_Society.Sunlit.Valley_kubejs_server_scripts_npcs_villagerHomeMechanics.js",
-      "sha256": "db5f8673bb165eeaa11a18289af8b3b01b99418ff96dd14780c3574769f1df2d",
-      "size": 6458,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gt_nuclear_industry.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gt_nuclear_industry.snbt",
-      "sha256": "4e1fa32b50b9f7a2291d8b0adba18cdc3439cf7b359e09e119c7afee85b1b521",
-      "size": 29394,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gt_nuclear_industry_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gt_nuclear_industry_chapter.py",
-      "sha256": "f35825905a8df4a28e90eb45992de6a0fc69d50f61f75b75966e177e76dd30e5",
-      "size": 23596,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gt_nuclear_industry_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_gt_nuclear_industry_ids.json",
-      "sha256": "f1cb4a65573f76bb3282f4495f60fbc9bf0d8cb0c9426c03fced4f2c46060a1d",
-      "size": 4572,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/Mekanism/generators.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_Mekanism_generators.toml",
-      "sha256": "86c38e7ecd89b32a2beb3cc3436e3c66c01f60906d8a2ac7a7bac688c8c35a24",
-      "size": 7193,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/sunlitindustry-common.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_sunlitindustry-common.toml",
-      "sha256": "89a7f7ac7fda6207aa2ac28c92fd652428b53cb1db6e312b74a8637e6ef0f85a",
-      "size": 894,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/defaultconfigs/zmod-industrial-machines.toml",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_defaultconfigs_zmod-industrial-machines.toml",
-      "sha256": "983aae60f7f050632a17a87d3d6694d1188135d4202658c07e54688c809524a6",
-      "size": 975,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/gcyr/tags/blocks/passes_flood_fill.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_gcyr_tags_blocks_passes_flood_fill.json",
-      "sha256": "46320b967c1d14475585c7c08c63d30be3f28b93f708eb358782d068b8ba629b",
-      "size": 602,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/industrial_crusher_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_industrial_crusher_controller.json",
-      "sha256": "2691f025253969249e0dbc01ef430af39a155c66e858f1cd5dc4f628ed9ca0a2",
-      "size": 1316,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/integrated_ore_processing_plant_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_integrated_ore_processing_plant_controller.json",
-      "sha256": "7b710bc67a76b040c824bbd09a0a2b62f2137ed4f23277920e534c7876b77149",
-      "size": 1578,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/plasma_refinery_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_plasma_refinery_controller.json",
-      "sha256": "49703d3cdfdf1c39484a06667d2a884d1b61a31110baa633fcae06e012530806",
-      "size": 1330,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tianxuan_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tianxuan_controller.json",
-      "sha256": "f523cf77fee07c878fe606a7a89bfb866039ffa7ff1104b168ae0a7b0567f194",
-      "size": 1515,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-zmod/versions_Society.Sunlit.Valley_mods_zmod-forge-1.20.1-1.40.03-all.jar",
       "sha256": "d546173646653b47372494b7b14276663ddf390af4dd44f012eca46f7fafe5b4",
       "size": 43264034,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/bio_wetware.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_bio_wetware.snbt",
-      "sha256": "8c4a76d259f36a39960b2f2aaa0e97985a3b449134bf1ff59106cc94b58c6415",
-      "size": 22935,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/registration/registerJadeData.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_startup_scripts_registration_registerJadeData.js",
-      "sha256": "b056cb54b47e3c5cd397b17039d102a26d692003ffe625ea4180862aba3e6608",
-      "size": 1954,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/huixuan_tiangong.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_huixuan_tiangong.snbt",
-      "sha256": "1dfdcac9c4e365826835fab94fc6b1458a1ab576d3fddaaf501eb3fffefd8e36",
-      "size": 77585,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_huixuan_tiangong_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_huixuan_tiangong_chapter.py",
-      "sha256": "acb91d1b42c13321e60af6baa018531cdb6319b66e17a4faaa11d1867cd3d65a",
-      "size": 30437,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/huixuan_tiangong_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_huixuan_tiangong_ids.json",
-      "sha256": "9dfe9424e21ab0b87db6f5e85dc438cee64f5911bd02ebc8165285b058759aaa",
-      "size": 12587,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/industrial_quest_support.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_industrial_quest_support.py",
-      "sha256": "4418a5c5ef931411358f5256967178f5da7a8597d131317208dc8ccae8e41877",
-      "size": 11550,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/industry-progression-manifest.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_industry-progression-manifest.json",
-      "sha256": "899c883192832617c9152f24a20688a0c2d4c3535d7ee61789a5443ed1e6ee73",
-      "size": 59513,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/staged_tiangong_progression.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_config_ftbquests_tools_staged_tiangong_progression.py",
-      "sha256": "53259b2c620a13c6d64b4e683908bbdb2ccc1cfca9e67a0dba322998f55845ab",
-      "size": 33255,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/lang/en_us.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_assets_society_lang_en_us.json",
-      "sha256": "18c5ed6c4e6d0f61ede571d30f4d22e16c4a2993532fc45675f53fd59af614a7",
-      "size": 82824,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/lang/zh_cn.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_assets_society_lang_zh_cn.json",
-      "sha256": "88538848d0e1b409d9efa3d0448244e7f08b41ab5452a470c0aed12babec2752",
-      "size": 142267,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/assembly_core_mekanismgenerators_fusion_reactor_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_assembly_core_mekanismgenerators_fusion_reactor_controller.json",
-      "sha256": "12b8e95f61684c74a860b0c3423eef69963066fcae2ffa2f74f3f1d9947bdbed",
-      "size": 970,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/assembly_core_mekanism_sps_casing.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_assembly_core_mekanism_sps_casing.json",
-      "sha256": "cf55b89c94fc12c15b9c2de5c4531bce91f9c835d80bd404eeb78d7ddd87bac8",
-      "size": 931,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/assembly_core_mekanism_supercharged_coil.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_assembly_core_mekanism_supercharged_coil.json",
-      "sha256": "8796d103a868dd7c4d52ba4e19b793d7ba09a21fb3f300697c92ec23a911c0e1",
-      "size": 928,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/matrix_iv.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_matrix_iv.json",
-      "sha256": "f27b2a251fbd4af25cdc4c2abdb971b346b446bfc8d3ba1e6448c40c7b93260f",
-      "size": 1073,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/matrix_luv.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_matrix_luv.json",
-      "sha256": "e6d7e9d523c85a145d80f76f0a595cb0e0d63ed1b14be9cb7f886236d0412648",
-      "size": 1181,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/recipes/industry/matrix_zpm.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_recipes_industry_matrix_zpm.json",
-      "sha256": "a0e4d88e7e702e5d52f7c5e6d2d855eb7fc00af4bdd0da76b636ee145f30433a",
-      "size": 1181,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/thaumcraft/object_aspects/cataclysm.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_thaumcraft_object_aspects_cataclysm.json",
-      "sha256": "56ebec36e540b1005be36cabdd4e49b1e22b423869d9d7c3ddf540a1e5c96e70",
-      "size": 2825,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/thaumcraft/research/cataclysm.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_society_thaumcraft_research_cataclysm.json",
-      "sha256": "fc6e218d2c5b27228e219184775af3f74e4b6f6d518b8573c6e669bf16679625",
-      "size": 6689,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/fluid_processing_plant_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_fluid_processing_plant_controller.json",
-      "sha256": "8e03955d8676023ae37f8a1fa3dae7a6e09103dd55fbe555881fa89d1d4ea3e9",
-      "size": 1422,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/industrial_pump_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_industrial_pump_controller.json",
-      "sha256": "5c054216d1902cb2ccba53efdd38e5eb8df12d1ef5f06898bd944f5dd1fefe46",
-      "size": 1303,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/precision_assembler_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_precision_assembler_controller.json",
-      "sha256": "624fade5b5277aeea89ac4acd408e1694cb6a20fd9cfa65b6cbdaea1333de4ab",
-      "size": 1181,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/precision_assembler_parallel_4x.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_precision_assembler_parallel_4x.json",
-      "sha256": "c9f5a5f40085fb96fd3b4f2940a62b0bf4a59f761db3d7a5bc78568e4d13b4b3",
-      "size": 1133,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/qiongli_controller_t3.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_qiongli_controller_t3.json",
-      "sha256": "323989a9040c9cbfd4d4d146723f837f631a22e98946fc4012adbd8841e7e3a8",
-      "size": 1105,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/singularity_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_singularity_controller.json",
-      "sha256": "eb20724722f9c1fa152474165e00db8144643ac7d319e77e46ab6528573b72a6",
-      "size": 1209,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/taiyi_matrix.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_taiyi_matrix.json",
-      "sha256": "6742d3756dfd621a453a7ffe148ed4b4a6e9c7a01f252a83dbae6bcb82356c30",
-      "size": 1164,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/thread_hatch_2x.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_thread_hatch_2x.json",
-      "sha256": "8eb4720695be678c0006641b94b6ae1a559e40091d2ac0132328c9b49600d28a",
-      "size": 983,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tianshu_controller_t3.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tianshu_controller_t3.json",
-      "sha256": "697b935314aed986657f4e82df8ee1f7b7859a5c7bc6db93665f5327ea434a1d",
-      "size": 1313,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tier_three/matter_reconstructor_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tier_three_matter_reconstructor_controller.json",
-      "sha256": "e7de1dff64dc0b7c0a03c6eacd7e0614dfff1a2280a7fad0b95e05e6f9818346",
-      "size": 944,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tier_three/warped_polymerizer_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tier_three_warped_polymerizer_controller.json",
-      "sha256": "90100a48275ed0e3938bb0c80c5f09679ce80a893b93a05d48ceeab8d5132b89",
-      "size": 963,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tokamak_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tokamak_controller.json",
-      "sha256": "8777740bd294da592dd9f73d69cf6c7e93dda1bbadefea45a666a539580e4dc5",
-      "size": 1518,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tokamak_magnetic_coil.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tokamak_magnetic_coil.json",
-      "sha256": "561f2e87db0ac2ff84067baaa08bfe83afc0409525897f58789c8da89f875e67",
-      "size": 1085,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_input_port.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_input_port.json",
-      "sha256": "d3928239d51eedf8c84719bcc6d090e1d4bd8fd9161fce91177f6d6aa6fb0172",
-      "size": 891,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_input_port_batch.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_input_port_batch.json",
-      "sha256": "8235af61db2eca666e85ed171acd78050942f42b979d5c6f1714ef2293664a94",
-      "size": 1115,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_input_port_without_essentia.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_input_port_without_essentia.json",
-      "sha256": "dae60828a3e5b7af933d6b60ae991184d013f7417c90cce98ce17b8f4ccabb70",
-      "size": 939,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_output_port.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_output_port.json",
-      "sha256": "f2f7c08902a0efe4a497f4ad15f7553499bddf45c5e1d123da8e9e421704bb8e",
-      "size": 895,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_output_port_batch.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_output_port_batch.json",
-      "sha256": "8e235aff08f21797b1ede3758987a3111615c41321fe143f350dae63c30b52f3",
-      "size": 1118,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_me_output_port_without_essentia.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_me_output_port_without_essentia.json",
-      "sha256": "f44816bea521db8a06e1264b027798b1454fae1b8958cad3e3e8d13e73601ad7",
-      "size": 948,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_pattern_provider.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_pattern_provider.json",
-      "sha256": "2a8dea62f31a368024b018d280523b3ec6719421ffe7bd4fdd434e58d76819ab",
-      "size": 892,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_pattern_provider_no_tc_energy.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_pattern_provider_no_tc_energy.json",
-      "sha256": "a505cfbe42a3140043e34d90b5d4a0255884b9bc20e318622dfd0cbf2d7d2437",
-      "size": 948,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/tongxuan_wireless_connector.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_tongxuan_wireless_connector.json",
-      "sha256": "885f78c6564ec1d345926f116c2d26e2d08aacbef3dd6eceacfeee7139d5970d",
-      "size": 755,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/transcendence_core.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_transcendence_core.json",
-      "sha256": "797bc5a719e4ff998e6b9768fa556aa6a0c5f4c9881e043ac1d205cb5dc60257",
-      "size": 1230,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/transcendence_key.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_transcendence_key.json",
-      "sha256": "ef5de01e1558aa0c76e81fdb7d1e1e27a97425c126f9653ef15a100b8321feca",
-      "size": 1089,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/void_pylon_beacon.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_void_pylon_beacon.json",
-      "sha256": "4944a01da0a5493e2acfe775b0ea0ad0bbfbf21d5658ee66fe95becbc2e3823e",
-      "size": 1723,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/yaoguang_controller.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_yaoguang_controller.json",
-      "sha256": "bb0e697084c4b9886cac4b79b1c14ac22ef87c1aea5bdce1c2f85e272fbc1fd1",
-      "size": 1189,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/zmod/recipes/yuheng_controller_t3.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_data_zmod_recipes_yuheng_controller_t3.json",
-      "sha256": "aff2efce916fe67e78b23edcd37fa21b07aa6c33b4c6925ab8702bc681e78319",
-      "size": 1309,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/other_decoration/wheat_grain_bin.nbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_other_decoration_wheat_grain_bin.nbt",
-      "sha256": "cc2f6f86061b064a891c29f0af77740d8943a1f04018a64ae8b9084a81cf4d78",
-      "size": 2978,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/other_decoration/wooden_wheat_farm.nbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_other_decoration_wooden_wheat_farm.nbt",
-      "sha256": "5d603548368802b7f6b01247a7bf8f9393f06bb06a4c4f23fca6087683c2c07e",
-      "size": 5433,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/mvs/structures/houses/large_warped_tower.nbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_mvs_structures_houses_large_warped_tower.nbt",
-      "sha256": "c5c067885007754effe7f3c70969c27a72a25c2fb83934457632d62efb4b136b",
-      "size": 90754,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/industry/gtTiangongProgression.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_industry_gtTiangongProgression.js",
-      "sha256": "10a06606ccfb03f922ac557ff0364e86b87e94f9233683c6d70193ceaf318a8f",
-      "size": 25234,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/tc/tcCataclysm.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_server_scripts_tc_tcCataclysm.js",
-      "sha256": "cea12b9c021174686f4f13141286322a6a829c0b818345ca755eecda8e9f06f1",
-      "size": 2667,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/registration/registerIndustryCores.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261108-industry-balance-2/versions_Society.Sunlit.Valley_kubejs_startup_scripts_registration_registerIndustryCores.js",
-      "sha256": "58ece9618c865393455bf09eb959bc91cf14327fee9a6c98aad5cbc75b055ff2",
-      "size": 7001,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/cataclysmancy.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_cataclysmancy.snbt",
-      "sha256": "3d2e4bab143422bf38aab6c6468329a144db90e090196917df13b3a190748c15",
-      "size": 11028,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtnn_industry.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtnn_industry.snbt",
-      "sha256": "e25af3db9ce1ef100b54207b82b7fec0d83a93427f2df723e7540ed44b5cac36",
-      "size": 30552,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtca_industry.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtca_industry.snbt",
-      "sha256": "c6dac76e8cc97e8d890341dd41dedf0a5d093b71e03c7d77e4ab67d0a510f5e4",
-      "size": 16377,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/gtca_space.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_gtca_space.snbt",
-      "sha256": "e13ef6a670d79623eed64aca6fd2daceaab5b6d4f5ef22ff27e4b3bf44974ee2",
-      "size": 18110,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/gtcaOrbitalAssembly.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_gtcaOrbitalAssembly.js",
-      "sha256": "97068407578eebd0f166c3146d28f81a3d082afbb2a407a18e07086a71039320",
-      "size": 1889,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gcyr/gtcaLinks.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gcyr_gtcaLinks.js",
-      "sha256": "8de7e999f8d75a23e43885011fb3d837ee6659eaed7dc7381cb1440bf36d43fd",
-      "size": 2431,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/industry/voidMekaSuitAssembly.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_industry_voidMekaSuitAssembly.js",
-      "sha256": "a59402a94d3032a4558cf60d05f1e2f78199f4d4bcd05e22be6b36af334fe2ae",
-      "size": 4680,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtnn_industry_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtnn_industry_chapter.py",
-      "sha256": "7215b212e2fb13c6aa4cb197b044a985e77bac7daafc58c0dbc60a687a37ea14",
-      "size": 23340,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtca_industry_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtca_industry_chapter.py",
-      "sha256": "d39358887a56113dedd513917f6aa5a49471916af990dc823d8b49981deb4e02",
-      "size": 11793,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_gtca_space_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_gtca_space_chapter.py",
-      "sha256": "e1749454a02b83e57a9be9f0ee1d79e58a10a1492fa0773ba62872d0c649994a",
-      "size": 12688,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtnn_industry_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtnn_industry_ids.json",
-      "sha256": "fe412150a8aeb50bd02cf6725d4d6d10d0b1b2feabfada5320ce1655d1b77221",
-      "size": 5069,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtca_industry_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtca_industry_ids.json",
-      "sha256": "4ee2981add0887454ff32f8fb7f430746ec39b844210f8731115abdd923b4f49",
-      "size": 2902,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/gtca_space_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_tools_gtca_space_ids.json",
-      "sha256": "f7369676de87d14dcd8ee48ef61b378b395eee147d04359bd5d91d5787396f81",
-      "size": 3426,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/build_cataclysmancy_chapter.py",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_tools_build_cataclysmancy_chapter.py",
-      "sha256": "6746b524a4c164cd3b8596de40ac8aee14d396074a5f2ae5b8ddab9ce285ff28",
-      "size": 14053,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/tools/cataclysmancy_ids.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_config_ftbquests_tools_cataclysmancy_ids.json",
-      "sha256": "29a2f1437879a4b3caca6452849e07dfeda2a9f640f48d9674f07467253a2dc1",
-      "size": 2663,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/assets/society/textures/quests/cataclysm/cataclysm_temple.png",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261109-cataclysmancy/versions_Society.Sunlit.Valley_kubejs_assets_society_textures_quests_cataclysm_cataclysm_temple.png",
-      "sha256": "60b465eaef4a6d9ac9042ff578bcb3a51c00c8a7b8c72c19b247dd6d188fa15b",
-      "size": 2171991,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261110-tc59addons/versions_Society.Sunlit.Valley_mods_.59.ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
-      "sha256": "64b93ffe879b278f2e03c38fc18186b92d5cc68e0c501743695a0ded952511d0",
-      "size": 4278157,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/phase4-20261110-tc59addons/versions_Society.Sunlit.Valley_mods_.59.Thaumic.Additions-1.20.1-0.1.1.jar",
-      "sha256": "dce4bf6305f03df98b194d22d1add345365ea7c4871bb57c921964b23bbf2388",
-      "size": 4991367,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/gtca-1.20.1-2.3.0.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_gtca-1.20.1-2.3.0.jar",
-      "sha256": "7ce1fc7e466b774fb78b66cd7a0fa07ab30d6ce2f067bf2e5dfcb23367609970",
-      "size": 3493101,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.8.1.jar",
-      "sha256": "13d9aed5a54c6058c5c6071f336f77d79132e917c0acd773b139cad8b7434626",
-      "size": 864493,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/tfHvOreVeins.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_tfHvOreVeins.js",
-      "sha256": "9c5e938a06858b0e7dc69221cc5ceefd439e49f36c53c331a70ff2aa3ca4553e",
-      "size": 2680,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/alfheimOreVeins.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_alfheimOreVeins.js",
-      "sha256": "063194fe7ebfe87c642e67ba461078663c4177f0c26d923164e0b2d6156ce1e2",
-      "size": 1560,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/meOreVeins.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_meOreVeins.js",
-      "sha256": "4d5acb9ecf60f6605e92c43dc0e4307ba78c831efd6f61ac6e5039f6092a3c80",
-      "size": 1478,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/startup_scripts/gt/worldGenLayers.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_startup_scripts_gt_worldGenLayers.js",
-      "sha256": "79f893443aa9e5f2da157ac10290559f57e51cee75163e3e917329308c4a8143",
-      "size": 1677,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/kubejs/tags/blocks/me_stone.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_kubejs_tags_blocks_me_stone.json",
-      "sha256": "34c9810a8164b3bb50d174f5a1d56d7e78aa71380fdc42588a4c41ca991850f1",
-      "size": 773,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/blackstone_caves.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_blackstone_caves.json",
-      "sha256": "60fa7dee7d55c3983a12808fc306a0ee9096d1740cd92fb77d8a91532402e15b",
-      "size": 2939,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/desert_caves.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_desert_caves.json",
-      "sha256": "8bcff7d030789bbde67ba8a1b717f407c688f770e3d176ad8877e98109cb7817",
-      "size": 2521,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/desert_fault.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_desert_fault.json",
-      "sha256": "1c4254a5067f31dfc595440f8a058b4c336ec1d210079b6d620af08e48278661",
-      "size": 3033,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/frozen_caves.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_frozen_caves.json",
-      "sha256": "a463910c941f6a3e3e2046d858b120a9e2fae753fd40909b5529ec752615a929",
-      "size": 3028,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/frozen_maelstrom.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_frozen_maelstrom.json",
-      "sha256": "1683ca0a5ce96d3582461b94fc41b681add2ffefe93ac258b574c978210876b1",
-      "size": 3062,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/lush_caverns.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_lush_caverns.json",
-      "sha256": "8c30a9e0149f566def5e90e343f5bf7ac7e3bdc3fdf439a9061669122b0a6870",
-      "size": 3401,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/skull_caves.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_skull_caves.json",
-      "sha256": "b017860157a2e1287ccac6d77e00e72a05fd6f48c1309a20518da3c1270747cb",
-      "size": 2440,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/data/society/worldgen/biome/umbra_barrens.json",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_data_society_worldgen_biome_umbra_barrens.json",
-      "sha256": "7fcdd3e002fc9da490dcabee1bdc6c9468091d02c8d0672dd64e6c20bcc307e4",
-      "size": 2106,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/hv__high_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_hv__high_voltage.snbt",
-      "sha256": "6c83b57e7f8b980c9afb1e1c628f1cb62a1f2743ddbd7ff52617a60a2f816609",
-      "size": 44512,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/config/ftbquests/quests/chapters/iv__insane_voltage.snbt",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_config_ftbquests_quests_chapters_iv__insane_voltage.snbt",
-      "sha256": "6caa9342ecf38424b4b7d8ae97bbf630b98a20723365ebca40c116d53987333d",
-      "size": 31833,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/depthOreVeins.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_depthOreVeins.js",
-      "sha256": "ff0b94061da75f1e331568ab92523b20aa6e0ad00e0dcfb54b518c6d9db39e89",
-      "size": 3026,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/oreVeins.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_oreVeins.js",
-      "sha256": "5dba269e0e37cfcfb19db9eb2f9274b8be279facad4fedc369b34fd2c17edc30",
-      "size": 14328,
-      "side": "both"
-    },
-    {
-      "path": "versions/Society Sunlit Valley/kubejs/server_scripts/gt/skullOreCompat.js",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_kubejs_server_scripts_gt_skullOreCompat.js",
-      "sha256": "394b7d1fcbfed5ac2bd4147d4d2b2687c74bcaebb05c7ba50a084153dd707b03",
-      "size": 2129,
       "side": "both"
     }
   ]
