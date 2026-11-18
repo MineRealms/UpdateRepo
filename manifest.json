@@ -1,5 +1,5 @@
 {
-  "version": "20261118-0028",
+  "version": "20261118-1108",
   "name": "",
   "changelog": "",
   "ignore": [
@@ -2511,8 +2511,8 @@
     {
       "path": "versions/Society Sunlit Valley/mods/(72+)秽玄天工-forge-1.20.1-1.40.03-all.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_.72.-forge-1.20.1-1.40.03-all.jar",
-      "sha256": "3032ce7e758c20b5305a79b7a5eec539eb2be2b7d5c18366c564aea9d1b041b0",
-      "size": 43273274,
+      "sha256": "c63b96e2368cf7dc5de48d446cea08bd15aacca3a7bcd850a443c4dfa10d4772",
+      "size": 43273279,
       "side": "both"
     },
     {
