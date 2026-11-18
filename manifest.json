@@ -1,5 +1,5 @@
 {
-  "version": "20261118-1108",
+  "version": "20261118-1328",
   "name": "",
   "changelog": "",
   "ignore": [
@@ -153,7 +153,8 @@
     "versions/Society Sunlit Valley/mods/(59+)神秘视界 ThaumicHorizons-1.20.1-1.0.14-alpha.jar",
     "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.1.jar",
     "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar",
-    "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar"
+    "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar",
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.2.jar"
   ],
   "files": [
     {
@@ -5085,10 +5086,10 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.2.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.8.2.jar",
-      "sha256": "07460d15fb0906b067925e47fd8ff6fe85a7ebe84e6fd705f04162159572a2e8",
-      "size": 881710,
+      "path": "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.3.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_sunlit-industry-compat-1.20.1-0.8.3.jar",
+      "sha256": "98d28ae004b22e16dd192cc02fe13b68e9f877bb27f602dcbfefd606d12c3d76",
+      "size": 891883,
       "side": "both"
     },
     {
