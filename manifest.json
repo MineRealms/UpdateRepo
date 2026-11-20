@@ -1,6 +1,6 @@
 {
-  "version": "20261118-1339",
-  "name": "",
+  "version": "20261120-2235",
+  "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
     "versions/Society Sunlit Valley/manifest.json",
@@ -154,7 +154,8 @@
     "versions/Society Sunlit Valley/mods/(59+)神秘领域 Thaumic Additions-1.20.1-0.1.1.jar",
     "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.1.jar",
     "versions/Society Sunlit Valley/mods/zmod-forge-1.20.1-1.40.03-all.jar",
-    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.2.jar"
+    "versions/Society Sunlit Valley/mods/sunlit-industry-compat-1.20.1-0.8.2.jar",
+    "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.40-forge-alpha-20746.jar"
   ],
   "files": [
     {
@@ -5191,13 +5192,6 @@
       "side": "both"
     },
     {
-      "path": "versions/Society Sunlit Valley/mods/thaumicenergistics-2.3.40-forge-alpha-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_thaumicenergistics-2.3.40-forge-alpha-20746.jar",
-      "sha256": "28022e1ffb03b57cc2248ad12c23b074ded389e2f05df978082851114259b158",
-      "size": 1772928,
-      "side": "both"
-    },
-    {
       "path": "versions/Society Sunlit Valley/mods/Tips-Forge-1.20.1-12.1.9.jar",
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_Tips-Forge-1.20.1-12.1.9.jar",
       "sha256": "f7021a7b68ac563210ff9e8fa33cf3b1828fa55f2dae5c769f48b1cb8feb7e80",
@@ -5447,6 +5441,13 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
+      "side": "both"
+    },
+    {
+      "path": "_backup/manifest-delete-20261120/thaumicenergistics-2.3.40-forge-alpha-20746.jar",
+      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/_backup_manifest-delete-20261120_thaumicenergistics-2.3.40-forge-alpha-20746.jar",
+      "sha256": "28022e1ffb03b57cc2248ad12c23b074ded389e2f05df978082851114259b158",
+      "size": 1772928,
       "side": "both"
     }
   ]
