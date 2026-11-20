@@ -1,5 +1,5 @@
 {
-  "version": "20261120-2235",
+  "version": "20261120-2236",
   "name": "Society Sunlit Valley",
   "changelog": "",
   "ignore": [
@@ -5441,13 +5441,6 @@
       "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/versions_Society.Sunlit.Valley_mods_zetter-1.20.1-0.21.7.jar",
       "sha256": "5c165ba4b9d4dfde556b8303df2a141e120a8fce8e48a227b28dc695dfb1ed61",
       "size": 1343037,
-      "side": "both"
-    },
-    {
-      "path": "_backup/manifest-delete-20261120/thaumicenergistics-2.3.40-forge-alpha-20746.jar",
-      "url": "https://github.com/MineRealms/UpdateRepo/releases/download/latest/_backup_manifest-delete-20261120_thaumicenergistics-2.3.40-forge-alpha-20746.jar",
-      "sha256": "28022e1ffb03b57cc2248ad12c23b074ded389e2f05df978082851114259b158",
-      "size": 1772928,
       "side": "both"
     }
   ]
